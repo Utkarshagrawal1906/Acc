@@ -2259,6 +2259,30 @@
       "type": "cre"
     },
     {
+      "nat": 6750,
+      "ITEM": "rice basmati",
+      "DATE": "2025-03-12",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": 90,
+      "RATE": 75,
+      "GP": "rice",
+      "S_NO": "BS 126",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 12000,
+      "ITEM": "rice dubar",
+      "DATE": "2025-03-12",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": 240,
+      "RATE": 50,
+      "GP": "rice",
+      "S_NO": "BS 126",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
       "nat": 6000,
       "ITEM": "chana kabuli",
       "DATE": "2023-05-13",
@@ -17605,6 +17629,18 @@
       "S_NO": "TI 88",
       "tax": 5,
       "type": "cre"
+    },
+    {
+      "nat": 44486.4,
+      "ITEM": "refind soya oil",
+      "DATE": "2025-03-15",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": 320,
+      "RATE": 132.4,
+      "GP": "oil",
+      "S_NO": "TI 92",
+      "tax": 5,
+      "type": "cre"
     }
   ],
   "state_bank_of_india": [
@@ -19055,6 +19091,30 @@
       "S_NO": "BS 12",
       "tax": 0,
       "type": "cre"
+    },
+    {
+      "nat": 6000,
+      "ITEM": "chana kabuli",
+      "DATE": "2025-03-10",
+      "GSTIN": "09BSOPG1516J3ZJ",
+      "QT": 50,
+      "RATE": 120,
+      "GP": "dal",
+      "S_NO": "BS 125",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": 3100,
+      "ITEM": "rajma",
+      "DATE": "2025-03-10",
+      "GSTIN": "09BSOPG1516J3ZJ",
+      "QT": 25,
+      "RATE": 124,
+      "GP": "dal",
+      "S_NO": "BS 125",
+      "tax": 0,
+      "type": "cash"
     },
     {
       "nat": 2100,
@@ -24965,6 +25025,78 @@
       "type": "cash"
     },
     {
+      "nat": 4123,
+      "ITEM": "chana kabuli",
+      "DATE": "2025-03-07",
+      "GSTIN": " ",
+      "QT": 35,
+      "RATE": 117.8,
+      "GP": "dal",
+      "S_NO": "BS 123",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": 4150.08,
+      "ITEM": "arhar dal",
+      "DATE": "2025-03-08",
+      "GSTIN": " ",
+      "QT": 33,
+      "RATE": 125.76,
+      "GP": "dal",
+      "S_NO": "BS 124",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": 950,
+      "ITEM": "MAIDA",
+      "DATE": "2025-03-08",
+      "GSTIN": " ",
+      "QT": 25,
+      "RATE": 38,
+      "GP": "atta_maida",
+      "S_NO": "BS 124",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": 6000,
+      "ITEM": "rice tibar",
+      "DATE": "2025-03-08",
+      "GSTIN": " ",
+      "QT": 100,
+      "RATE": 60,
+      "GP": "rice",
+      "S_NO": "BS 124",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": 7950,
+      "ITEM": "arhar dal",
+      "DATE": "2025-03-13",
+      "GSTIN": " ",
+      "QT": 60,
+      "RATE": 132.5,
+      "GP": "dal",
+      "S_NO": "BS 127",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": 5600,
+      "ITEM": "dal urad",
+      "DATE": "2025-03-13",
+      "GSTIN": " ",
+      "QT": 44.8,
+      "RATE": 125,
+      "GP": "dal",
+      "S_NO": "BS 127",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
       "nat": 510,
       "ITEM": "dal moong",
       "DATE": "2020-05-17",
@@ -29139,6 +29271,30 @@
       "S_NO": "TI 87",
       "tax": 5,
       "type": "cash"
+    },
+    {
+      "nat": 1883.7,
+      "ITEM": "pav bhaji masala",
+      "DATE": "2025-03-03",
+      "GSTIN": " ",
+      "QT": 26,
+      "RATE": 69,
+      "GP": "masale",
+      "S_NO": "TI 89",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": 1260,
+      "ITEM": "samber masala",
+      "DATE": "2025-03-07",
+      "GSTIN": " ",
+      "QT": 20,
+      "RATE": 60,
+      "GP": "masale",
+      "S_NO": "TI 91",
+      "tax": 5,
+      "type": "cash"
     }
   ],
   "pick_n_pay_store": [
@@ -30399,6 +30555,66 @@
       "RATE": 130,
       "GP": "dal",
       "S_NO": "BS 10",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 3840,
+      "ITEM": "arhar dal",
+      "DATE": "2025-03-05",
+      "GSTIN": "09AACTG1470C1Z1",
+      "QT": 30,
+      "RATE": 128,
+      "GP": "dal",
+      "S_NO": "BS 122",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 680,
+      "ITEM": "dal urad",
+      "DATE": "2025-03-05",
+      "GSTIN": "09AACTG1470C1Z1",
+      "QT": 5,
+      "RATE": 136,
+      "GP": "dal",
+      "S_NO": "BS 122",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 720,
+      "ITEM": "dal urad dhuli",
+      "DATE": "2025-03-05",
+      "GSTIN": "09AACTG1470C1Z1",
+      "QT": 5,
+      "RATE": 144,
+      "GP": "dal",
+      "S_NO": "BS 122",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 560,
+      "ITEM": "moong dhuli",
+      "DATE": "2025-03-05",
+      "GSTIN": "09AACTG1470C1Z1",
+      "QT": 5,
+      "RATE": 112,
+      "GP": "dal",
+      "S_NO": "BS 122",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 670,
+      "ITEM": "rajma",
+      "DATE": "2025-03-05",
+      "GSTIN": "09AACTG1470C1Z1",
+      "QT": 5,
+      "RATE": 134,
+      "GP": "dal",
+      "S_NO": "BS 122",
       "tax": 0,
       "type": "cre"
     },
@@ -43011,6 +43227,114 @@
       "RATE": 67,
       "GP": "masale",
       "S_NO": "TI 71",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 729.96,
+      "ITEM": "chat massala 0910",
+      "DATE": "2025-03-05",
+      "GSTIN": "09AACTG1470C1Z1",
+      "QT": 10,
+      "RATE": 69.52,
+      "GP": "masale",
+      "S_NO": "TI 90",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 920.01,
+      "ITEM": "deggi mirch 0904",
+      "DATE": "2025-03-05",
+      "GSTIN": "09AACTG1470C1Z1",
+      "QT": 10,
+      "RATE": 87.62,
+      "GP": "masale",
+      "S_NO": "TI 90",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 910.04,
+      "ITEM": "garam masala",
+      "DATE": "2025-03-05",
+      "GSTIN": "09AACTG1470C1Z1",
+      "QT": 10,
+      "RATE": 86.67,
+      "GP": "masale",
+      "S_NO": "TI 90",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 456.06,
+      "ITEM": "pav bhaji masala",
+      "DATE": "2025-03-05",
+      "GSTIN": "09AACTG1470C1Z1",
+      "QT": 6,
+      "RATE": 72.39,
+      "GP": "masale",
+      "S_NO": "TI 90",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 2041.2,
+      "ITEM": "rice mongra branded",
+      "DATE": "2025-03-05",
+      "GSTIN": "09AACTG1470C1Z1",
+      "QT": 30,
+      "RATE": 64.8,
+      "GP": "rice",
+      "S_NO": "TI 90",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 3280.2,
+      "ITEM": "rice rozana branded",
+      "DATE": "2025-03-05",
+      "GSTIN": "09AACTG1470C1Z1",
+      "QT": 40,
+      "RATE": 78.1,
+      "GP": "rice",
+      "S_NO": "TI 90",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 6040.02,
+      "ITEM": "rice super branded",
+      "DATE": "2025-03-05",
+      "GSTIN": "09AACTG1470C1Z1",
+      "QT": 40,
+      "RATE": 143.81,
+      "GP": "rice",
+      "S_NO": "TI 90",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 426.32,
+      "ITEM": "samber masala",
+      "DATE": "2025-03-05",
+      "GSTIN": "09AACTG1470C1Z1",
+      "QT": 6,
+      "RATE": 67.67,
+      "GP": "masale",
+      "S_NO": "TI 90",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 6660.68,
+      "ITEM": "sugar",
+      "DATE": "2025-03-05",
+      "GSTIN": "09AACTG1470C1Z1",
+      "QT": 150,
+      "RATE": 42.29,
+      "GP": "sugar_boora",
+      "S_NO": "TI 90",
       "tax": 5,
       "type": "cre"
     },
