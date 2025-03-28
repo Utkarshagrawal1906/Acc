@@ -462,9 +462,9 @@
     },
     {
       "unit": "PKT",
-      "amount": 8978.63,
+      "amount": 3697.08,
       "hsn": "0904",
-      "quantity": 102,
+      "quantity": 42,
       "rate": 88.0258,
       "name": "deggi mirch 0904",
       "TAX": 5
@@ -498,9 +498,9 @@
     },
     {
       "unit": "PKT",
-      "amount": 7713.03,
+      "amount": 3723.53,
       "hsn": "0910",
-      "quantity": 116,
+      "quantity": 56,
       "rate": 66.4917,
       "name": "pav bhaji masala",
       "TAX": 5
@@ -642,9 +642,9 @@
     },
     {
       "unit": "PKT",
-      "amount": 7347.87,
+      "amount": 5379.69,
       "hsn": "0910",
-      "quantity": 112,
+      "quantity": 82,
       "rate": 65.606,
       "name": "chana masala",
       "TAX": 5
@@ -660,9 +660,9 @@
     },
     {
       "unit": "PKT",
-      "amount": 7714.67,
+      "amount": 3506.67,
       "hsn": "0910",
-      "quantity": 110,
+      "quantity": 50,
       "rate": 70.1334,
       "name": "kitchen king",
       "TAX": 5
@@ -678,9 +678,9 @@
     },
     {
       "unit": "PKT",
-      "amount": 4693.34,
+      "amount": 2422.37,
       "hsn": "0910",
-      "quantity": 62,
+      "quantity": 32,
       "rate": 75.699,
       "name": "Chicken Masala",
       "TAX": 5
@@ -772,9 +772,9 @@
     },
     {
       "unit": "KG",
-      "amount": 12336,
+      "amount": 9828.71,
       "hsn": "1006",
-      "quantity": 123,
+      "quantity": 98,
       "rate": 100.293,
       "name": "basmati branded",
       "TAX": 5
@@ -927,9 +927,9 @@
     },
     {
       "unit": "KG",
-      "amount": 16482,
+      "amount": 3718.17,
       "hsn": "0713",
-      "quantity": 148.5,
+      "quantity": 33.5,
       "rate": 110.99,
       "name": "chana kabuli",
       "TAX": 0
@@ -954,9 +954,9 @@
     },
     {
       "unit": "KG",
-      "amount": 15536.2,
+      "amount": 8980.86,
       "hsn": "0713",
-      "quantity": 142.2,
+      "quantity": 82.2,
       "rate": 109.256,
       "name": "dal urad",
       "TAX": 0
@@ -1071,9 +1071,9 @@
     },
     {
       "unit": "KG",
-      "amount": 11124.2,
+      "amount": 9092.4,
       "hsn": "0713",
-      "quantity": 109.5,
+      "quantity": 89.5,
       "rate": 101.591,
       "name": "moong dhuli",
       "TAX": 0
