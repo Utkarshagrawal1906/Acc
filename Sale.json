@@ -2283,6 +2283,42 @@
       "type": "cre"
     },
     {
+      "nat": 7500,
+      "ITEM": "chana kabuli",
+      "DATE": "2025-03-19",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": 60,
+      "RATE": 125,
+      "GP": "dal",
+      "S_NO": "BS 129",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 7440,
+      "ITEM": "dal urad",
+      "DATE": "2025-03-19",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": 60,
+      "RATE": 124,
+      "GP": "dal",
+      "S_NO": "BS 129",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 2500,
+      "ITEM": "moong dhuli",
+      "DATE": "2025-03-19",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": 20,
+      "RATE": 125,
+      "GP": "dal",
+      "S_NO": "BS 129",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
       "nat": 6000,
       "ITEM": "chana kabuli",
       "DATE": "2023-05-13",
@@ -17641,6 +17677,66 @@
       "S_NO": "TI 92",
       "tax": 5,
       "type": "cre"
+    },
+    {
+      "nat": 2110.5,
+      "ITEM": "chana masala",
+      "DATE": "2025-03-20",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": 30,
+      "RATE": 67,
+      "GP": "masale",
+      "S_NO": "TI 94",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 2425.5,
+      "ITEM": "Chicken Masala",
+      "DATE": "2025-03-20",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": 30,
+      "RATE": 77,
+      "GP": "masale",
+      "S_NO": "TI 94",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 5607,
+      "ITEM": "deggi mirch 0904",
+      "DATE": "2025-03-20",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": 60,
+      "RATE": 89,
+      "GP": "masale",
+      "S_NO": "TI 94",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 4536,
+      "ITEM": "kitchen king",
+      "DATE": "2025-03-20",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": 60,
+      "RATE": 72,
+      "GP": "masale",
+      "S_NO": "TI 94",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 4284,
+      "ITEM": "pav bhaji masala",
+      "DATE": "2025-03-20",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": 60,
+      "RATE": 68,
+      "GP": "masale",
+      "S_NO": "TI 94",
+      "tax": 5,
+      "type": "cre"
     }
   ],
   "state_bank_of_india": [
@@ -25097,6 +25193,18 @@
       "type": "cash"
     },
     {
+      "nat": 6600,
+      "ITEM": "chana kabuli",
+      "DATE": "2025-03-19",
+      "GSTIN": " ",
+      "QT": 55,
+      "RATE": 120,
+      "GP": "dal",
+      "S_NO": "BS 128",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
       "nat": 510,
       "ITEM": "dal moong",
       "DATE": "2020-05-17",
@@ -29295,6 +29403,18 @@
       "S_NO": "TI 91",
       "tax": 5,
       "type": "cash"
+    },
+    {
+      "nat": 2677.5,
+      "ITEM": "basmati branded",
+      "DATE": "2025-03-17",
+      "GSTIN": " ",
+      "QT": 25,
+      "RATE": 102,
+      "GP": "rice",
+      "S_NO": "TI 93",
+      "tax": 5,
+      "type": "cre"
     }
   ],
   "pick_n_pay_store": [
