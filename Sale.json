@@ -2427,6 +2427,30 @@
       "type": "cre"
     },
     {
+      "nat": 15200,
+      "ITEM": "atta",
+      "DATE": "2025-03-27",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": 400,
+      "RATE": 38,
+      "GP": "atta_maida",
+      "S_NO": "BS 132",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 6784,
+      "ITEM": "MAIDA",
+      "DATE": "2025-03-27",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": 160,
+      "RATE": 42.4,
+      "GP": "atta_maida",
+      "S_NO": "BS 132",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
       "nat": 7500,
       "ITEM": "MAIDA",
       "DATE": "2024-05-16",
@@ -25225,6 +25249,54 @@
       "RATE": 100,
       "GP": "dal",
       "S_NO": "BS 13",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": 4200,
+      "ITEM": "MAIDA",
+      "DATE": "2025-03-23",
+      "GSTIN": " ",
+      "QT": 100,
+      "RATE": 42,
+      "GP": "atta_maida",
+      "S_NO": "BS 130",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": 6600,
+      "ITEM": "atta",
+      "DATE": "2025-03-27",
+      "GSTIN": " ",
+      "QT": 165,
+      "RATE": 40,
+      "GP": "atta_maida",
+      "S_NO": "BS 131",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": 3735,
+      "ITEM": "dal chana",
+      "DATE": "2025-03-28",
+      "GSTIN": " ",
+      "QT": 45,
+      "RATE": 83,
+      "GP": "dal",
+      "S_NO": "BS 133",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": 3150,
+      "ITEM": "rice tibar",
+      "DATE": "2025-03-30",
+      "GSTIN": " ",
+      "QT": 45,
+      "RATE": 70,
+      "GP": "rice",
+      "S_NO": "BS 134",
       "tax": 0,
       "type": "cash"
     },
