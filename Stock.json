@@ -343,10 +343,10 @@
   "atta_maida": [
     {
       "unit": "KG",
-      "amount": 7749.65,
+      "amount": 5532.91,
       "hsn": "1101",
-      "quantity": 226,
-      "rate": 34.2905,
+      "quantity": 161,
+      "rate": 34.3659,
       "name": "atta",
       "TAX": 0
     },
@@ -388,10 +388,10 @@
     },
     {
       "unit": "KG",
-      "amount": 3165.91,
+      "amount": 12484.6,
       "hsn": "1101",
-      "quantity": 88.5,
-      "rate": 35.773,
+      "quantity": 328.5,
+      "rate": 38.0049,
       "name": "MAIDA",
       "TAX": 0
     },
@@ -743,10 +743,10 @@
     },
     {
       "unit": "KG",
-      "amount": 3032.24,
+      "amount": 23632.2,
       "hsn": "1701",
-      "quantity": 75.2,
-      "rate": 40.3224,
+      "quantity": 575.2,
+      "rate": 41.0853,
       "name": "sugar",
       "TAX": 5
     }
@@ -835,9 +835,9 @@
     },
     {
       "unit": "KG",
-      "amount": 13789,
+      "amount": 11091.1,
       "hsn": "1006",
-      "quantity": 230,
+      "quantity": 185,
       "rate": 59.9522,
       "name": "rice tibar",
       "TAX": 0
@@ -900,9 +900,9 @@
   "dal": [
     {
       "unit": "KG",
-      "amount": 8823.3,
+      "amount": 5646.91,
       "hsn": "0713",
-      "quantity": 125,
+      "quantity": 80,
       "rate": 70.5864,
       "name": "dal chana",
       "TAX": 0
