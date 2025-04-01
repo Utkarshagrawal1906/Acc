@@ -14146,6 +14146,18 @@
       "type": "deb"
     },
     {
+      "nat": 21630,
+      "ITEM": "sugar",
+      "DATE": "2025-03-22",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": 500,
+      "RATE": 41.2,
+      "GP": "sugar_boora",
+      "S_NO": "5704",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
       "nat": 25050,
       "ITEM": "atta",
       "DATE": "2025-02-20",
@@ -14226,6 +14238,30 @@
       "RATE": 33,
       "GP": "atta_maida",
       "S_NO": "610",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": 17200,
+      "ITEM": "atta",
+      "DATE": "2025-03-05",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": 500,
+      "RATE": 34.4,
+      "GP": "atta_maida",
+      "S_NO": "622",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": 19200,
+      "ITEM": "MAIDA",
+      "DATE": "2025-03-05",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": 500,
+      "RATE": 38.4,
+      "GP": "atta_maida",
+      "S_NO": "622",
       "tax": 0,
       "type": "deb"
     },
