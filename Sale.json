@@ -1045,6 +1045,260 @@
       "type": "cre"
     }
   ],
+  "m_l_enterprises": [
+    {
+      "nat": 0,
+      "ITEM": "",
+      "DATE": "2025-04-11",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "Qt": 0,
+      "RATE": 0,
+      "GP": "",
+      "S_NO": "-1",
+      "tax": 0,
+      "type": ""
+    },
+    {
+      "nat": 7200,
+      "ITEM": "arhar dal",
+      "DATE": "2025-04-05",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "Qt": 60,
+      "RATE": 120,
+      "GP": "dal",
+      "S_NO": "BS 04",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 5700,
+      "ITEM": "atta",
+      "DATE": "2025-04-05",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "Qt": 150,
+      "RATE": 38,
+      "GP": "atta_maida",
+      "S_NO": "BS 04",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 2850,
+      "ITEM": "besan",
+      "DATE": "2025-04-05",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "Qt": 30,
+      "RATE": 95,
+      "GP": "atta_maida",
+      "S_NO": "BS 04",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 3900,
+      "ITEM": "chana kabuli",
+      "DATE": "2025-04-05",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "Qt": 30,
+      "RATE": 130,
+      "GP": "dal",
+      "S_NO": "BS 04",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 2400,
+      "ITEM": "dal chana",
+      "DATE": "2025-04-05",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "Qt": 30,
+      "RATE": 80,
+      "GP": "dal",
+      "S_NO": "BS 04",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 1320,
+      "ITEM": "dal moong",
+      "DATE": "2025-04-05",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "Qt": 12,
+      "RATE": 110,
+      "GP": "dal",
+      "S_NO": "BS 04",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 3900,
+      "ITEM": "dal urad",
+      "DATE": "2025-04-05",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "Qt": 30,
+      "RATE": 130,
+      "GP": "dal",
+      "S_NO": "BS 04",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 12300,
+      "ITEM": "MAIDA",
+      "DATE": "2025-04-05",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "Qt": 300,
+      "RATE": 41,
+      "GP": "atta_maida",
+      "S_NO": "BS 04",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 3600,
+      "ITEM": "rajma",
+      "DATE": "2025-04-05",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "Qt": 30,
+      "RATE": 120,
+      "GP": "dal",
+      "S_NO": "BS 04",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 4800,
+      "ITEM": "RICE BASMATI SELA",
+      "DATE": "2025-04-05",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "Qt": 60,
+      "RATE": 80,
+      "GP": "rice",
+      "S_NO": "BS 04",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 1900,
+      "ITEM": "sooji",
+      "DATE": "2025-04-05",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "Qt": 50,
+      "RATE": 38,
+      "GP": "atta_maida",
+      "S_NO": "BS 04",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 7500,
+      "ITEM": "arhar dal",
+      "DATE": "2025-04-09",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "Qt": 60,
+      "RATE": 125,
+      "GP": "dal",
+      "S_NO": "BS 08",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 6000,
+      "ITEM": "dal masoor",
+      "DATE": "2025-04-09",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "Qt": 60,
+      "RATE": 100,
+      "GP": "dal",
+      "S_NO": "BS 08",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 4848,
+      "ITEM": "dal urad",
+      "DATE": "2025-04-09",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "Qt": 40,
+      "RATE": 121.2,
+      "GP": "dal",
+      "S_NO": "BS 08",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 9000,
+      "ITEM": "rice common broken",
+      "DATE": "2025-04-09",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "Qt": 150,
+      "RATE": 60,
+      "GP": "rice",
+      "S_NO": "BS 08",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 2814,
+      "ITEM": "chana masala",
+      "DATE": "2025-04-10",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "Qt": 40,
+      "RATE": 67,
+      "GP": "masale",
+      "S_NO": "TI 04",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 1617,
+      "ITEM": "Chicken Masala",
+      "DATE": "2025-04-10",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "Qt": 20,
+      "RATE": 77,
+      "GP": "masale",
+      "S_NO": "TI 04",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 1323,
+      "ITEM": "dahi vada masala",
+      "DATE": "2025-04-10",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "Qt": 20,
+      "RATE": 63,
+      "GP": "masale",
+      "S_NO": "TI 04",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 1785,
+      "ITEM": "pav bhaji masala",
+      "DATE": "2025-04-10",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "Qt": 25,
+      "RATE": 68,
+      "GP": "masale",
+      "S_NO": "TI 04",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 8820,
+      "ITEM": "sugar",
+      "DATE": "2025-04-10",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "Qt": 200,
+      "RATE": 42,
+      "GP": "sugar_boora",
+      "S_NO": "TI 04",
+      "tax": 5,
+      "type": "cre"
+    }
+  ],
   "palm_tree_hotel_and_restaurent": [
     {
       "nat": 0,
@@ -24533,6 +24787,18 @@
       "type": "cash"
     },
     {
+      "nat": 1900,
+      "ITEM": "chana kala 0713",
+      "DATE": "2025-04-02",
+      "GSTIN": " ",
+      "QT": 20,
+      "RATE": 95,
+      "GP": "dal",
+      "S_NO": "BS 01",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
       "nat": 1875,
       "ITEM": "chana a/c",
       "DATE": "2024-04-03",
@@ -24543,6 +24809,18 @@
       "S_NO": "BS 02",
       "tax": 0,
       "type": "cre"
+    },
+    {
+      "nat": 4590,
+      "ITEM": "dal masoor",
+      "DATE": "2025-04-04",
+      "GSTIN": " ",
+      "QT": 45,
+      "RATE": 102,
+      "GP": "dal",
+      "S_NO": "BS 02",
+      "tax": 0,
+      "type": "cash"
     },
     {
       "nat": 1375,
@@ -24581,6 +24859,30 @@
       "type": "cre"
     },
     {
+      "nat": 6375,
+      "ITEM": "rice dubar",
+      "DATE": "2025-04-06",
+      "GSTIN": " ",
+      "QT": 125,
+      "RATE": 51,
+      "GP": "rice",
+      "S_NO": "BS 05",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": 1400,
+      "ITEM": "SALT (NAMAK)",
+      "DATE": "2025-04-07",
+      "GSTIN": " ",
+      "QT": 50,
+      "RATE": 28,
+      "GP": "other",
+      "S_NO": "BS 06",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
       "nat": 960,
       "ITEM": "atta",
       "DATE": "2024-04-26",
@@ -24617,6 +24919,18 @@
       "type": "cre"
     },
     {
+      "nat": 4920,
+      "ITEM": "dal chana",
+      "DATE": "2025-04-08",
+      "GSTIN": " ",
+      "QT": 60,
+      "RATE": 82,
+      "GP": "dal",
+      "S_NO": "BS 07",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
       "nat": 831.6,
       "ITEM": "dal masoor",
       "DATE": "2023-04-19",
@@ -24627,6 +24941,18 @@
       "S_NO": "BS 07",
       "tax": 0,
       "type": "cre"
+    },
+    {
+      "nat": 6720,
+      "ITEM": "dal moong",
+      "DATE": "2025-04-08",
+      "GSTIN": " ",
+      "QT": 60,
+      "RATE": 112,
+      "GP": "dal",
+      "S_NO": "BS 07",
+      "tax": 0,
+      "type": "cash"
     },
     {
       "nat": 1056,
@@ -24713,6 +25039,18 @@
       "type": "cre"
     },
     {
+      "nat": 7000,
+      "ITEM": "chana kabuli",
+      "DATE": "2025-04-13",
+      "GSTIN": " ",
+      "QT": 50,
+      "RATE": 140,
+      "GP": "dal",
+      "S_NO": "BS 09",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
       "nat": 2200,
       "ITEM": "dal masoor",
       "DATE": "2023-04-25",
@@ -24723,6 +25061,18 @@
       "S_NO": "BS 09",
       "tax": 0,
       "type": "cre"
+    },
+    {
+      "nat": 120,
+      "ITEM": "dal urad",
+      "DATE": "2025-04-13",
+      "GSTIN": " ",
+      "QT": 1,
+      "RATE": 120,
+      "GP": "dal",
+      "S_NO": "BS 09",
+      "tax": 0,
+      "type": "cash"
     },
     {
       "nat": 1500,
@@ -24747,6 +25097,18 @@
       "S_NO": "BS 09",
       "tax": 0,
       "type": "cre"
+    },
+    {
+      "nat": 3900,
+      "ITEM": "rajma",
+      "DATE": "2025-04-13",
+      "GSTIN": " ",
+      "QT": 30,
+      "RATE": 130,
+      "GP": "dal",
+      "S_NO": "BS 09",
+      "tax": 0,
+      "type": "cash"
     },
     {
       "nat": 1284.01,
@@ -27977,6 +28339,18 @@
       "type": "cre"
     },
     {
+      "nat": 2750.48,
+      "ITEM": "sugar",
+      "DATE": "2025-04-03",
+      "GSTIN": " ",
+      "QT": 62,
+      "RATE": 42.25,
+      "GP": "sugar_boora",
+      "S_NO": "TI 01",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
       "nat": 12012,
       "ITEM": "rice super branded",
       "DATE": "2022-04-10",
@@ -27987,6 +28361,18 @@
       "S_NO": "TI 03",
       "tax": 5,
       "type": "cre"
+    },
+    {
+      "nat": 1020.34,
+      "ITEM": "sugar",
+      "DATE": "2025-04-07",
+      "GSTIN": " ",
+      "QT": 23,
+      "RATE": 42.25,
+      "GP": "sugar_boora",
+      "S_NO": "TI 03",
+      "tax": 5,
+      "type": "cash"
     },
     {
       "nat": 703.5,
@@ -30327,6 +30713,42 @@
       "RATE": 116,
       "GP": "dal",
       "S_NO": "BS 01",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 3900,
+      "ITEM": "arhar dal",
+      "DATE": "2025-04-04",
+      "GSTIN": "09AACTG1470C1Z1",
+      "QT": 30,
+      "RATE": 130,
+      "GP": "dal",
+      "S_NO": "BS 03",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 430,
+      "ITEM": "masoor",
+      "DATE": "2025-04-04",
+      "GSTIN": "09AACTG1470C1Z1",
+      "QT": 5,
+      "RATE": 86,
+      "GP": "dal",
+      "S_NO": "BS 03",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 570,
+      "ITEM": "moong dhuli",
+      "DATE": "2025-04-04",
+      "GSTIN": "09AACTG1470C1Z1",
+      "QT": 5,
+      "RATE": 114,
+      "GP": "dal",
+      "S_NO": "BS 03",
       "tax": 0,
       "type": "cre"
     },
@@ -36151,12 +36573,36 @@
       "type": "cre"
     },
     {
+      "nat": 453.6,
+      "ITEM": "chana masala",
+      "DATE": "2025-04-04",
+      "GSTIN": "09AACTG1470C1Z1",
+      "QT": 6,
+      "RATE": 72,
+      "GP": "masale",
+      "S_NO": "TI 02",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
       "nat": 714,
       "ITEM": "chat massala 0910",
       "DATE": "2024-04-01",
       "GSTIN": "09AACTG1470C1Z1",
       "QT": 10,
       "RATE": 68,
+      "GP": "masale",
+      "S_NO": "TI 02",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 735,
+      "ITEM": "chat massala 0910",
+      "DATE": "2025-04-04",
+      "GSTIN": "09AACTG1470C1Z1",
+      "QT": 10,
+      "RATE": 70,
       "GP": "masale",
       "S_NO": "TI 02",
       "tax": 5,
@@ -36175,6 +36621,18 @@
       "type": "cre"
     },
     {
+      "nat": 1374.98,
+      "ITEM": "deggi mirch 0904",
+      "DATE": "2025-04-04",
+      "GSTIN": "09AACTG1470C1Z1",
+      "QT": 15,
+      "RATE": 87.3,
+      "GP": "masale",
+      "S_NO": "TI 02",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
       "nat": 2257.5,
       "ITEM": "elaichi small",
       "DATE": "2022-04-06",
@@ -36182,6 +36640,18 @@
       "QT": 1,
       "RATE": 2150,
       "GP": "dry_fruits",
+      "S_NO": "TI 02",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 456.75,
+      "ITEM": "garam masala",
+      "DATE": "2025-04-04",
+      "GSTIN": "09AACTG1470C1Z1",
+      "QT": 5,
+      "RATE": 87,
+      "GP": "masale",
       "S_NO": "TI 02",
       "tax": 5,
       "type": "cre"
@@ -36223,12 +36693,72 @@
       "type": "cre"
     },
     {
+      "nat": 388.5,
+      "ITEM": "pav bhaji masala",
+      "DATE": "2025-04-04",
+      "GSTIN": "09AACTG1470C1Z1",
+      "QT": 5,
+      "RATE": 74,
+      "GP": "masale",
+      "S_NO": "TI 02",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
       "nat": 745.5,
       "ITEM": "pav bhaji masala",
       "DATE": "2024-04-01",
       "GSTIN": "09AACTG1470C1Z1",
       "QT": 10,
       "RATE": 71,
+      "GP": "masale",
+      "S_NO": "TI 02",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 2142,
+      "ITEM": "rice dubar branded",
+      "DATE": "2025-04-04",
+      "GSTIN": "09AACTG1470C1Z1",
+      "QT": 20,
+      "RATE": 102,
+      "GP": "rice",
+      "S_NO": "TI 02",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 1638,
+      "ITEM": "rice rozana branded",
+      "DATE": "2025-04-04",
+      "GSTIN": "09AACTG1470C1Z1",
+      "QT": 20,
+      "RATE": 78,
+      "GP": "rice",
+      "S_NO": "TI 02",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 6132,
+      "ITEM": "rice super branded",
+      "DATE": "2025-04-04",
+      "GSTIN": "09AACTG1470C1Z1",
+      "QT": 40,
+      "RATE": 146,
+      "GP": "rice",
+      "S_NO": "TI 02",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 390.6,
+      "ITEM": "samber masala",
+      "DATE": "2025-04-04",
+      "GSTIN": "09AACTG1470C1Z1",
+      "QT": 6,
+      "RATE": 62,
       "GP": "masale",
       "S_NO": "TI 02",
       "tax": 5,
@@ -36254,6 +36784,18 @@
       "QT": 5,
       "RATE": 64,
       "GP": "masale",
+      "S_NO": "TI 02",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 8841,
+      "ITEM": "sugar",
+      "DATE": "2025-04-04",
+      "GSTIN": "09AACTG1470C1Z1",
+      "QT": 200,
+      "RATE": 42.1,
+      "GP": "sugar_boora",
       "S_NO": "TI 02",
       "tax": 5,
       "type": "cre"
