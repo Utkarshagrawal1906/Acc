@@ -107,6 +107,18 @@
       "S_NO": "820",
       "tax": 0,
       "type": "cash"
+    },
+    {
+      "nat": 840,
+      "ITEM": "tea",
+      "DATE": "2025-05-08",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": 4,
+      "RATE": 200,
+      "GP": "other",
+      "S_NO": "579",
+      "tax": 5,
+      "type": "deb"
     }
   ],
   "dev_goldiee_agency": [
@@ -7422,6 +7434,102 @@
       "RATE": 46.79,
       "GP": "masale",
       "S_NO": "RD-707",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": 7286.423,
+      "ITEM": "deggi mirch 0904",
+      "DATE": "2025-05-08",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": 90,
+      "RATE": 77.105,
+      "GP": "masale",
+      "S_NO": "2282",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": 4857.634,
+      "ITEM": "deggi mirch 0904",
+      "DATE": "2025-05-08",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": 60,
+      "RATE": 77.1053,
+      "GP": "masale",
+      "S_NO": "2282",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": 4086.1802,
+      "ITEM": "chana masala",
+      "DATE": "2025-05-08",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": 60,
+      "RATE": 64.86,
+      "GP": "masale",
+      "S_NO": "2282",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": 3974.3171,
+      "ITEM": "chat massala 0910",
+      "DATE": "2025-05-08",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": 60,
+      "RATE": 63.0844,
+      "GP": "masale",
+      "S_NO": "2282",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": 4907.4736,
+      "ITEM": "garam masala",
+      "DATE": "2025-05-08",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": 60,
+      "RATE": 77.8964,
+      "GP": "masale",
+      "S_NO": "2282",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": 4095.4536,
+      "ITEM": "meat masala",
+      "DATE": "2025-05-08",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": 60,
+      "RATE": 65.0072,
+      "GP": "masale",
+      "S_NO": "2282",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": 6490.9404,
+      "ITEM": "kitchen king",
+      "DATE": "2025-05-08",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": 90,
+      "RATE": 68.6872,
+      "GP": "masale",
+      "S_NO": "2282",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": 4938.3184,
+      "ITEM": "kasoori methi 50gm",
+      "DATE": "2025-05-08",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": 120,
+      "RATE": 39.193,
+      "GP": "masale",
+      "S_NO": "2282",
       "tax": 5,
       "type": "deb"
     }
@@ -20000,6 +20108,18 @@
       "RATE": 152.98,
       "GP": "oil",
       "S_NO": "39211",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": 38040,
+      "ITEM": "refind soya oil",
+      "DATE": "2025-05-12",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": 288,
+      "RATE": 125.79365,
+      "GP": "oil",
+      "S_NO": "6208",
       "tax": 5,
       "type": "deb"
     }
