@@ -213,10 +213,10 @@
     },
     {
       "unit": "KG",
-      "amount": 1289.18994140625,
+      "amount": 2089.18994140625,
       "hsn": "0902",
-      "quantity": 3.5999999046325684,
-      "rate": 358.10699462890625,
+      "quantity": 7.599999904632568,
+      "rate": 274.89341679238544,
       "name": "tea",
       "TAX": 5
     },
@@ -296,10 +296,10 @@
   "oil": [
     {
       "unit": "LTR",
-      "amount": 1543.2099609375,
+      "amount": 37771.7799609375,
       "hsn": "1507",
-      "quantity": 12,
-      "rate": 128.60000610351562,
+      "quantity": 300,
+      "rate": 125.905933203125,
       "name": "refind soya oil",
       "TAX": 5
     },
@@ -435,10 +435,10 @@
     },
     {
       "unit": "PKT",
-      "amount": 1436.1199951171875,
+      "amount": 5221.183995117188,
       "hsn": "0910",
-      "quantity": 23,
-      "rate": 62.43980026245117,
+      "quantity": 83,
+      "rate": 62.90583126647214,
       "name": "chat massala 0910",
       "TAX": 5
     },
@@ -462,28 +462,28 @@
     },
     {
       "unit": "PKT",
-      "amount": 2376.699951171875,
+      "amount": 13942.467951171875,
       "hsn": "0904",
-      "quantity": 27,
-      "rate": 88.02580261230469,
+      "quantity": 177,
+      "rate": 78.7710053738524,
       "name": "deggi mirch 0904",
       "TAX": 5
     },
     {
       "unit": "PKT",
-      "amount": 221.7779998779297,
+      "amount": 4895.561999877929,
       "hsn": "0910",
-      "quantity": 3,
-      "rate": 73.9260025024414,
+      "quantity": 63,
+      "rate": 77.7073333313957,
       "name": "garam masala",
       "TAX": 5
     },
     {
       "unit": "PKT",
-      "amount": 234.04600524902344,
+      "amount": 4937.206005249023,
       "hsn": "0712",
-      "quantity": 6,
-      "rate": 39.0077018737793,
+      "quantity": 126,
+      "rate": 39.18417464483352,
       "name": "kasoori methi 50gm",
       "TAX": 5
     },
@@ -642,28 +642,28 @@
     },
     {
       "unit": "PKT",
-      "amount": 2571.820068359375,
+      "amount": 6463.420068359375,
       "hsn": "0910",
-      "quantity": 39,
-      "rate": 65.94409942626953,
+      "quantity": 99,
+      "rate": 65.28707139756945,
       "name": "chana masala",
       "TAX": 5
     },
     {
       "unit": "PKT",
-      "amount": 1720.199951171875,
+      "amount": 5620.632051171875,
       "hsn": "0910",
-      "quantity": 25,
-      "rate": 68.80799865722656,
+      "quantity": 85,
+      "rate": 66.12508295496323,
       "name": "meat masala",
       "TAX": 5
     },
     {
       "unit": "PKT",
-      "amount": 3573.340087890625,
+      "amount": 9755.188087890625,
       "hsn": "0910",
-      "quantity": 51,
-      "rate": 70.06539916992188,
+      "quantity": 141,
+      "rate": 69.18573111979167,
       "name": "kitchen king",
       "TAX": 5
     },
