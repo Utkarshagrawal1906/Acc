@@ -15189,6 +15189,30 @@
       "S_NO": "95",
       "tax": 0,
       "type": "deb"
+    },
+    {
+      "nat": "27200",
+      "ITEM": "atta",
+      "DATE": "2025-05-22",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "1000",
+      "RATE": "27.2",
+      "GP": "atta_maida",
+      "S_NO": "31",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "22080",
+      "ITEM": "MAIDA",
+      "DATE": "2025-05-22",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "800",
+      "RATE": "27.6",
+      "GP": "atta_maida",
+      "S_NO": "31",
+      "tax": 0,
+      "type": "deb"
     }
   ],
   "vtc_tradwings_pvt_ltd": [
