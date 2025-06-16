@@ -921,6 +921,68 @@
       "type": "deb"
     }
   ],
+  "Minakshi_Traders": [
+    {
+      "nat": 0,
+      "ITEM": "",
+      "DATE": "2025-06-09",
+      "GSTIN": "09BQVPG7847R1ZG",
+      "QT": 0,
+      "RATE": 0,
+      "GP": "",
+      "S_NO": "-1",
+      "tax": 0,
+      "type": ""
+    },
+    {
+      "nat": 8032.5,
+      "ITEM": "kali mirch 0904",
+      "DATE": "2025-06-04",
+      "GSTIN": "09BQVPG7847R1ZG",
+      "QT": 30,
+      "RATE": 255,
+      "GP": "masale",
+      "S_NO": "106",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": 7192.5,
+      "ITEM": "COPRA",
+      "DATE": "2025-06-04",
+      "GSTIN": "09BQVPG7847R1ZG",
+      "QT": 50,
+      "RATE": 137,
+      "GP": "dry_fruits",
+      "S_NO": "106",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": 5943,
+      "ITEM": "akhrot",
+      "DATE": "2025-06-04",
+      "GSTIN": "09BQVPG7847R1ZG",
+      "QT": 20,
+      "RATE": 283,
+      "GP": "dry_fruits",
+      "S_NO": "106",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": 22604.4,
+      "ITEM": "kaju",
+      "DATE": "2025-06-04",
+      "GSTIN": "09BQVPG7847R1ZG",
+      "QT": 24,
+      "RATE": 897,
+      "GP": "dry_fruits",
+      "S_NO": "106",
+      "tax": 5,
+      "type": "deb"
+    }
+  ],
   "parul_traders": [
     {
       "nat": "0",
@@ -12253,6 +12315,114 @@
       "S_NO": "449",
       "tax": 0,
       "type": "deb"
+    },
+    {
+      "nat": "12600",
+      "ITEM": "arhar dal",
+      "DATE": "2025-06-02",
+      "GSTIN": "09ABOPG8156C1ZI",
+      "QT": "120",
+      "RATE": "105",
+      "GP": "dal",
+      "S_NO": "536",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "7200",
+      "ITEM": "dal chana",
+      "DATE": "2025-06-02",
+      "GSTIN": "09ABOPG8156C1ZI",
+      "QT": "120",
+      "RATE": "60",
+      "GP": "dal",
+      "S_NO": "536",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "10800",
+      "ITEM": "dal moong",
+      "DATE": "2025-06-02",
+      "GSTIN": "09ABOPG8156C1ZI",
+      "QT": "120",
+      "RATE": "90",
+      "GP": "dal",
+      "S_NO": "536",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "15000",
+      "ITEM": "dal urad",
+      "DATE": "2025-06-02",
+      "GSTIN": "09ABOPG8156C1ZI",
+      "QT": "150",
+      "RATE": "100",
+      "GP": "dal",
+      "S_NO": "536",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "14400",
+      "ITEM": "chana kabuli",
+      "DATE": "2025-06-02",
+      "GSTIN": "09ABOPG8156C1ZI",
+      "QT": "120",
+      "RATE": "120",
+      "GP": "dal",
+      "S_NO": "536",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "2700",
+      "ITEM": "ramas lobiya",
+      "DATE": "2025-06-02",
+      "GSTIN": "09ABOPG8156C1ZI",
+      "QT": "30",
+      "RATE": "90",
+      "GP": "dal",
+      "S_NO": "536",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "7200",
+      "ITEM": "rajma",
+      "DATE": "2025-06-02",
+      "GSTIN": "09ABOPG8156C1ZI",
+      "QT": "60",
+      "RATE": "120",
+      "GP": "dal",
+      "S_NO": "536",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "7200",
+      "ITEM": "dal masoor",
+      "DATE": "2025-06-02",
+      "GSTIN": "09ABOPG8156C1ZI",
+      "QT": "90",
+      "RATE": "80",
+      "GP": "dal",
+      "S_NO": "536",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "10500",
+      "ITEM": "rice basmati",
+      "DATE": "2025-06-02",
+      "GSTIN": "09ABOPG8156C1ZI",
+      "QT": "210",
+      "RATE": "50",
+      "GP": "rice",
+      "S_NO": "536",
+      "tax": 0,
+      "type": "deb"
     }
   ],
   "mohini_traders": [
@@ -20253,6 +20423,18 @@
       "RATE": "125.79",
       "GP": "oil",
       "S_NO": "6208",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "37199.93",
+      "ITEM": "refind soya oil",
+      "DATE": "2025-06-08",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "300",
+      "RATE": "118.09",
+      "GP": "oil",
+      "S_NO": "9517",
       "tax": 5,
       "type": "deb"
     }
