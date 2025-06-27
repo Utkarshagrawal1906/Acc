@@ -305,10 +305,10 @@
   "oil": [
     {
       "unit": "LTR",
-      "amount": "2846.28",
+      "amount": "38322.48",
       "hsn": "1507",
-      "quantity": "24",
-      "rate": "118.6",
+      "quantity": "324",
+      "rate": "118.28",
       "name": "refind soya oil",
       "TAX": 5
     },
