@@ -20653,6 +20653,18 @@
       "S_NO": "9517",
       "tax": 5,
       "type": "deb"
+    },
+    {
+      "nat": "37250.01",
+      "ITEM": "refind soya oil",
+      "DATE": "2025-06-26",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "300",
+      "RATE": "118.25",
+      "GP": "oil",
+      "S_NO": "11548",
+      "tax": 5,
+      "type": "deb"
     }
   ],
   "jai_shree_shyam_trading_company": [
