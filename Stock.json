@@ -222,10 +222,10 @@
     },
     {
       "unit": "KG",
-      "amount": "3589.19",
+      "amount": "4522.52",
       "hsn": "0902",
-      "quantity": "10.6",
-      "rate": "338.6",
+      "quantity": "12.6",
+      "rate": "358.93",
       "name": "tea",
       "TAX": 5
     },
@@ -240,10 +240,10 @@
     },
     {
       "unit": "PKT",
-      "amount": "304.68",
+      "amount": "660.84",
       "hsn": "2103",
-      "quantity": "12",
-      "rate": "25.39",
+      "quantity": "20",
+      "rate": "33.04",
       "name": "souce chilli 500gm",
       "TAX": 12
     },
@@ -267,10 +267,10 @@
     },
     {
       "unit": "KG",
-      "amount": "2680.39",
+      "amount": "7600.39",
       "hsn": "2501",
-      "quantity": "108",
-      "rate": "24.82",
+      "quantity": "283",
+      "rate": "26.86",
       "name": "SALT (NAMAK)",
       "TAX": 0
     },
@@ -285,9 +285,9 @@
     },
     {
       "unit": "PKT",
-      "amount": "1148.36",
+      "amount": "703.57",
       "hsn": "3307",
-      "quantity": "142",
+      "quantity": "87",
       "rate": "8.09",
       "name": "dhoop",
       "TAX": 5
@@ -352,10 +352,10 @@
   "atta_maida": [
     {
       "unit": "KG",
-      "amount": "571.84",
+      "amount": "12719.96",
       "hsn": "1101",
-      "quantity": "21",
-      "rate": "27.23",
+      "quantity": "471",
+      "rate": "27.01",
       "name": "atta",
       "TAX": 0
     },
@@ -397,10 +397,10 @@
     },
     {
       "unit": "KG",
-      "amount": "345.39",
+      "amount": "15186.72",
       "hsn": "1101",
-      "quantity": "12.5",
-      "rate": "27.63",
+      "quantity": "542.5",
+      "rate": "27.99",
       "name": "MAIDA",
       "TAX": 0
     },
@@ -444,10 +444,10 @@
     },
     {
       "unit": "PKT",
-      "amount": "2704.95",
+      "amount": "10377.75",
       "hsn": "0910",
-      "quantity": "43",
-      "rate": "62.91",
+      "quantity": "163",
+      "rate": "63.67",
       "name": "chat massala 0910",
       "TAX": 5
     },
@@ -471,19 +471,19 @@
     },
     {
       "unit": "PKT",
-      "amount": "2914.53",
+      "amount": "7517.28",
       "hsn": "0904",
-      "quantity": "37",
-      "rate": "78.77",
+      "quantity": "97",
+      "rate": "77.5",
       "name": "deggi mirch 0904",
       "TAX": 5
     },
     {
       "unit": "PKT",
-      "amount": "4895.56",
+      "amount": "7270.34",
       "hsn": "0910",
-      "quantity": "63",
-      "rate": "77.71",
+      "quantity": "93",
+      "rate": "78.18",
       "name": "garam masala",
       "TAX": 5
     },
@@ -651,10 +651,10 @@
     },
     {
       "unit": "PKT",
-      "amount": "3851.94",
+      "amount": "9655.39",
       "hsn": "0910",
-      "quantity": "59",
-      "rate": "65.29",
+      "quantity": "149",
+      "rate": "64.8",
       "name": "chana masala",
       "TAX": 5
     },
@@ -669,10 +669,10 @@
     },
     {
       "unit": "PKT",
-      "amount": "4912.19",
+      "amount": "6959.61",
       "hsn": "0910",
-      "quantity": "71",
-      "rate": "69.19",
+      "quantity": "101",
+      "rate": "68.91",
       "name": "kitchen king",
       "TAX": 5
     },
@@ -687,10 +687,10 @@
     },
     {
       "unit": "PKT",
-      "amount": "908.39",
+      "amount": "4251.37",
       "hsn": "0910",
-      "quantity": "12",
-      "rate": "75.7",
+      "quantity": "62",
+      "rate": "68.57",
       "name": "Chicken Masala",
       "TAX": 5
     },
@@ -752,10 +752,10 @@
     },
     {
       "unit": "KG",
-      "amount": "3174.76",
+      "amount": "15331.14",
       "hsn": "1701",
-      "quantity": "81.2",
-      "rate": "39.1",
+      "quantity": "381.2",
+      "rate": "40.22",
       "name": "sugar",
       "TAX": 5
     }
@@ -808,10 +808,10 @@
     },
     {
       "unit": "KG",
-      "amount": "557.9",
+      "amount": "16558.58",
       "hsn": "1006",
-      "quantity": "14",
-      "rate": "39.85",
+      "quantity": "414",
+      "rate": "40",
       "name": "rice dubar",
       "TAX": 0
     },
@@ -918,9 +918,9 @@
     },
     {
       "unit": "KG",
-      "amount": "8707.85",
+      "amount": "5452.58",
       "hsn": "0713",
-      "quantity": "107",
+      "quantity": "67",
       "rate": "81.38",
       "name": "dal masoor",
       "TAX": 0
@@ -936,10 +936,10 @@
     },
     {
       "unit": "KG",
-      "amount": "3783.01",
+      "amount": "4366.21",
       "hsn": "0713",
-      "quantity": "31.5",
-      "rate": "120.1",
+      "quantity": "41.5",
+      "rate": "105.21",
       "name": "chana kabuli",
       "TAX": 0
     },
@@ -954,9 +954,9 @@
     },
     {
       "unit": "KG",
-      "amount": "3870.12",
+      "amount": "7470.1",
       "hsn": "0713",
-      "quantity": "43",
+      "quantity": "83",
       "rate": "90",
       "name": "dal moong",
       "TAX": 0
@@ -1080,19 +1080,19 @@
     },
     {
       "unit": "KG",
-      "amount": "335.26",
+      "amount": "2111.08",
       "hsn": "0713",
-      "quantity": "3.3",
-      "rate": "101.59",
+      "quantity": "23.3",
+      "rate": "90.6",
       "name": "moong dhuli",
       "TAX": 0
     },
     {
       "unit": "KG",
-      "amount": "3778.07",
+      "amount": "3647.62",
       "hsn": "0713",
       "quantity": "35.7",
-      "rate": "105.83",
+      "rate": "102.17",
       "name": "arhar dal",
       "TAX": 0
     },
