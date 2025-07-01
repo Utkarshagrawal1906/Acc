@@ -2305,6 +2305,30 @@
       "S_NO": "TI 27",
       "tax": 5,
       "type": "cre"
+    },
+    {
+      "nat": "879.9",
+      "ITEM": "kaju",
+      "DATE": "2025-06-30",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "1",
+      "RATE": "838",
+      "GP": "dry_fruits",
+      "S_NO": "TI 29",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "520.75",
+      "ITEM": "kitchen king",
+      "DATE": "2025-06-30",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "7",
+      "RATE": "70.85",
+      "GP": "masale",
+      "S_NO": "TI 29",
+      "tax": 5,
+      "type": "cre"
     }
   ],
   "palm_tree_hotel_and_restaurent": [
@@ -31479,6 +31503,78 @@
       "RATE": "82",
       "GP": "dal",
       "S_NO": "BS 42",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "72.45",
+      "ITEM": "haldi powder",
+      "DATE": "2025-06-29",
+      "GSTIN": " ",
+      "QT": "3",
+      "RATE": "23",
+      "GP": "masale",
+      "S_NO": "TI 28",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "126",
+      "ITEM": "dhaniya pw.",
+      "DATE": "2025-06-29",
+      "GSTIN": " ",
+      "QT": "5",
+      "RATE": "24",
+      "GP": "masale",
+      "S_NO": "TI 28",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "84",
+      "ITEM": "lal mirch powder 100gm",
+      "DATE": "2025-06-29",
+      "GSTIN": " ",
+      "QT": "2",
+      "RATE": "40",
+      "GP": "masale",
+      "S_NO": "TI 28",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "1800",
+      "ITEM": "dal moong",
+      "DATE": "2025-06-30",
+      "GSTIN": " ",
+      "QT": "18",
+      "RATE": "100",
+      "GP": "dal",
+      "S_NO": "BS 44",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "2700",
+      "ITEM": "dal masoor",
+      "DATE": "2025-06-30",
+      "GSTIN": " ",
+      "QT": "30",
+      "RATE": "90",
+      "GP": "dal",
+      "S_NO": "BS 44",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "1400",
+      "ITEM": "chana kabuli",
+      "DATE": "2025-06-30",
+      "GSTIN": " ",
+      "QT": "10",
+      "RATE": "140",
+      "GP": "dal",
+      "S_NO": "BS 44",
       "tax": 0,
       "type": "cash"
     }
