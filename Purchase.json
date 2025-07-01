@@ -15539,6 +15539,18 @@
       "S_NO": "1161",
       "tax": 5,
       "type": "deb"
+    },
+    {
+      "nat": "24948",
+      "ITEM": "sugar",
+      "DATE": "2025-06-28",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "600",
+      "RATE": "39.6",
+      "GP": "sugar_boora",
+      "S_NO": "1427",
+      "tax": 5,
+      "type": "deb"
     }
   ],
   "vtc_tradwings_pvt_ltd": [
