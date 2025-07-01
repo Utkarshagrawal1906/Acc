@@ -56,9 +56,9 @@
     },
     {
       "unit": "KG",
-      "amount": "25945.93",
+      "amount": "25073.8",
       "hsn": "0801",
-      "quantity": "29.75",
+      "quantity": "28.75",
       "rate": "872.13",
       "name": "kaju",
       "TAX": 5
@@ -570,9 +570,9 @@
     },
     {
       "unit": "PKT",
-      "amount": "412.49",
+      "amount": "343.74",
       "hsn": "0910",
-      "quantity": "18",
+      "quantity": "15",
       "rate": "22.92",
       "name": "haldi powder",
       "TAX": 5
@@ -588,9 +588,9 @@
     },
     {
       "unit": "PKT",
-      "amount": "552.51",
+      "amount": "473.58",
       "hsn": "0904",
-      "quantity": "14",
+      "quantity": "12",
       "rate": "39.47",
       "name": "lal mirch powder 100gm",
       "TAX": 5
@@ -669,9 +669,9 @@
     },
     {
       "unit": "PKT",
-      "amount": "4892.4",
+      "amount": "4410.05",
       "hsn": "0910",
-      "quantity": "71",
+      "quantity": "64",
       "rate": "68.91",
       "name": "kitchen king",
       "TAX": 5
@@ -696,9 +696,9 @@
     },
     {
       "unit": "PKT",
-      "amount": "490.41",
+      "amount": "373.65",
       "hsn": "0909",
-      "quantity": "21",
+      "quantity": "16",
       "rate": "23.35",
       "name": "dhaniya pw.",
       "TAX": 5
@@ -752,10 +752,10 @@
     },
     {
       "unit": "KG",
-      "amount": "15331.14",
+      "amount": "39091.14",
       "hsn": "1701",
-      "quantity": "381.2",
-      "rate": "40.22",
+      "quantity": "981.2",
+      "rate": "39.84",
       "name": "sugar",
       "TAX": 5
     }
@@ -918,9 +918,9 @@
     },
     {
       "unit": "KG",
-      "amount": "13955.53",
+      "amount": "11521.42",
       "hsn": "0713",
-      "quantity": "172",
+      "quantity": "142",
       "rate": "81.14",
       "name": "dal masoor",
       "TAX": 0
@@ -936,9 +936,9 @@
     },
     {
       "unit": "KG",
-      "amount": "14074.1",
+      "amount": "12866.02",
       "hsn": "0713",
-      "quantity": "116.5",
+      "quantity": "106.5",
       "rate": "120.81",
       "name": "chana kabuli",
       "TAX": 0
@@ -954,9 +954,9 @@
     },
     {
       "unit": "KG",
-      "amount": "12685.94",
+      "amount": "11089.11",
       "hsn": "0713",
-      "quantity": "143",
+      "quantity": "125",
       "rate": "88.71",
       "name": "dal moong",
       "TAX": 0
