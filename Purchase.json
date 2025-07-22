@@ -167,6 +167,30 @@
       "S_NO": "1280",
       "tax": 12,
       "type": "deb"
+    },
+    {
+      "nat": "3870",
+      "ITEM": "SALT (NAMAK)",
+      "DATE": "2025-07-20",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "150",
+      "RATE": "25.8",
+      "GP": "other",
+      "S_NO": "1727",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "2220.02",
+      "ITEM": "tea",
+      "DATE": "2025-07-20",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "6",
+      "RATE": "352.38",
+      "GP": "other",
+      "S_NO": "1727",
+      "tax": 5,
+      "type": "cash"
     }
   ],
   "dev_goldiee_agency": [
@@ -15551,6 +15575,30 @@
       "S_NO": "1427",
       "tax": 5,
       "type": "deb"
+    },
+    {
+      "nat": "28000",
+      "ITEM": "atta",
+      "DATE": "2025-07-02",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "1000",
+      "RATE": "28",
+      "GP": "atta_maida",
+      "S_NO": "120",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "29000",
+      "ITEM": "MAIDA",
+      "DATE": "2025-07-02",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "1000",
+      "RATE": "29",
+      "GP": "atta_maida",
+      "S_NO": "120",
+      "tax": 0,
+      "type": "deb"
     }
   ],
   "vtc_tradwings_pvt_ltd": [
@@ -19915,6 +19963,78 @@
       "S_NO": "329",
       "tax": 0,
       "type": "deb"
+    },
+    {
+      "nat": "5880",
+      "ITEM": "arhar dal",
+      "DATE": "2025-07-13",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "60",
+      "RATE": "98",
+      "GP": "dal",
+      "S_NO": "397",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "5400",
+      "ITEM": "dal moong",
+      "DATE": "2025-07-13",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "60",
+      "RATE": "90",
+      "GP": "dal",
+      "S_NO": "397",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "6000",
+      "ITEM": "chana kabuli",
+      "DATE": "2025-07-13",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "60",
+      "RATE": "100",
+      "GP": "dal",
+      "S_NO": "397",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "5400",
+      "ITEM": "moong dhuli",
+      "DATE": "2025-07-13",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "60",
+      "RATE": "90",
+      "GP": "dal",
+      "S_NO": "397",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "2700",
+      "ITEM": "urad sabut",
+      "DATE": "2025-07-13",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "30",
+      "RATE": "90",
+      "GP": "dal",
+      "S_NO": "397",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "25200",
+      "ITEM": "rice dubar",
+      "DATE": "2025-07-13",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "600",
+      "RATE": "42",
+      "GP": "rice",
+      "S_NO": "397",
+      "tax": 0,
+      "type": "deb"
     }
   ],
   "om_traders": [
@@ -20759,6 +20879,30 @@
       "RATE": "118.25",
       "GP": "oil",
       "S_NO": "11548",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "37248.75",
+      "ITEM": "refind soya oil",
+      "DATE": "2025-07-10",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "300",
+      "RATE": "118.25",
+      "GP": "oil",
+      "S_NO": "13203",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "1919.99",
+      "ITEM": "MUSTARD OIL",
+      "DATE": "2025-07-10",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "12",
+      "RATE": "152.38",
+      "GP": "oil",
+      "S_NO": "13203",
       "tax": 5,
       "type": "deb"
     }
