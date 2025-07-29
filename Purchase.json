@@ -4775,6 +4775,90 @@
       "S_NO": "915",
       "tax": 12,
       "type": "deb"
+    },
+    {
+      "nat": "3465",
+      "ITEM": "gola burada 0801",
+      "DATE": "2025-07-28",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "10",
+      "RATE": "330",
+      "GP": "dry_fruits",
+      "S_NO": "895",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "7770",
+      "ITEM": "kishmish 0806",
+      "DATE": "2025-07-28",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "20",
+      "RATE": "370",
+      "GP": "dry_fruits",
+      "S_NO": "895",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "5953.5",
+      "ITEM": "chana masala",
+      "DATE": "2025-07-28",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "90",
+      "RATE": "63",
+      "GP": "masale",
+      "S_NO": "895",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "5859",
+      "ITEM": "chat massala 0910",
+      "DATE": "2025-07-28",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "90",
+      "RATE": "62",
+      "GP": "masale",
+      "S_NO": "895",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "6520.5",
+      "ITEM": "kitchen king",
+      "DATE": "2025-07-28",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "90",
+      "RATE": "69",
+      "GP": "masale",
+      "S_NO": "895",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "4315.5",
+      "ITEM": "meat masala",
+      "DATE": "2025-07-28",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "60",
+      "RATE": "68.5",
+      "GP": "masale",
+      "S_NO": "895",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "7418.25",
+      "ITEM": "deggi mirch 0904",
+      "DATE": "2025-07-28",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "90",
+      "RATE": "78.5",
+      "GP": "masale",
+      "S_NO": "895",
+      "tax": 5,
+      "type": "deb"
     }
   ],
   "vinod_kumar_pramod_kumar": [
@@ -13225,6 +13309,30 @@
       "RATE": "124.76",
       "GP": "oil",
       "S_NO": "093",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "9059.98",
+      "ITEM": "Refind SF Oil",
+      "DATE": "2025-07-26",
+      "GSTIN": "09ASPPG8990A1ZC",
+      "QT": "60",
+      "RATE": "143.81",
+      "GP": "oil",
+      "S_NO": "T183",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "3864",
+      "ITEM": "MUSTARD OIL",
+      "DATE": "2025-07-26",
+      "GSTIN": "09ASPPG8990A1ZC",
+      "QT": "24",
+      "RATE": "153.33",
+      "GP": "oil",
+      "S_NO": "T183",
       "tax": 5,
       "type": "deb"
     }
