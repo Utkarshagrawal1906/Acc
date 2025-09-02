@@ -32873,6 +32873,66 @@
       "S_NO": "BS 65",
       "tax": 0,
       "type": "cash"
+    },
+    {
+      "nat": "831.6",
+      "ITEM": "dalchini",
+      "DATE": "2025-08-28",
+      "GSTIN": " ",
+      "QT": "3.3",
+      "RATE": "240",
+      "GP": "masale",
+      "S_NO": "TI 45",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "1550",
+      "ITEM": "atta",
+      "DATE": "2025-08-31",
+      "GSTIN": " ",
+      "QT": "50",
+      "RATE": "31",
+      "GP": "atta_maida",
+      "S_NO": "BS 66",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "1750",
+      "ITEM": "MAIDA",
+      "DATE": "2025-08-31",
+      "GSTIN": " ",
+      "QT": "50",
+      "RATE": "35",
+      "GP": "atta_maida",
+      "S_NO": "BS 66",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "2000",
+      "ITEM": "dal moong",
+      "DATE": "2025-08-31",
+      "GSTIN": " ",
+      "QT": "20",
+      "RATE": "100",
+      "GP": "dal",
+      "S_NO": "BS 66",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "1288",
+      "ITEM": "matar",
+      "DATE": "2025-08-31",
+      "GSTIN": " ",
+      "QT": "23",
+      "RATE": "56",
+      "GP": "dal",
+      "S_NO": "BS 66",
+      "tax": 0,
+      "type": "cash"
     }
   ],
   "pick_n_pay_store": [
