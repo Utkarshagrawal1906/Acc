@@ -191,6 +191,18 @@
       "S_NO": "1727",
       "tax": 5,
       "type": "cash"
+    },
+    {
+      "nat": "3870",
+      "ITEM": "SALT (NAMAK)",
+      "DATE": "2025-08-28",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "150",
+      "RATE": "25.8",
+      "GP": "other",
+      "S_NO": "2383",
+      "tax": 0,
+      "type": "cash"
     }
   ],
   "dev_goldiee_agency": [
@@ -4857,6 +4869,90 @@
       "RATE": "78.5",
       "GP": "masale",
       "S_NO": "895",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "14836.5",
+      "ITEM": "deggi mirch 0904",
+      "DATE": "2025-08-29",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "180",
+      "RATE": "78.5",
+      "GP": "masale",
+      "S_NO": "1213",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "6473.25",
+      "ITEM": "chana masala",
+      "DATE": "2025-08-29",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "90",
+      "RATE": "68.5",
+      "GP": "masale",
+      "S_NO": "1213",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "6945.75",
+      "ITEM": "kitchen king",
+      "DATE": "2025-08-29",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "90",
+      "RATE": "73.5",
+      "GP": "masale",
+      "S_NO": "1213",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "4630.5",
+      "ITEM": "meat masala",
+      "DATE": "2025-08-29",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "60",
+      "RATE": "73.5",
+      "GP": "masale",
+      "S_NO": "1213",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "3465",
+      "ITEM": "gola burada 0801",
+      "DATE": "2025-08-29",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "10",
+      "RATE": "330",
+      "GP": "dry_fruits",
+      "S_NO": "1213",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "3958.5",
+      "ITEM": "kishmish 0806",
+      "DATE": "2025-08-29",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "10",
+      "RATE": "377",
+      "GP": "dry_fruits",
+      "S_NO": "1213",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "7822.5",
+      "ITEM": "kaju",
+      "DATE": "2025-08-29",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "10",
+      "RATE": "745",
+      "GP": "dry_fruits",
+      "S_NO": "1213",
       "tax": 5,
       "type": "deb"
     }
@@ -15841,6 +15937,30 @@
       "S_NO": "307",
       "tax": 0,
       "type": "deb"
+    },
+    {
+      "nat": "21750",
+      "ITEM": "atta",
+      "DATE": "2025-08-24",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "750",
+      "RATE": "29",
+      "GP": "atta_maida",
+      "S_NO": "B392",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "23550",
+      "ITEM": "MAIDA",
+      "DATE": "2025-08-24",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "750",
+      "RATE": "31.4",
+      "GP": "atta_maida",
+      "S_NO": "B392",
+      "tax": 0,
+      "type": "deb"
     }
   ],
   "vtc_tradwings_pvt_ltd": [
@@ -20359,6 +20479,90 @@
       "RATE": "56",
       "GP": "rice",
       "S_NO": "592",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "15300",
+      "ITEM": "rice dubar",
+      "DATE": "2025-08-25",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "300",
+      "RATE": "51",
+      "GP": "rice",
+      "S_NO": "613",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "4260",
+      "ITEM": "masoor",
+      "DATE": "2025-08-25",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "60",
+      "RATE": "71",
+      "GP": "dal",
+      "S_NO": "613",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "5280",
+      "ITEM": "urad sabut",
+      "DATE": "2025-08-25",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "60",
+      "RATE": "88",
+      "GP": "dal",
+      "S_NO": "613",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "5880",
+      "ITEM": "arhar dal",
+      "DATE": "2025-08-25",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "60",
+      "RATE": "98",
+      "GP": "dal",
+      "S_NO": "613",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "5400",
+      "ITEM": "chana kabuli",
+      "DATE": "2025-08-25",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "60",
+      "RATE": "90",
+      "GP": "dal",
+      "S_NO": "613",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "5400",
+      "ITEM": "dal moong",
+      "DATE": "2025-08-25",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "60",
+      "RATE": "90",
+      "GP": "dal",
+      "S_NO": "613",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "5800",
+      "ITEM": "besan",
+      "DATE": "2025-08-25",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "70",
+      "RATE": "82.86",
+      "GP": "atta_maida",
+      "S_NO": "613",
       "tax": 0,
       "type": "deb"
     }
