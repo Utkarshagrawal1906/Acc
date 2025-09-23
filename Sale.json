@@ -3241,6 +3241,54 @@
       "S_NO": "TI 49",
       "tax": 5,
       "type": "cre"
+    },
+    {
+      "nat": "13151.25",
+      "ITEM": "kaju",
+      "DATE": "2025-09-18",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "15",
+      "RATE": "835",
+      "GP": "dry_fruits",
+      "S_NO": "TI 51",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "3832.5",
+      "ITEM": "kishmish 0806",
+      "DATE": "2025-09-18",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "10",
+      "RATE": "365",
+      "GP": "dry_fruits",
+      "S_NO": "TI 51",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "6047.88",
+      "ITEM": "meat masala",
+      "DATE": "2025-09-18",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "79",
+      "RATE": "72.91",
+      "GP": "masale",
+      "S_NO": "TI 51",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "885.15",
+      "ITEM": "deggi mirch 0904",
+      "DATE": "2025-09-18",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "10",
+      "RATE": "84.3",
+      "GP": "masale",
+      "S_NO": "TI 51",
+      "tax": 5,
+      "type": "cre"
     }
   ],
   "palm_tree_hotel_and_restaurent": [
@@ -33160,6 +33208,42 @@
       "GP": "soaps",
       "S_NO": "TI 50",
       "tax": 12,
+      "type": "cash"
+    },
+    {
+      "nat": "8965",
+      "ITEM": "atta",
+      "DATE": "2025-09-19",
+      "GSTIN": " ",
+      "QT": "275",
+      "RATE": "32.6",
+      "GP": "atta_maida",
+      "S_NO": "BS 68",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "9100",
+      "ITEM": "MAIDA",
+      "DATE": "2025-09-22",
+      "GSTIN": " ",
+      "QT": "260",
+      "RATE": "35",
+      "GP": "atta_maida",
+      "S_NO": "BS 69",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "2700",
+      "ITEM": "rice dubar",
+      "DATE": "2025-09-15",
+      "GSTIN": " ",
+      "QT": "45",
+      "RATE": "60",
+      "GP": "rice",
+      "S_NO": "BS 67",
+      "tax": 0,
       "type": "cash"
     }
   ],
