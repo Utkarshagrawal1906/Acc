@@ -56,18 +56,18 @@
     },
     {
       "unit": "KG",
-      "amount": "23802.48",
+      "amount": "11383.79",
       "hsn": "0801",
-      "quantity": "28.75",
+      "quantity": "13.75",
       "rate": "827.91",
       "name": "kaju",
       "TAX": 5
     },
     {
       "unit": "KG",
-      "amount": "8283.44",
+      "amount": "4681.94",
       "hsn": "0806",
-      "quantity": "23",
+      "quantity": "13",
       "rate": "360.15",
       "name": "kishmish 0806",
       "TAX": 5
@@ -352,9 +352,9 @@
   "atta_maida": [
     {
       "unit": "KG",
-      "amount": "21542.27",
+      "amount": "13579.74",
       "hsn": "1101",
-      "quantity": "744",
+      "quantity": "469",
       "rate": "28.95",
       "name": "atta",
       "TAX": 0
@@ -397,9 +397,9 @@
     },
     {
       "unit": "KG",
-      "amount": "22672.47",
+      "amount": "14513.52",
       "hsn": "1101",
-      "quantity": "722.5",
+      "quantity": "462.5",
       "rate": "31.38",
       "name": "MAIDA",
       "TAX": 0
@@ -471,9 +471,9 @@
     },
     {
       "unit": "PKT",
-      "amount": "3688.11",
+      "amount": "2903.4",
       "hsn": "0904",
-      "quantity": "47",
+      "quantity": "37",
       "rate": "78.47",
       "name": "deggi mirch 0904",
       "TAX": 5
@@ -660,9 +660,9 @@
     },
     {
       "unit": "PKT",
-      "amount": "6776.88",
+      "amount": "1141.37",
       "hsn": "0910",
-      "quantity": "95",
+      "quantity": "16",
       "rate": "71.34",
       "name": "meat masala",
       "TAX": 5
@@ -808,9 +808,9 @@
     },
     {
       "unit": "KG",
-      "amount": "4253.14",
+      "amount": "1958.28",
       "hsn": "1006",
-      "quantity": "83.4",
+      "quantity": "38.4",
       "rate": "51",
       "name": "rice dubar",
       "TAX": 0
