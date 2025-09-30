@@ -4955,6 +4955,102 @@
       "S_NO": "1213",
       "tax": 5,
       "type": "deb"
+    },
+    {
+      "nat": "8137.5",
+      "ITEM": "kaju",
+      "DATE": "2025-09-24",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "10",
+      "RATE": "775",
+      "GP": "dry_fruits",
+      "S_NO": "1474",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "3990",
+      "ITEM": "kishmish 0806",
+      "DATE": "2025-09-24",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "10",
+      "RATE": "380",
+      "GP": "dry_fruits",
+      "S_NO": "1474",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "8652",
+      "ITEM": "Makhana tax",
+      "DATE": "2025-09-24",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "8",
+      "RATE": "1030",
+      "GP": "dry_fruits",
+      "S_NO": "1474",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "3858.75",
+      "ITEM": "jeera",
+      "DATE": "2025-09-24",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "15",
+      "RATE": "245",
+      "GP": "masale",
+      "S_NO": "1474",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "4095",
+      "ITEM": "loung 0907",
+      "DATE": "2025-09-24",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "5",
+      "RATE": "780",
+      "GP": "masale",
+      "S_NO": "1474",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "7612.5",
+      "ITEM": "kali mirch 0904",
+      "DATE": "2025-09-24",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "10",
+      "RATE": "725",
+      "GP": "masale",
+      "S_NO": "1474",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "2472.75",
+      "ITEM": "deggi mirch 0904",
+      "DATE": "2025-09-24",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "30",
+      "RATE": "78.5",
+      "GP": "masale",
+      "S_NO": "1474",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "6142.5",
+      "ITEM": "badam ming 0802",
+      "DATE": "2025-09-24",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "10",
+      "RATE": "585",
+      "GP": "dry_fruits",
+      "S_NO": "1474",
+      "tax": 5,
+      "type": "deb"
     }
   ],
   "vinod_kumar_pramod_kumar": [
@@ -15960,6 +16056,42 @@
       "GP": "atta_maida",
       "S_NO": "B392",
       "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "22650",
+      "ITEM": "atta",
+      "DATE": "2025-09-24",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "750",
+      "RATE": "30.2",
+      "GP": "atta_maida",
+      "S_NO": "B538",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "23250",
+      "ITEM": "MAIDA",
+      "DATE": "2025-09-24",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "750",
+      "RATE": "31",
+      "GP": "atta_maida",
+      "S_NO": "B538",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "32130",
+      "ITEM": "sugar",
+      "DATE": "2025-09-26",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "750",
+      "RATE": "40.8",
+      "GP": "sugar_boora",
+      "S_NO": "2707",
+      "tax": 5,
       "type": "deb"
     }
   ],
