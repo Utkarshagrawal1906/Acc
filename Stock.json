@@ -20,12 +20,12 @@
     },
     {
       "unit": "KG",
-      "amount": "-0.01",
+      "amount": "5850",
       "hsn": "080212",
-      "quantity": "0",
-      "rate": "621.34",
+      "quantity": "10",
+      "rate": "585",
       "name": "badam ming 0802",
-      "TAX": 12
+      "TAX": 5
     },
     {
       "unit": "KG",
@@ -56,19 +56,19 @@
     },
     {
       "unit": "KG",
-      "amount": "11383.79",
+      "amount": "11077.46",
       "hsn": "0801",
       "quantity": "13.75",
-      "rate": "827.91",
+      "rate": "805.63",
       "name": "kaju",
       "TAX": 5
     },
     {
       "unit": "KG",
-      "amount": "4681.94",
+      "amount": "8481.94",
       "hsn": "0806",
-      "quantity": "13",
-      "rate": "360.15",
+      "quantity": "23",
+      "rate": "368.78",
       "name": "kishmish 0806",
       "TAX": 5
     },
@@ -110,9 +110,9 @@
     },
     {
       "unit": "KG",
-      "amount": "7217.18",
+      "amount": "3739.02",
       "hsn": "0801",
-      "quantity": "24.9",
+      "quantity": "12.9",
       "rate": "289.85",
       "name": "gola burada 0801",
       "TAX": 5
@@ -128,10 +128,10 @@
     },
     {
       "unit": "KG",
-      "amount": "3184.89",
+      "amount": "11424.89",
       "hsn": "080131",
-      "quantity": "6",
-      "rate": "530.82",
+      "quantity": "14",
+      "rate": "816.06",
       "name": "Makhana tax",
       "TAX": 5
     },
@@ -162,7 +162,7 @@
       "quantity": "0",
       "rate": "35",
       "name": "dettol 3401",
-      "TAX": 18
+      "TAX": 5
     },
     {
       "unit": "PKT",
@@ -171,16 +171,16 @@
       "quantity": "0",
       "rate": "110",
       "name": "soap 0909",
-      "TAX": 12
+      "TAX": 5
     },
     {
       "unit": "PKT",
-      "amount": "-0",
+      "amount": "0",
       "hsn": "3305",
       "quantity": "0",
       "rate": "62.42",
       "name": "SOAP & OTHERS",
-      "TAX": 18
+      "TAX": 5
     },
     {
       "unit": "PKT",
@@ -236,7 +236,7 @@
       "quantity": "0",
       "rate": "40.07",
       "name": "yipee noodles 1902",
-      "TAX": 12
+      "TAX": 5
     },
     {
       "unit": "PKT",
@@ -245,7 +245,7 @@
       "quantity": "0",
       "rate": "33.04",
       "name": "souce chilli 500gm",
-      "TAX": 12
+      "TAX": 5
     },
     {
       "unit": "KG",
@@ -263,13 +263,13 @@
       "quantity": "0",
       "rate": "8.7",
       "name": "morten stick 3307",
-      "TAX": 12
+      "TAX": 5
     },
     {
       "unit": "KG",
-      "amount": "7254.67",
+      "amount": "3209.8",
       "hsn": "2501",
-      "quantity": "278",
+      "quantity": "123",
       "rate": "26.1",
       "name": "SALT (NAMAK)",
       "TAX": 0
@@ -314,12 +314,12 @@
     },
     {
       "unit": "LTR",
-      "amount": "-0.01",
+      "amount": "0",
       "hsn": "0405",
       "quantity": "0",
       "rate": "389.88",
       "name": "desi ghee",
-      "TAX": 12
+      "TAX": 5
     },
     {
       "unit": "LTR",
@@ -352,10 +352,10 @@
   "atta_maida": [
     {
       "unit": "KG",
-      "amount": "13579.74",
+      "amount": "9480.96",
       "hsn": "1101",
-      "quantity": "469",
-      "rate": "28.95",
+      "quantity": "319",
+      "rate": "29.72",
       "name": "atta",
       "TAX": 0
     },
@@ -397,10 +397,10 @@
     },
     {
       "unit": "KG",
-      "amount": "14513.52",
+      "amount": "4438.19",
       "hsn": "1101",
-      "quantity": "462.5",
-      "rate": "31.38",
+      "quantity": "142.5",
+      "rate": "31.15",
       "name": "MAIDA",
       "TAX": 0
     },
@@ -471,10 +471,10 @@
     },
     {
       "unit": "PKT",
-      "amount": "2903.4",
+      "amount": "5258.4",
       "hsn": "0904",
-      "quantity": "37",
-      "rate": "78.47",
+      "quantity": "67",
+      "rate": "78.48",
       "name": "deggi mirch 0904",
       "TAX": 5
     },
@@ -579,9 +579,9 @@
     },
     {
       "unit": "PKT",
-      "amount": "9170.81",
+      "amount": "7670.14",
       "hsn": "1301",
-      "quantity": "55",
+      "quantity": "46",
       "rate": "166.74",
       "name": "hing comp.10gm",
       "TAX": 5
@@ -624,28 +624,28 @@
     },
     {
       "unit": "KG",
-      "amount": "4945.25",
+      "amount": "5816.92",
       "hsn": "0909",
-      "quantity": "15.75",
-      "rate": "313.98",
+      "quantity": "20.75",
+      "rate": "280.33",
       "name": "jeera",
       "TAX": 5
     },
     {
       "unit": "KG",
-      "amount": "4108.56",
+      "amount": "5679.28",
       "hsn": "0904",
       "quantity": "10",
-      "rate": "410.86",
+      "rate": "567.93",
       "name": "kali mirch 0904",
       "TAX": 5
     },
     {
       "unit": "KG",
-      "amount": "2605.29",
+      "amount": "5739.96",
       "hsn": "0907",
-      "quantity": "3.5",
-      "rate": "744.37",
+      "quantity": "7.5",
+      "rate": "765.33",
       "name": "loung 0907",
       "TAX": 5
     },
@@ -752,10 +752,10 @@
     },
     {
       "unit": "KG",
-      "amount": "6422.23",
+      "amount": "16707.13",
       "hsn": "1701",
-      "quantity": "161.2",
-      "rate": "39.84",
+      "quantity": "411.2",
+      "rate": "40.63",
       "name": "sugar",
       "TAX": 5
     }
@@ -853,9 +853,9 @@
     },
     {
       "unit": "KG",
-      "amount": "5500",
+      "amount": "4125",
       "hsn": "1006",
-      "quantity": "50",
+      "quantity": "37.5",
       "rate": "110",
       "name": "rice tibar branded",
       "TAX": 5
