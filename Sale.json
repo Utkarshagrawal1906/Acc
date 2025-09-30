@@ -3289,6 +3289,102 @@
       "S_NO": "TI 51",
       "tax": 5,
       "type": "cre"
+    },
+    {
+      "nat": "6090",
+      "ITEM": "kali mirch 0904",
+      "DATE": "2025-09-27",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "10",
+      "RATE": "580",
+      "GP": "masale",
+      "S_NO": "TI 53",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "3024",
+      "ITEM": "jeera",
+      "DATE": "2025-09-27",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "10",
+      "RATE": "288",
+      "GP": "masale",
+      "S_NO": "TI 53",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "3754.8",
+      "ITEM": "gola burada 0801",
+      "DATE": "2025-09-27",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "12",
+      "RATE": "298",
+      "GP": "dry_fruits",
+      "S_NO": "TI 53",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "8610",
+      "ITEM": "kaju",
+      "DATE": "2025-09-27",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "10",
+      "RATE": "820",
+      "GP": "dry_fruits",
+      "S_NO": "TI 53",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "21525",
+      "ITEM": "sugar",
+      "DATE": "2025-09-27",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "500",
+      "RATE": "41",
+      "GP": "sugar_boora",
+      "S_NO": "TI 53",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "1454.25",
+      "ITEM": "rice tibar branded",
+      "DATE": "2025-09-27",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "12.5",
+      "RATE": "110.8",
+      "GP": "rice",
+      "S_NO": "TI 53",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "29700",
+      "ITEM": "atta",
+      "DATE": "2025-09-24",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "900",
+      "RATE": "33",
+      "GP": "atta_maida",
+      "S_NO": "BS 70",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "31500",
+      "ITEM": "MAIDA",
+      "DATE": "2025-09-26",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "900",
+      "RATE": "35",
+      "GP": "atta_maida",
+      "S_NO": "BS 72",
+      "tax": 0,
+      "type": "cre"
     }
   ],
   "palm_tree_hotel_and_restaurent": [
@@ -33244,6 +33340,54 @@
       "GP": "rice",
       "S_NO": "BS 67",
       "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "6035",
+      "ITEM": "MAIDA",
+      "DATE": "2025-09-25",
+      "GSTIN": " ",
+      "QT": "170",
+      "RATE": "35.5",
+      "GP": "atta_maida",
+      "S_NO": "BS 71",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "4185",
+      "ITEM": "SALT (NAMAK)",
+      "DATE": "2025-09-28",
+      "GSTIN": " ",
+      "QT": "155",
+      "RATE": "27",
+      "GP": "other",
+      "S_NO": "BS 73",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "813.75",
+      "ITEM": "loung 0907",
+      "DATE": "2025-09-26",
+      "GSTIN": " ",
+      "QT": "1",
+      "RATE": "775",
+      "GP": "masale",
+      "S_NO": "TI 52",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "1653.75",
+      "ITEM": "hing comp.10gm",
+      "DATE": "2025-09-26",
+      "GSTIN": " ",
+      "QT": "9",
+      "RATE": "175",
+      "GP": "masale",
+      "S_NO": "TI 52",
+      "tax": 5,
       "type": "cash"
     }
   ],
