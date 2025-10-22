@@ -733,6 +733,78 @@
       "S_NO": "698",
       "tax": 5,
       "type": "cash"
+    },
+    {
+      "nat": "132.99",
+      "ITEM": "chana masala",
+      "DATE": "2025-10-15",
+      "GSTIN": "09ABCPV2211R1Z8",
+      "QT": "2",
+      "RATE": "63.33",
+      "GP": "masale",
+      "S_NO": "3609",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "66.5",
+      "ITEM": "samber masala",
+      "DATE": "2025-10-15",
+      "GSTIN": "09ABCPV2211R1Z8",
+      "QT": "1",
+      "RATE": "63.33",
+      "GP": "masale",
+      "S_NO": "3609",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "66.5",
+      "ITEM": "deggi mirch 0904",
+      "DATE": "2025-10-15",
+      "GSTIN": "09ABCPV2211R1Z8",
+      "QT": "1",
+      "RATE": "63.33",
+      "GP": "masale",
+      "S_NO": "3609",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "66.5",
+      "ITEM": "pav bhaji masala",
+      "DATE": "2025-10-15",
+      "GSTIN": "09ABCPV2211R1Z8",
+      "QT": "1",
+      "RATE": "63.33",
+      "GP": "masale",
+      "S_NO": "3609",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "223.81",
+      "ITEM": "kasoori methi 25gm",
+      "DATE": "2025-10-15",
+      "GSTIN": "09ABCPV2211R1Z8",
+      "QT": "10",
+      "RATE": "21.32",
+      "GP": "masale",
+      "S_NO": "3609",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "166.26",
+      "ITEM": "deggi mirch 0904",
+      "DATE": "2025-10-15",
+      "GSTIN": "09ABCPV2211R1Z8",
+      "QT": "2",
+      "RATE": "79.17",
+      "GP": "masale",
+      "S_NO": "3609",
+      "tax": 5,
+      "type": "cash"
     }
   ],
   "sagar_and_co": [
@@ -5321,6 +5393,18 @@
       "RATE": "33.81",
       "GP": "sugar_boora",
       "S_NO": "523",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "32399.96",
+      "ITEM": "sugar",
+      "DATE": "2025-10-11",
+      "GSTIN": " 09ABEPK1523F1Z1",
+      "QT": "750",
+      "RATE": "41.14",
+      "GP": "sugar_boora",
+      "S_NO": "1203",
       "tax": 5,
       "type": "deb"
     }
@@ -20911,6 +20995,114 @@
       "RATE": "78",
       "GP": "atta_maida",
       "S_NO": "690",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "5400",
+      "ITEM": "arhar dal",
+      "DATE": "2025-10-12",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "60",
+      "RATE": "90",
+      "GP": "dal",
+      "S_NO": "718",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "7200",
+      "ITEM": "chana kabuli",
+      "DATE": "2025-10-12",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "60",
+      "RATE": "120",
+      "GP": "dal",
+      "S_NO": "718",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "5400",
+      "ITEM": "dal moong",
+      "DATE": "2025-10-12",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "60",
+      "RATE": "90",
+      "GP": "dal",
+      "S_NO": "718",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "8280",
+      "ITEM": "moong dhuli",
+      "DATE": "2025-10-12",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "92",
+      "GP": "dal",
+      "S_NO": "718",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "6480",
+      "ITEM": "chana kala 0713",
+      "DATE": "2025-10-12",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "72",
+      "GP": "dal",
+      "S_NO": "718",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "8640",
+      "ITEM": "masoor",
+      "DATE": "2025-10-12",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "120",
+      "RATE": "72",
+      "GP": "dal",
+      "S_NO": "718",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "4140",
+      "ITEM": "matar",
+      "DATE": "2025-10-12",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "46",
+      "GP": "dal",
+      "S_NO": "718",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "18000",
+      "ITEM": "rice dubar",
+      "DATE": "2025-10-12",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "360",
+      "RATE": "50",
+      "GP": "rice",
+      "S_NO": "718",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "5400.01",
+      "ITEM": "besan",
+      "DATE": "2025-10-12",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "70",
+      "RATE": "77.14",
+      "GP": "atta_maida",
+      "S_NO": "718",
       "tax": 0,
       "type": "deb"
     }
