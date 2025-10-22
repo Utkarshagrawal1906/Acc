@@ -3625,6 +3625,90 @@
       "S_NO": "TI 57",
       "tax": 5,
       "type": "cre"
+    },
+    {
+      "nat": "6142.5",
+      "ITEM": "chana masala",
+      "DATE": "2025-10-17",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "90",
+      "RATE": "65",
+      "GP": "masale",
+      "S_NO": "TI 59",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "5953.5",
+      "ITEM": "chat massala 0910",
+      "DATE": "2025-10-17",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "90",
+      "RATE": "63",
+      "GP": "masale",
+      "S_NO": "TI 59",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "5880",
+      "ITEM": "kitchen king",
+      "DATE": "2025-10-17",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "80",
+      "RATE": "70",
+      "GP": "masale",
+      "S_NO": "TI 59",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "2520",
+      "ITEM": "samber masala",
+      "DATE": "2025-10-17",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "40",
+      "RATE": "60",
+      "GP": "masale",
+      "S_NO": "TI 59",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "2772",
+      "ITEM": "pav bhaji masala",
+      "DATE": "2025-10-17",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "40",
+      "RATE": "66",
+      "GP": "masale",
+      "S_NO": "TI 59",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "2173.5",
+      "ITEM": "meat masala",
+      "DATE": "2025-10-17",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "30",
+      "RATE": "69",
+      "GP": "masale",
+      "S_NO": "TI 59",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "13110.3",
+      "ITEM": "sugar",
+      "DATE": "2025-10-17",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "300",
+      "RATE": "41.62",
+      "GP": "sugar_boora",
+      "S_NO": "TI 59",
+      "tax": 5,
+      "type": "cre"
     }
   ],
   "palm_tree_hotel_and_restaurent": [
