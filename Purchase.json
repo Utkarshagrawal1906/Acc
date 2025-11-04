@@ -21105,6 +21105,90 @@
       "S_NO": "718",
       "tax": 0,
       "type": "deb"
+    },
+    {
+      "nat": "9000",
+      "ITEM": "arhar dal",
+      "DATE": "2025-10-30",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "100",
+      "GP": "dal",
+      "S_NO": "787",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "7200",
+      "ITEM": "dal masoor",
+      "DATE": "2025-10-30",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "80",
+      "GP": "dal",
+      "S_NO": "787",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "10710",
+      "ITEM": "rajma",
+      "DATE": "2025-10-30",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "119",
+      "GP": "dal",
+      "S_NO": "787",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "9000",
+      "ITEM": "dal urad",
+      "DATE": "2025-10-30",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "100",
+      "GP": "dal",
+      "S_NO": "787",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "8100",
+      "ITEM": "chana kabuli",
+      "DATE": "2025-10-30",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "90",
+      "GP": "dal",
+      "S_NO": "787",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "2100",
+      "ITEM": "chana kala 0713",
+      "DATE": "2025-10-30",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "30",
+      "RATE": "70",
+      "GP": "dal",
+      "S_NO": "787",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "15000",
+      "ITEM": "rice dubar",
+      "DATE": "2025-10-30",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "300",
+      "RATE": "50",
+      "GP": "rice",
+      "S_NO": "787",
+      "tax": 0,
+      "type": "deb"
     }
   ],
   "om_traders": [
