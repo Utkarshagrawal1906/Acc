@@ -56,9 +56,9 @@
     },
     {
       "unit": "KG",
-      "amount": "25677.46",
+      "amount": "22253.8",
       "hsn": "0801",
-      "quantity": "33.75",
+      "quantity": "29.25",
       "rate": "760.81",
       "name": "kaju",
       "TAX": 5
@@ -276,10 +276,10 @@
     },
     {
       "unit": "KG",
-      "amount": "3209.8",
+      "amount": "7079.8",
       "hsn": "2501",
-      "quantity": "123",
-      "rate": "26.1",
+      "quantity": "273",
+      "rate": "25.93",
       "name": "SALT (NAMAK)",
       "TAX": 0
     },
@@ -723,9 +723,9 @@
     },
     {
       "unit": "KG",
-      "amount": "2990.05",
+      "amount": "2616.3",
       "hsn": "0909",
-      "quantity": "40",
+      "quantity": "35",
       "rate": "74.75",
       "name": "sounf",
       "TAX": 5
