@@ -4213,6 +4213,18 @@
       "S_NO": "TI 67",
       "tax": 5,
       "type": "cre"
+    },
+    {
+      "nat": "388.5",
+      "ITEM": "sounf",
+      "DATE": "2025-11-30",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "5",
+      "RATE": "74",
+      "GP": "masale",
+      "S_NO": "TI 69",
+      "tax": 5,
+      "type": "cre"
     }
   ],
   "palm_tree_hotel_and_restaurent": [
@@ -34756,6 +34768,18 @@
       "GP": "atta_maida",
       "S_NO": "BS 90",
       "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "3614.62",
+      "ITEM": "kaju",
+      "DATE": "2025-11-29",
+      "GSTIN": " ",
+      "QT": "4.5",
+      "RATE": "765",
+      "GP": "dry_fruits",
+      "S_NO": "TI 68",
+      "tax": 5,
       "type": "cre"
     }
   ],
