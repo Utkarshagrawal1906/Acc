@@ -21825,6 +21825,90 @@
       "S_NO": "841",
       "tax": 0,
       "type": "deb"
+    },
+    {
+      "nat": "6300",
+      "ITEM": "dal chana",
+      "DATE": "2025-12-04",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "70",
+      "GP": "dal",
+      "S_NO": "885",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "9000",
+      "ITEM": "arhar dal",
+      "DATE": "2025-12-04",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "100",
+      "GP": "dal",
+      "S_NO": "885",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "6300",
+      "ITEM": "chana kala 0713",
+      "DATE": "2025-12-04",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "70",
+      "GP": "dal",
+      "S_NO": "885",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "8460",
+      "ITEM": "moong dhuli",
+      "DATE": "2025-12-04",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "94",
+      "GP": "dal",
+      "S_NO": "885",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "10800",
+      "ITEM": "rajma",
+      "DATE": "2025-12-04",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "120",
+      "GP": "dal",
+      "S_NO": "885",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "8460",
+      "ITEM": "dal urad",
+      "DATE": "2025-12-04",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "94",
+      "GP": "dal",
+      "S_NO": "885",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "25500",
+      "ITEM": "rice dubar",
+      "DATE": "2025-12-04",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "510",
+      "RATE": "50",
+      "GP": "rice",
+      "S_NO": "885",
+      "tax": 0,
+      "type": "deb"
     }
   ],
   "om_traders": [
