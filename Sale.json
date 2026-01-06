@@ -35405,6 +35405,18 @@
       "S_NO": "TI 78",
       "tax": 5,
       "type": "cash"
+    },
+    {
+      "nat": "2592",
+      "ITEM": "atta",
+      "DATE": "2025-12-31",
+      "GSTIN": " ",
+      "QT": "81",
+      "RATE": "32",
+      "GP": "atta_maida",
+      "S_NO": "BS 101",
+      "tax": 0,
+      "type": "cash"
     }
   ],
   "pick_n_pay_store": [
