@@ -251,6 +251,18 @@
       "S_NO": "4408",
       "tax": 0,
       "type": "deb"
+    },
+    {
+      "nat": "2580",
+      "ITEM": "SALT (NAMAK)",
+      "DATE": "2026-01-08",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "100",
+      "RATE": "25.8",
+      "GP": "other",
+      "S_NO": "4594",
+      "tax": 0,
+      "type": "deb"
     }
   ],
   "dev_goldiee_agency": [
