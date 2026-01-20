@@ -128,9 +128,9 @@
     },
     {
       "unit": "KG",
-      "amount": "13812.41",
+      "amount": "11049.93",
       "hsn": "08021100",
-      "quantity": "20",
+      "quantity": "16",
       "rate": "690.62",
       "name": "Makhana tax",
       "TAX": 5
@@ -231,10 +231,10 @@
     },
     {
       "unit": "KG",
-      "amount": "1891.79",
+      "amount": "3529.87",
       "hsn": "0902",
-      "quantity": "5.6",
-      "rate": "337.82",
+      "quantity": "9.6",
+      "rate": "367.7",
       "name": "tea",
       "TAX": 5
     },
@@ -318,6 +318,15 @@
       "rate": "18.71",
       "name": "Vinegar",
       "TAX": 18
+    },
+    {
+      "unit": "PKT",
+      "amount": "94.8",
+      "hsn": "2101",
+      "quantity": "60",
+      "rate": "1.58",
+      "name": "Coffee",
+      "TAX": 5
     }
   ],
   "oil": [
@@ -341,9 +350,9 @@
     },
     {
       "unit": "LTR",
-      "amount": "10053.69",
+      "amount": "5788.49",
       "hsn": "1514",
-      "quantity": "66",
+      "quantity": "38",
       "rate": "152.33",
       "name": "MUSTARD OIL",
       "TAX": 5
@@ -370,10 +379,10 @@
   "atta_maida": [
     {
       "unit": "KG",
-      "amount": "500.81",
+      "amount": "503.93",
       "hsn": "1101",
       "quantity": "18",
-      "rate": "27.82",
+      "rate": "28",
       "name": "atta",
       "TAX": 0
     },
@@ -406,19 +415,19 @@
     },
     {
       "unit": "KG",
-      "amount": "1592.67",
+      "amount": "382.24",
       "hsn": "1101",
-      "quantity": "50",
+      "quantity": "12",
       "rate": "31.85",
       "name": "sooji",
       "TAX": 0
     },
     {
       "unit": "KG",
-      "amount": "480.27",
+      "amount": "468.85",
       "hsn": "1101",
       "quantity": "16.5",
-      "rate": "29.11",
+      "rate": "28.42",
       "name": "MAIDA",
       "TAX": 0
     },
@@ -624,9 +633,9 @@
     },
     {
       "unit": "KG",
-      "amount": "6403.09",
+      "amount": "4004.93",
       "hsn": "0906",
-      "quantity": "26.7",
+      "quantity": "16.7",
       "rate": "239.82",
       "name": "dalchini",
       "TAX": 5
@@ -990,9 +999,9 @@
     },
     {
       "unit": "KG",
-      "amount": "2677.27",
+      "amount": "708.69",
       "hsn": "0713",
-      "quantity": "27.2",
+      "quantity": "7.2",
       "rate": "98.43",
       "name": "dal urad",
       "TAX": 0
@@ -1062,9 +1071,9 @@
     },
     {
       "unit": "KG",
-      "amount": "2270.8",
+      "amount": "429.61",
       "hsn": "0713",
-      "quantity": "18.5",
+      "quantity": "3.5",
       "rate": "122.75",
       "name": "dal urad dhuli",
       "TAX": 0
