@@ -263,6 +263,30 @@
       "S_NO": "4594",
       "tax": 0,
       "type": "deb"
+    },
+    {
+      "nat": "1719.98",
+      "ITEM": "tea",
+      "DATE": "2026-01-16",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "4",
+      "RATE": "409.52",
+      "GP": "other",
+      "S_NO": "4742",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "99.54",
+      "ITEM": "Coffee",
+      "DATE": "2026-01-16",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "60",
+      "RATE": "1.58",
+      "GP": "other",
+      "S_NO": "4742",
+      "tax": 5,
+      "type": "deb"
     }
   ],
   "dev_goldiee_agency": [
@@ -17282,6 +17306,30 @@
       "GP": "sugar_boora",
       "S_NO": "4354",
       "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "21000",
+      "ITEM": "atta",
+      "DATE": "2026-01-04",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "750",
+      "RATE": "28",
+      "GP": "atta_maida",
+      "S_NO": "B906",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "21300",
+      "ITEM": "MAIDA",
+      "DATE": "2026-01-04",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "750",
+      "RATE": "28.4",
+      "GP": "atta_maida",
+      "S_NO": "B906",
+      "tax": 0,
       "type": "deb"
     }
   ],
