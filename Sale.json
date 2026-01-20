@@ -4885,6 +4885,42 @@
       "S_NO": "TI 81",
       "tax": 5,
       "type": "cre"
+    },
+    {
+      "nat": "19200",
+      "ITEM": "atta",
+      "DATE": "2026-01-14",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "600",
+      "RATE": "32",
+      "GP": "atta_maida",
+      "S_NO": "BS 107",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "19800",
+      "ITEM": "MAIDA",
+      "DATE": "2026-01-14",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "600",
+      "RATE": "33",
+      "GP": "atta_maida",
+      "S_NO": "BS 107",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "1288.2",
+      "ITEM": "sooji",
+      "DATE": "2026-01-14",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "38",
+      "RATE": "33.9",
+      "GP": "atta_maida",
+      "S_NO": "BS 107",
+      "tax": 0,
+      "type": "cre"
     }
   ],
   "palm_tree_hotel_and_restaurent": [
@@ -35775,6 +35811,90 @@
       "RATE": "28",
       "GP": "other",
       "S_NO": "BS 106",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "2919",
+      "ITEM": "Makhana tax",
+      "DATE": "2026-01-15",
+      "GSTIN": " ",
+      "QT": "4",
+      "RATE": "695",
+      "GP": "dry_fruits",
+      "S_NO": "TI 83",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "2541",
+      "ITEM": "dalchini",
+      "DATE": "2026-01-18",
+      "GSTIN": " ",
+      "QT": "10",
+      "RATE": "242",
+      "GP": "masale",
+      "S_NO": "TI 84",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "4527.6",
+      "ITEM": "MUSTARD OIL",
+      "DATE": "2026-01-18",
+      "GSTIN": " ",
+      "QT": "28",
+      "RATE": "154",
+      "GP": "oil",
+      "S_NO": "TI 84",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "4950",
+      "ITEM": "atta",
+      "DATE": "2026-01-19",
+      "GSTIN": " ",
+      "QT": "150",
+      "RATE": "33",
+      "GP": "atta_maida",
+      "S_NO": "BS 108",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "5100",
+      "ITEM": "MAIDA",
+      "DATE": "2026-01-19",
+      "GSTIN": " ",
+      "QT": "150",
+      "RATE": "34",
+      "GP": "atta_maida",
+      "S_NO": "BS 108",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "2200",
+      "ITEM": "dal urad",
+      "DATE": "2026-01-19",
+      "GSTIN": " ",
+      "QT": "20",
+      "RATE": "110",
+      "GP": "dal",
+      "S_NO": "BS 108",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "2100",
+      "ITEM": "dal urad dhuli",
+      "DATE": "2026-01-19",
+      "GSTIN": " ",
+      "QT": "15",
+      "RATE": "140",
+      "GP": "dal",
+      "S_NO": "BS 108",
       "tax": 0,
       "type": "cre"
     }
