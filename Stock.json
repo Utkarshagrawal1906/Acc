@@ -56,10 +56,10 @@
     },
     {
       "unit": "KG",
-      "amount": "8108.05",
+      "amount": "26948.05",
       "hsn": "0801",
-      "quantity": "10.75",
-      "rate": "754.24",
+      "quantity": "34.75",
+      "rate": "775.48",
       "name": "kaju",
       "TAX": 5
     },
@@ -379,9 +379,9 @@
   "atta_maida": [
     {
       "unit": "KG",
-      "amount": "503.93",
+      "amount": "21503.93",
       "hsn": "1101",
-      "quantity": "18",
+      "quantity": "768",
       "rate": "28",
       "name": "atta",
       "TAX": 0
@@ -424,10 +424,10 @@
     },
     {
       "unit": "KG",
-      "amount": "468.85",
+      "amount": "21918.85",
       "hsn": "1101",
-      "quantity": "16.5",
-      "rate": "28.42",
+      "quantity": "766.5",
+      "rate": "28.6",
       "name": "MAIDA",
       "TAX": 0
     },
@@ -660,10 +660,10 @@
     },
     {
       "unit": "KG",
-      "amount": "8711.95",
+      "amount": "23363.95",
       "hsn": "0904",
-      "quantity": "17.7",
-      "rate": "492.2",
+      "quantity": "57.7",
+      "rate": "404.92",
       "name": "kali mirch 0904",
       "TAX": 5
     },
