@@ -1425,6 +1425,30 @@
       "S_NO": "106",
       "tax": 5,
       "type": "deb"
+    },
+    {
+      "nat": 15384.6,
+      "ITEM": "kali mirch 0904",
+      "DATE": "2026-01-21",
+      "GSTIN": "09BQVPG7847R1ZG",
+      "QT": 40,
+      "RATE": 366.3,
+      "GP": "masale",
+      "S_NO": "0842",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": 19782,
+      "ITEM": "kaju",
+      "DATE": "2026-01-21",
+      "GSTIN": "09BQVPG7847R1ZG",
+      "QT": 24,
+      "RATE": 785,
+      "GP": "dry_fruits",
+      "S_NO": "0842",
+      "tax": 5,
+      "type": "deb"
     }
   ],
   "parul_traders": [
@@ -17329,6 +17353,30 @@
       "RATE": "28.4",
       "GP": "atta_maida",
       "S_NO": "B906",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "21450",
+      "ITEM": "MAIDA",
+      "DATE": "2026-01-15",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "750",
+      "RATE": "28.6",
+      "GP": "atta_maida",
+      "S_NO": "B922",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "21000",
+      "ITEM": "atta",
+      "DATE": "2026-01-15",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "750",
+      "RATE": "28",
+      "GP": "atta_maida",
+      "S_NO": "B922",
       "tax": 0,
       "type": "deb"
     }
