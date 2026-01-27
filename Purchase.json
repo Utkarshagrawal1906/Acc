@@ -22559,6 +22559,102 @@
       "S_NO": "940",
       "tax": 0,
       "type": "deb"
+    },
+    {
+      "nat": "9000",
+      "ITEM": "arhar dal",
+      "DATE": "2026-01-22",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "100",
+      "GP": "dal",
+      "S_NO": "996",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "8100",
+      "ITEM": "chana kabuli",
+      "DATE": "2026-01-22",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "90",
+      "GP": "dal",
+      "S_NO": "996",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "6600",
+      "ITEM": "rajma",
+      "DATE": "2026-01-22",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "60",
+      "RATE": "110",
+      "GP": "dal",
+      "S_NO": "996",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "8100",
+      "ITEM": "dal moong",
+      "DATE": "2026-01-22",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "90",
+      "GP": "dal",
+      "S_NO": "996",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "10500",
+      "ITEM": "chana kala 0713",
+      "DATE": "2026-01-22",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "150",
+      "RATE": "70",
+      "GP": "dal",
+      "S_NO": "996",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "6000",
+      "ITEM": "dal urad",
+      "DATE": "2026-01-22",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "60",
+      "RATE": "100",
+      "GP": "dal",
+      "S_NO": "996",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "16500",
+      "ITEM": "rice basmati",
+      "DATE": "2026-01-22",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "300",
+      "RATE": "55",
+      "GP": "rice",
+      "S_NO": "996",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "7500",
+      "ITEM": "besan",
+      "DATE": "2026-01-22",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "105",
+      "RATE": "71.43",
+      "GP": "atta_maida",
+      "S_NO": "996",
+      "tax": 0,
+      "type": "deb"
     }
   ],
   "om_traders": [
