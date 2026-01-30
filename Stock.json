@@ -56,10 +56,10 @@
     },
     {
       "unit": "KG",
-      "amount": "26948.05",
+      "amount": "34348.05",
       "hsn": "0801",
-      "quantity": "34.75",
-      "rate": "775.48",
+      "quantity": "44.75",
+      "rate": "767.55",
       "name": "kaju",
       "TAX": 5
     },
@@ -471,10 +471,10 @@
     },
     {
       "unit": "PKT",
-      "amount": "1710.18",
+      "amount": "5310.18",
       "hsn": "0910",
-      "quantity": "28",
-      "rate": "61.08",
+      "quantity": "88",
+      "rate": "60.34",
       "name": "chat massala 0910",
       "TAX": 5
     },
@@ -498,19 +498,19 @@
     },
     {
       "unit": "PKT",
-      "amount": "4061.87",
+      "amount": "11081.87",
       "hsn": "0904",
-      "quantity": "53",
-      "rate": "76.64",
+      "quantity": "143",
+      "rate": "77.5",
       "name": "deggi mirch 0904",
       "TAX": 5
     },
     {
       "unit": "PKT",
-      "amount": "3513.28",
+      "amount": "5883.28",
       "hsn": "0910",
-      "quantity": "45",
-      "rate": "78.07",
+      "quantity": "75",
+      "rate": "78.44",
       "name": "garam masala",
       "TAX": 5
     },
@@ -534,10 +534,10 @@
     },
     {
       "unit": "PKT",
-      "amount": "3158.34",
+      "amount": "6758.34",
       "hsn": "0910",
-      "quantity": "48",
-      "rate": "65.8",
+      "quantity": "108",
+      "rate": "62.58",
       "name": "pav bhaji masala",
       "TAX": 5
     },
@@ -561,10 +561,10 @@
     },
     {
       "unit": "PKT",
-      "amount": "1067.68",
+      "amount": "4667.68",
       "hsn": "0910",
-      "quantity": "18",
-      "rate": "59.32",
+      "quantity": "78",
+      "rate": "59.84",
       "name": "samber masala",
       "TAX": 5
     },
@@ -678,37 +678,37 @@
     },
     {
       "unit": "PKT",
-      "amount": "1493.84",
+      "amount": "5333.84",
       "hsn": "0910",
-      "quantity": "23",
-      "rate": "64.95",
+      "quantity": "83",
+      "rate": "64.26",
       "name": "chana masala",
       "TAX": 5
     },
     {
       "unit": "PKT",
-      "amount": "1584.48",
+      "amount": "5484.48",
       "hsn": "0910",
-      "quantity": "23",
-      "rate": "68.89",
+      "quantity": "83",
+      "rate": "66.08",
       "name": "meat masala",
       "TAX": 5
     },
     {
       "unit": "PKT",
-      "amount": "5843.71",
+      "amount": "9743.71",
       "hsn": "0910",
-      "quantity": "88",
-      "rate": "66.41",
+      "quantity": "148",
+      "rate": "65.84",
       "name": "kitchen king",
       "TAX": 5
     },
     {
       "unit": "PKT",
-      "amount": "1665.43",
+      "amount": "3195.43",
       "hsn": "0910",
-      "quantity": "32",
-      "rate": "52.04",
+      "quantity": "62",
+      "rate": "51.54",
       "name": "jaljeera masala",
       "TAX": 5
     },
