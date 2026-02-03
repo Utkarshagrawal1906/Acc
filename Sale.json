@@ -5065,6 +5065,90 @@
       "S_NO": "TI 85",
       "tax": 5,
       "type": "cre"
+    },
+    {
+      "nat": "4977",
+      "ITEM": "deggi mirch 0904",
+      "DATE": "2026-01-28",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "60",
+      "RATE": "79",
+      "GP": "masale",
+      "S_NO": "TI 86",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "2520",
+      "ITEM": "garam masala",
+      "DATE": "2026-01-28",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "30",
+      "RATE": "80",
+      "GP": "masale",
+      "S_NO": "TI 86",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "8610",
+      "ITEM": "kali mirch 0904",
+      "DATE": "2026-01-28",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "20",
+      "RATE": "410",
+      "GP": "masale",
+      "S_NO": "TI 86",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "3517.5",
+      "ITEM": "kitchen king",
+      "DATE": "2026-01-28",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "50",
+      "RATE": "67",
+      "GP": "masale",
+      "S_NO": "TI 86",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "3360",
+      "ITEM": "pav bhaji masala",
+      "DATE": "2026-01-28",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "50",
+      "RATE": "64",
+      "GP": "masale",
+      "S_NO": "TI 86",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "3200",
+      "ITEM": "atta",
+      "DATE": "2026-01-29",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "100",
+      "RATE": "32",
+      "GP": "atta_maida",
+      "S_NO": "BS 113",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "1151.07",
+      "ITEM": "MAIDA",
+      "DATE": "2026-01-29",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "37",
+      "RATE": "31.11",
+      "GP": "atta_maida",
+      "S_NO": "BS 113",
+      "tax": 0,
+      "type": "cre"
     }
   ],
   "palm_tree_hotel_and_restaurent": [
@@ -36089,6 +36173,102 @@
       "S_NO": "BS 112",
       "tax": 0,
       "type": "cre"
+    },
+    {
+      "nat": "3300",
+      "ITEM": "MAIDA",
+      "DATE": "2026-01-30",
+      "GSTIN": " ",
+      "QT": "100",
+      "RATE": "33",
+      "GP": "atta_maida",
+      "S_NO": "114",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "2400",
+      "ITEM": "besan",
+      "DATE": "2026-01-30",
+      "GSTIN": " ",
+      "QT": "30",
+      "RATE": "80",
+      "GP": "atta_maida",
+      "S_NO": "114",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "4000",
+      "ITEM": "chana kala 0713",
+      "DATE": "2026-01-30",
+      "GSTIN": " ",
+      "QT": "50",
+      "RATE": "80",
+      "GP": "dal",
+      "S_NO": "114",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "2600",
+      "ITEM": "rajma",
+      "DATE": "2026-02-02",
+      "GSTIN": " ",
+      "QT": "20",
+      "RATE": "130",
+      "GP": "dal",
+      "S_NO": "115",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "3600",
+      "ITEM": "arhar dal",
+      "DATE": "2026-02-02",
+      "GSTIN": " ",
+      "QT": "30",
+      "RATE": "120",
+      "GP": "dal",
+      "S_NO": "115",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "3300",
+      "ITEM": "chana kabuli",
+      "DATE": "2026-02-02",
+      "GSTIN": " ",
+      "QT": "30",
+      "RATE": "110",
+      "GP": "dal",
+      "S_NO": "115",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "3300",
+      "ITEM": "dal moong",
+      "DATE": "2026-02-02",
+      "GSTIN": " ",
+      "QT": "30",
+      "RATE": "110",
+      "GP": "dal",
+      "S_NO": "115",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "510",
+      "ITEM": "dal urad",
+      "DATE": "2026-02-02",
+      "GSTIN": " ",
+      "QT": "5",
+      "RATE": "102",
+      "GP": "dal",
+      "S_NO": "115",
+      "tax": 0,
+      "type": "cash"
     }
   ],
   "pick_n_pay_store": [
