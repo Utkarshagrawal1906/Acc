@@ -5377,6 +5377,90 @@
       "S_NO": "BS 119",
       "tax": 0,
       "type": "cre"
+    },
+    {
+      "nat": "3010",
+      "ITEM": "besan",
+      "DATE": "2026-02-20",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "35",
+      "RATE": "86",
+      "GP": "atta_maida",
+      "S_NO": "BS 122",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "12800",
+      "ITEM": "rice dubar",
+      "DATE": "2026-02-20",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "200",
+      "RATE": "64",
+      "GP": "rice",
+      "S_NO": "BS 122",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "3300",
+      "ITEM": "chana kabuli",
+      "DATE": "2026-02-20",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "30",
+      "RATE": "110",
+      "GP": "dal",
+      "S_NO": "BS 122",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "3600",
+      "ITEM": "dal moong",
+      "DATE": "2026-02-20",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "30",
+      "RATE": "120",
+      "GP": "dal",
+      "S_NO": "BS 122",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "3900",
+      "ITEM": "dal urad",
+      "DATE": "2026-02-20",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "30",
+      "RATE": "130",
+      "GP": "dal",
+      "S_NO": "BS 122",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "4050",
+      "ITEM": "rajma",
+      "DATE": "2026-02-20",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "30",
+      "RATE": "135",
+      "GP": "dal",
+      "S_NO": "BS 122",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "5946.6",
+      "ITEM": "papad",
+      "DATE": "2026-02-20",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "22",
+      "RATE": "270.3",
+      "GP": "other",
+      "S_NO": "BS 122",
+      "tax": 0,
+      "type": "cre"
     }
   ],
   "palm_tree_hotel_and_restaurent": [
@@ -36651,6 +36735,66 @@
       "RATE": "132",
       "GP": "dal",
       "S_NO": "BS 120",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "11807.77",
+      "ITEM": "kaju",
+      "DATE": "2026-02-18",
+      "GSTIN": " ",
+      "QT": "14.7",
+      "RATE": "765",
+      "GP": "dry_fruits",
+      "S_NO": "TI 92",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "14000",
+      "ITEM": "rice dubar",
+      "DATE": "2026-02-19",
+      "GSTIN": " ",
+      "QT": "200",
+      "RATE": "70",
+      "GP": "rice",
+      "S_NO": "BS 121",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "9240",
+      "ITEM": "rajma",
+      "DATE": "2026-02-19",
+      "GSTIN": " ",
+      "QT": "70",
+      "RATE": "132",
+      "GP": "dal",
+      "S_NO": "BS 121",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "4800",
+      "ITEM": "chana kala 0713",
+      "DATE": "2026-02-23",
+      "GSTIN": " ",
+      "QT": "60",
+      "RATE": "80",
+      "GP": "dal",
+      "S_NO": "BS 123",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "3240",
+      "ITEM": "dal moong",
+      "DATE": "2026-02-23",
+      "GSTIN": " ",
+      "QT": "27",
+      "RATE": "120",
+      "GP": "dal",
+      "S_NO": "BS 123",
       "tax": 0,
       "type": "cash"
     }
