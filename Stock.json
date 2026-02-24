@@ -56,9 +56,9 @@
     },
     {
       "unit": "KG",
-      "amount": "30180.04",
+      "amount": "19019.12",
       "hsn": "0801",
-      "quantity": "39.75",
+      "quantity": "25.05",
       "rate": "759.25",
       "name": "kaju",
       "TAX": 5
@@ -222,10 +222,10 @@
     },
     {
       "unit": "KG",
-      "amount": "2646.62",
+      "amount": "9856.77",
       "hsn": "1905",
-      "quantity": "9.5",
-      "rate": "278.59",
+      "quantity": "39.5",
+      "rate": "249.54",
       "name": "papad",
       "TAX": 0
     },
@@ -406,10 +406,10 @@
     },
     {
       "unit": "KG",
-      "amount": "1707.7",
+      "amount": "4196.81",
       "hsn": "1106",
-      "quantity": "23.5",
-      "rate": "72.67",
+      "quantity": "58.5",
+      "rate": "71.74",
       "name": "besan",
       "TAX": 0
     },
@@ -844,9 +844,9 @@
     },
     {
       "unit": "KG",
-      "amount": "470",
+      "amount": "10470",
       "hsn": "1006",
-      "quantity": "9.4",
+      "quantity": "209.4",
       "rate": "50",
       "name": "rice dubar",
       "TAX": 0
@@ -972,10 +972,10 @@
     },
     {
       "unit": "KG",
-      "amount": "3362.58",
+      "amount": "8632.31",
       "hsn": "0713",
-      "quantity": "31.5",
-      "rate": "106.75",
+      "quantity": "91.5",
+      "rate": "94.34",
       "name": "chana kabuli",
       "TAX": 0
     },
@@ -990,19 +990,19 @@
     },
     {
       "unit": "KG",
-      "amount": "2370.39",
+      "amount": "5416.89",
       "hsn": "0713",
-      "quantity": "25",
-      "rate": "94.82",
+      "quantity": "58",
+      "rate": "93.39",
       "name": "dal moong",
       "TAX": 0
     },
     {
       "unit": "KG",
-      "amount": "2216.26",
+      "amount": "9008.49",
       "hsn": "0713",
-      "quantity": "22.2",
-      "rate": "99.83",
+      "quantity": "82.2",
+      "rate": "109.59",
       "name": "dal urad",
       "TAX": 0
     },
@@ -1026,10 +1026,10 @@
     },
     {
       "unit": "KG",
-      "amount": "447.1",
+      "amount": "2577.1",
       "hsn": "0713",
-      "quantity": "6",
-      "rate": "74.52",
+      "quantity": "36",
+      "rate": "71.59",
       "name": "masoor",
       "TAX": 0
     },
@@ -1053,9 +1053,9 @@
     },
     {
       "unit": "KG",
-      "amount": "4510.18",
+      "amount": "3410.04",
       "hsn": "0713",
-      "quantity": "41",
+      "quantity": "31",
       "rate": "110",
       "name": "rajma",
       "TAX": 0
@@ -1107,10 +1107,10 @@
     },
     {
       "unit": "KG",
-      "amount": "0",
+      "amount": "2040",
       "hsn": "0713",
-      "quantity": "0",
-      "rate": "70",
+      "quantity": "30",
+      "rate": "68",
       "name": "chana kala 0713",
       "TAX": 0
     },
