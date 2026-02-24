@@ -9529,6 +9529,42 @@
       "S_NO": "27348",
       "tax": 5,
       "type": "deb"
+    },
+    {
+      "nat": "4900",
+      "ITEM": "papad",
+      "DATE": "2026-02-23",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "20",
+      "RATE": "245",
+      "GP": "other",
+      "S_NO": "619",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "4800",
+      "ITEM": "papad",
+      "DATE": "2026-02-23",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "20",
+      "RATE": "240",
+      "GP": "other",
+      "S_NO": "619",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "3000",
+      "ITEM": "papad",
+      "DATE": "2026-02-23",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "12",
+      "RATE": "250",
+      "GP": "other",
+      "S_NO": "619",
+      "tax": 0,
+      "type": "cash"
     }
   ],
   "deepak_kumar_ashish_kumar": [
@@ -23205,6 +23241,102 @@
       "RATE": "50",
       "GP": "rice",
       "S_NO": "1037",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "8100",
+      "ITEM": "chana kabuli",
+      "DATE": "2026-02-15",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "90",
+      "GP": "dal",
+      "S_NO": "1059",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "8370",
+      "ITEM": "dal moong",
+      "DATE": "2026-02-15",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "93",
+      "GP": "dal",
+      "S_NO": "1059",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "6120",
+      "ITEM": "chana kala 0713",
+      "DATE": "2026-02-15",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "68",
+      "GP": "dal",
+      "S_NO": "1059",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "9900",
+      "ITEM": "rajma",
+      "DATE": "2026-02-15",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "110",
+      "GP": "dal",
+      "S_NO": "1059",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "10080",
+      "ITEM": "dal urad",
+      "DATE": "2026-02-15",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "112",
+      "GP": "dal",
+      "S_NO": "1059",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "2130",
+      "ITEM": "masoor",
+      "DATE": "2026-02-15",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "30",
+      "RATE": "71",
+      "GP": "dal",
+      "S_NO": "1059",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "30000",
+      "ITEM": "rice dubar",
+      "DATE": "2026-02-15",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "600",
+      "RATE": "50",
+      "GP": "rice",
+      "S_NO": "1059",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "5000.03",
+      "ITEM": "besan",
+      "DATE": "2026-02-15",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "70",
+      "RATE": "71.43",
+      "GP": "atta_maida",
+      "S_NO": "1059",
       "tax": 0,
       "type": "deb"
     }
