@@ -311,6 +311,30 @@
       "S_NO": "5255",
       "tax": 0,
       "type": "cash"
+    },
+    {
+      "nat": "1699.99",
+      "ITEM": "tea",
+      "DATE": "2026-02-20",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "4",
+      "RATE": "404.76",
+      "GP": "other",
+      "S_NO": "5356",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "533.99",
+      "ITEM": "tea",
+      "DATE": "2026-02-20",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "3",
+      "RATE": "169.52",
+      "GP": "other",
+      "S_NO": "5356",
+      "tax": 5,
+      "type": "cash"
     }
   ],
   "dev_goldiee_agency": [
