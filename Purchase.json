@@ -14565,6 +14565,42 @@
       "S_NO": "1025",
       "tax": 5,
       "type": "cash"
+    },
+    {
+      "nat": "820.05",
+      "ITEM": "desi ghee",
+      "DATE": "2026-02-16",
+      "GSTIN": "09AMPPB4498J1ZF",
+      "QT": "2",
+      "RATE": "390.5",
+      "GP": "oil",
+      "S_NO": "1046",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "1900.08",
+      "ITEM": "basmati branded",
+      "DATE": "2026-02-17",
+      "GSTIN": "09AMPPB4498J1ZF",
+      "QT": "20",
+      "RATE": "90.48",
+      "GP": "rice",
+      "S_NO": "1065",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "2000.01",
+      "ITEM": "desi ghee",
+      "DATE": "2026-02-26",
+      "GSTIN": "09AMPPB4498J1ZF",
+      "QT": "5",
+      "RATE": "380.95",
+      "GP": "oil",
+      "S_NO": "1140",
+      "tax": 5,
+      "type": "cash"
     }
   ],
   "warrior_computer": [
