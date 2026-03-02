@@ -5461,6 +5461,102 @@
       "S_NO": "BS 122",
       "tax": 0,
       "type": "cre"
+    },
+    {
+      "nat": "6800",
+      "ITEM": "MAIDA",
+      "DATE": "2026-03-01",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "200",
+      "RATE": "34",
+      "GP": "atta_maida",
+      "S_NO": "BS 125",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "6600",
+      "ITEM": "atta",
+      "DATE": "2026-03-01",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "200",
+      "RATE": "33",
+      "GP": "atta_maida",
+      "S_NO": "BS 125",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "1188",
+      "ITEM": "rice basmati",
+      "DATE": "2026-03-01",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "20",
+      "RATE": "59.4",
+      "GP": "rice",
+      "S_NO": "BS 125",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "4200",
+      "ITEM": "sugar",
+      "DATE": "2026-03-02",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "100",
+      "RATE": "40",
+      "GP": "sugar_boora",
+      "S_NO": "TI 94",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "4158",
+      "ITEM": "chana masala",
+      "DATE": "2026-03-02",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "60",
+      "RATE": "66",
+      "GP": "masale",
+      "S_NO": "TI 94",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "4000.5",
+      "ITEM": "chat massala 0910",
+      "DATE": "2026-03-02",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "60",
+      "RATE": "63.5",
+      "GP": "masale",
+      "S_NO": "TI 94",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "4725",
+      "ITEM": "deggi mirch 0904",
+      "DATE": "2026-03-02",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "60",
+      "RATE": "75",
+      "GP": "masale",
+      "S_NO": "TI 94",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "4945.5",
+      "ITEM": "garam masala",
+      "DATE": "2026-03-02",
+      "GSTIN": "09ABMFM1294P1ZF",
+      "QT": "60",
+      "RATE": "78.5",
+      "GP": "masale",
+      "S_NO": "TI 94",
+      "tax": 5,
+      "type": "cre"
     }
   ],
   "palm_tree_hotel_and_restaurent": [
@@ -36797,6 +36893,90 @@
       "S_NO": "BS 123",
       "tax": 0,
       "type": "cash"
+    },
+    {
+      "nat": "9760",
+      "ITEM": "rice dubar",
+      "DATE": "2026-02-26",
+      "GSTIN": " ",
+      "QT": "160",
+      "RATE": "61",
+      "GP": "rice",
+      "S_NO": "BS 124",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "6473.25",
+      "ITEM": "kitchen king",
+      "DATE": "2026-02-28",
+      "GSTIN": " ",
+      "QT": "90",
+      "RATE": "68.5",
+      "GP": "masale",
+      "S_NO": "TI 93",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "4725",
+      "ITEM": "deggi mirch 0904",
+      "DATE": "2026-02-28",
+      "GSTIN": " ",
+      "QT": "60",
+      "RATE": "75",
+      "GP": "masale",
+      "S_NO": "TI 93",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "4000.5",
+      "ITEM": "chat massala 0910",
+      "DATE": "2026-02-28",
+      "GSTIN": " ",
+      "QT": "60",
+      "RATE": "63.5",
+      "GP": "masale",
+      "S_NO": "TI 93",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "4524.71",
+      "ITEM": "garam masala",
+      "DATE": "2026-02-28",
+      "GSTIN": " ",
+      "QT": "55",
+      "RATE": "78.35",
+      "GP": "masale",
+      "S_NO": "TI 93",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "6000",
+      "ITEM": "chana kabuli",
+      "DATE": "2026-03-02",
+      "GSTIN": " ",
+      "QT": "50",
+      "RATE": "120",
+      "GP": "dal",
+      "S_NO": "BS 126",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "4725",
+      "ITEM": "dal urad",
+      "DATE": "2026-03-02",
+      "GSTIN": " ",
+      "QT": "35",
+      "RATE": "135",
+      "GP": "dal",
+      "S_NO": "BS 126",
+      "tax": 0,
+      "type": "cre"
     }
   ],
   "pick_n_pay_store": [
