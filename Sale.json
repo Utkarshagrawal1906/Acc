@@ -36977,6 +36977,18 @@
       "S_NO": "BS 126",
       "tax": 0,
       "type": "cre"
+    },
+    {
+      "nat": "5670.32",
+      "ITEM": "kaju",
+      "DATE": "2026-03-09",
+      "GSTIN": " ",
+      "QT": "7.05",
+      "RATE": "766",
+      "GP": "dry_fruits",
+      "S_NO": "TI 95",
+      "tax": 5,
+      "type": "cash"
     }
   ],
   "pick_n_pay_store": [
