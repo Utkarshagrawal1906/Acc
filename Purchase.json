@@ -17943,6 +17943,30 @@
       "S_NO": "B981",
       "tax": 0,
       "type": "deb"
+    },
+    {
+      "nat": "28600",
+      "ITEM": "MAIDA",
+      "DATE": "2026-03-11",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "1000",
+      "RATE": "28.6",
+      "GP": "atta_maida",
+      "S_NO": "B1050",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "26600",
+      "ITEM": "atta",
+      "DATE": "2026-03-11",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "1000",
+      "RATE": "26.6",
+      "GP": "atta_maida",
+      "S_NO": "B1050",
+      "tax": 0,
+      "type": "deb"
     }
   ],
   "vtc_tradwings_pvt_ltd": [
