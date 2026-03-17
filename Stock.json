@@ -222,18 +222,18 @@
     },
     {
       "unit": "KG",
-      "amount": "9856.77",
+      "amount": "4866",
       "hsn": "1905",
-      "quantity": "39.5",
+      "quantity": "19.5",
       "rate": "249.54",
       "name": "papad",
       "TAX": 0
     },
     {
       "unit": "KG",
-      "amount": "3451.31",
+      "amount": "1497.74",
       "hsn": "0902",
-      "quantity": "10.6",
+      "quantity": "4.6",
       "rate": "325.6",
       "name": "tea",
       "TAX": 5
@@ -379,10 +379,10 @@
   "atta_maida": [
     {
       "unit": "KG",
-      "amount": "3414.49",
+      "amount": "13101.14",
       "hsn": "1101",
-      "quantity": "118",
-      "rate": "28.94",
+      "quantity": "488",
+      "rate": "26.85",
       "name": "atta",
       "TAX": 0
     },
@@ -424,10 +424,10 @@
     },
     {
       "unit": "KG",
-      "amount": "2335.47",
+      "amount": "12881.42",
       "hsn": "1101",
-      "quantity": "79.5",
-      "rate": "29.38",
+      "quantity": "449.5",
+      "rate": "28.66",
       "name": "MAIDA",
       "TAX": 0
     },
@@ -498,9 +498,9 @@
     },
     {
       "unit": "PKT",
-      "amount": "8152.14",
+      "amount": "5928.83",
       "hsn": "0904",
-      "quantity": "110",
+      "quantity": "80",
       "rate": "74.11",
       "name": "deggi mirch 0904",
       "TAX": 5
@@ -687,9 +687,9 @@
     },
     {
       "unit": "PKT",
-      "amount": "11163.3",
+      "amount": "7738.97",
       "hsn": "0910",
-      "quantity": "163",
+      "quantity": "113",
       "rate": "68.49",
       "name": "meat masala",
       "TAX": 5
@@ -808,18 +808,18 @@
     },
     {
       "unit": "KG",
-      "amount": "2680.85",
+      "amount": "1031.1",
       "hsn": "1006",
-      "quantity": "48.75",
+      "quantity": "18.75",
       "rate": "54.99",
       "name": "rice basmati",
       "TAX": 0
     },
     {
       "unit": "KG",
-      "amount": "6924.54",
+      "amount": "6631.95",
       "hsn": "1006",
-      "quantity": "71",
+      "quantity": "68",
       "rate": "97.53",
       "name": "basmati branded",
       "TAX": 5
@@ -990,9 +990,9 @@
     },
     {
       "unit": "KG",
-      "amount": "5416.89",
+      "amount": "4482.95",
       "hsn": "0713",
-      "quantity": "58",
+      "quantity": "48",
       "rate": "93.39",
       "name": "dal moong",
       "TAX": 0
@@ -1125,9 +1125,9 @@
     },
     {
       "unit": "KG",
-      "amount": "6885.19",
+      "amount": "4494.5",
       "hsn": "0713",
-      "quantity": "57.6",
+      "quantity": "37.6",
       "rate": "119.53",
       "name": "arhar dal",
       "TAX": 0
