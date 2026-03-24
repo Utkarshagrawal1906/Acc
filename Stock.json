@@ -56,9 +56,9 @@
     },
     {
       "unit": "KG",
-      "amount": "13666.43",
+      "amount": "6073.97",
       "hsn": "0801",
-      "quantity": "18",
+      "quantity": "8",
       "rate": "759.25",
       "name": "kaju",
       "TAX": 5
@@ -341,9 +341,9 @@
     },
     {
       "unit": "LTR",
-      "amount": "16400.28",
+      "amount": "8772.24",
       "hsn": "0405",
-      "quantity": "43",
+      "quantity": "23",
       "rate": "381.4",
       "name": "desi ghee",
       "TAX": 5
@@ -379,9 +379,9 @@
   "atta_maida": [
     {
       "unit": "KG",
-      "amount": "13101.14",
+      "amount": "7436.51",
       "hsn": "1101",
-      "quantity": "488",
+      "quantity": "277",
       "rate": "26.85",
       "name": "atta",
       "TAX": 0
