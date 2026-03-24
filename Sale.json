@@ -37157,6 +37157,42 @@
       "S_NO": "BS129",
       "tax": 0,
       "type": "cash"
+    },
+    {
+      "nat": "8085",
+      "ITEM": "desi ghee",
+      "DATE": "2026-03-20",
+      "GSTIN": " ",
+      "QT": "20",
+      "RATE": "385",
+      "GP": "oil",
+      "S_NO": "TI 97",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "8032.5",
+      "ITEM": "kaju",
+      "DATE": "2026-03-20",
+      "GSTIN": " ",
+      "QT": "10",
+      "RATE": "765",
+      "GP": "dry_fruits",
+      "S_NO": "TI 97",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "7174",
+      "ITEM": "atta",
+      "DATE": "2026-03-23",
+      "GSTIN": " ",
+      "QT": "211",
+      "RATE": "34",
+      "GP": "atta_maida",
+      "S_NO": "BS 131",
+      "tax": 0,
+      "type": "cash"
     }
   ],
   "pick_n_pay_store": [
