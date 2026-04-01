@@ -20,9 +20,9 @@
     },
     {
       "unit": "KG",
-      "amount": "6550",
+      "amount": "3275",
       "hsn": "080212",
-      "quantity": "10",
+      "quantity": "5",
       "rate": "655",
       "name": "badam ming 0802",
       "TAX": 5
@@ -110,9 +110,9 @@
     },
     {
       "unit": "KG",
-      "amount": "2545.28",
+      "amount": "1900.9",
       "hsn": "0801",
-      "quantity": "7.9",
+      "quantity": "5.9",
       "rate": "322.19",
       "name": "gola burada 0801",
       "TAX": 5
@@ -379,9 +379,9 @@
   "atta_maida": [
     {
       "unit": "KG",
-      "amount": "7436.51",
+      "amount": "3490.06",
       "hsn": "1101",
-      "quantity": "277",
+      "quantity": "130",
       "rate": "26.85",
       "name": "atta",
       "TAX": 0
@@ -406,9 +406,9 @@
     },
     {
       "unit": "KG",
-      "amount": "4196.81",
+      "amount": "3479.41",
       "hsn": "1106",
-      "quantity": "58.5",
+      "quantity": "48.5",
       "rate": "71.74",
       "name": "besan",
       "TAX": 0
@@ -424,9 +424,9 @@
     },
     {
       "unit": "KG",
-      "amount": "12881.42",
+      "amount": "4298.58",
       "hsn": "1101",
-      "quantity": "449.5",
+      "quantity": "150",
       "rate": "28.66",
       "name": "MAIDA",
       "TAX": 0
@@ -498,9 +498,9 @@
     },
     {
       "unit": "PKT",
-      "amount": "5928.83",
+      "amount": "2223.31",
       "hsn": "0904",
-      "quantity": "80",
+      "quantity": "30",
       "rate": "74.11",
       "name": "deggi mirch 0904",
       "TAX": 5
@@ -534,9 +534,9 @@
     },
     {
       "unit": "PKT",
-      "amount": "4274.06",
+      "amount": "1759.91",
       "hsn": "0910",
-      "quantity": "68",
+      "quantity": "28",
       "rate": "62.85",
       "name": "pav bhaji masala",
       "TAX": 5
@@ -561,9 +561,9 @@
     },
     {
       "unit": "PKT",
-      "amount": "3000.58",
+      "amount": "1200.23",
       "hsn": "0910",
-      "quantity": "50",
+      "quantity": "20",
       "rate": "60.01",
       "name": "samber masala",
       "TAX": 5
@@ -660,9 +660,9 @@
     },
     {
       "unit": "KG",
-      "amount": "10406.48",
+      "amount": "6357.26",
       "hsn": "0904",
-      "quantity": "25.7",
+      "quantity": "15.7",
       "rate": "404.92",
       "name": "kali mirch 0904",
       "TAX": 5
@@ -687,18 +687,18 @@
     },
     {
       "unit": "PKT",
-      "amount": "7738.97",
+      "amount": "3629.78",
       "hsn": "0910",
-      "quantity": "113",
+      "quantity": "53",
       "rate": "68.49",
       "name": "meat masala",
       "TAX": 5
     },
     {
       "unit": "PKT",
-      "amount": "6007.86",
+      "amount": "3277.01",
       "hsn": "0910",
-      "quantity": "88",
+      "quantity": "48",
       "rate": "68.27",
       "name": "kitchen king",
       "TAX": 5
@@ -788,9 +788,9 @@
     },
     {
       "unit": "KG",
-      "amount": "12354.25",
+      "amount": "6796.84",
       "hsn": "1701",
-      "quantity": "309",
+      "quantity": "170",
       "rate": "39.98",
       "name": "sugar",
       "TAX": 5
@@ -817,9 +817,9 @@
     },
     {
       "unit": "KG",
-      "amount": "6631.95",
+      "amount": "4681.38",
       "hsn": "1006",
-      "quantity": "68",
+      "quantity": "48",
       "rate": "97.53",
       "name": "basmati branded",
       "TAX": 5
@@ -853,9 +853,9 @@
     },
     {
       "unit": "KG",
-      "amount": "4898.41",
+      "amount": "2721.33",
       "hsn": "1006",
-      "quantity": "45",
+      "quantity": "25",
       "rate": "108.85",
       "name": "rice dubar branded",
       "TAX": 5
@@ -871,9 +871,9 @@
     },
     {
       "unit": "KG",
-      "amount": "4206.26",
+      "amount": "1201.78",
       "hsn": "1006",
-      "quantity": "28",
+      "quantity": "8",
       "rate": "150.22",
       "name": "rice super branded",
       "TAX": 5
@@ -889,9 +889,9 @@
     },
     {
       "unit": "KG",
-      "amount": "4125",
+      "amount": "1925",
       "hsn": "1006",
-      "quantity": "37.5",
+      "quantity": "17.5",
       "rate": "110",
       "name": "rice tibar branded",
       "TAX": 5
