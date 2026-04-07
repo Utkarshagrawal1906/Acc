@@ -335,6 +335,42 @@
       "S_NO": "5356",
       "tax": 5,
       "type": "cash"
+    },
+    {
+      "nat": "2600",
+      "ITEM": "SALT (NAMAK)",
+      "DATE": "2026-04-03",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "100",
+      "RATE": "26",
+      "GP": "other",
+      "S_NO": "18",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "590",
+      "ITEM": "tea",
+      "DATE": "2026-04-03",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "1",
+      "RATE": "561.9",
+      "GP": "other",
+      "S_NO": "18",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "190.01",
+      "ITEM": "Coffee",
+      "DATE": "2026-04-03",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "2",
+      "RATE": "90.48",
+      "GP": "other",
+      "S_NO": "18",
+      "tax": 5,
+      "type": "cash"
     }
   ],
   "dev_goldiee_agency": [
@@ -14477,6 +14513,78 @@
       "S_NO": "1092",
       "tax": 0,
       "type": "deb"
+    },
+    {
+      "nat": "17430",
+      "ITEM": "dal masoor",
+      "DATE": "2026-04-02",
+      "GSTIN": "09ABOPG8156C1ZI",
+      "QT": "210",
+      "RATE": "83",
+      "GP": "dal",
+      "S_NO": "20",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "17640",
+      "ITEM": "dal urad",
+      "DATE": "2026-04-02",
+      "GSTIN": "09ABOPG8156C1ZI",
+      "QT": "180",
+      "RATE": "98",
+      "GP": "dal",
+      "S_NO": "20",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "16560",
+      "ITEM": "arhar dal",
+      "DATE": "2026-04-02",
+      "GSTIN": "09ABOPG8156C1ZI",
+      "QT": "180",
+      "RATE": "92",
+      "GP": "dal",
+      "S_NO": "20",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "2400",
+      "ITEM": "chana a/c",
+      "DATE": "2026-04-02",
+      "GSTIN": "09ABOPG8156C1ZI",
+      "QT": "30",
+      "RATE": "80",
+      "GP": "dal",
+      "S_NO": "20",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "13500",
+      "ITEM": "rice common broken",
+      "DATE": "2026-04-02",
+      "GSTIN": "09ABOPG8156C1ZI",
+      "QT": "300",
+      "RATE": "45",
+      "GP": "rice",
+      "S_NO": "20",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "12470.4",
+      "ITEM": "rice basmati",
+      "DATE": "2026-04-02",
+      "GSTIN": "09ABOPG8156C1ZI",
+      "QT": "240",
+      "RATE": "51.96",
+      "GP": "rice",
+      "S_NO": "20",
+      "tax": 0,
+      "type": "deb"
     }
   ],
   "mohini_traders": [
@@ -24379,6 +24487,18 @@
       "S_NO": "17707",
       "tax": 5,
       "type": "deb"
+    },
+    {
+      "nat": "14700",
+      "ITEM": "refind soya oil",
+      "DATE": "2026-04-04",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "90",
+      "RATE": "155.56",
+      "GP": "oil",
+      "S_NO": "560",
+      "tax": 5,
+      "type": "cash"
     }
   ],
   "jai_shree_shyam_trading_company": [
