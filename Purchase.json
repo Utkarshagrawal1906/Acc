@@ -1177,6 +1177,42 @@
       "S_NO": "4658",
       "tax": 5,
       "type": "cash"
+    },
+    {
+      "nat": "451.21",
+      "ITEM": "kasoori methi 25gm",
+      "DATE": "2026-04-08",
+      "GSTIN": "09ABCPV2211R1Z8",
+      "QT": "20",
+      "RATE": "21.49",
+      "GP": "masale",
+      "S_NO": "116",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "67.2",
+      "ITEM": "Chicken Masala",
+      "DATE": "2026-04-08",
+      "GSTIN": "09ABCPV2211R1Z8",
+      "QT": "1",
+      "RATE": "64",
+      "GP": "masale",
+      "S_NO": "116",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "76.81",
+      "ITEM": "hing comp.10gm",
+      "DATE": "2026-04-08",
+      "GSTIN": "09ABCPV2211R1Z8",
+      "QT": "1",
+      "RATE": "73.15",
+      "GP": "masale",
+      "S_NO": "116",
+      "tax": 5,
+      "type": "deb"
     }
   ],
   "sagar_and_co": [
@@ -9625,6 +9661,54 @@
       "S_NO": "619",
       "tax": 0,
       "type": "cash"
+    },
+    {
+      "nat": "5371.32",
+      "ITEM": "deggi mirch 0904",
+      "DATE": "2026-04-08",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "60",
+      "RATE": "85.26",
+      "GP": "masale",
+      "S_NO": "821",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "4475.96",
+      "ITEM": "kitchen king",
+      "DATE": "2026-04-08",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "60",
+      "RATE": "71.05",
+      "GP": "masale",
+      "S_NO": "821",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "4207.45",
+      "ITEM": "chat massala 0910",
+      "DATE": "2026-04-08",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "60",
+      "RATE": "66.78",
+      "GP": "masale",
+      "S_NO": "821",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "385.35",
+      "ITEM": "kasoori methi 25gm",
+      "DATE": "2026-04-08",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "17",
+      "RATE": "21.59",
+      "GP": "masale",
+      "S_NO": "821",
+      "tax": 5,
+      "type": "deb"
     }
   ],
   "deepak_kumar_ashish_kumar": [
@@ -23531,6 +23615,90 @@
       "S_NO": "1059",
       "tax": 0,
       "type": "deb"
+    },
+    {
+      "nat": "6600",
+      "ITEM": "arhar dal",
+      "DATE": "2026-04-10",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "60",
+      "RATE": "110",
+      "GP": "dal",
+      "S_NO": "40",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "6000",
+      "ITEM": "chana kabuli",
+      "DATE": "2026-04-10",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "60",
+      "RATE": "100",
+      "GP": "dal",
+      "S_NO": "40",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "6600",
+      "ITEM": "rajma",
+      "DATE": "2026-04-10",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "60",
+      "RATE": "110",
+      "GP": "dal",
+      "S_NO": "40",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "6030",
+      "ITEM": "dal chana",
+      "DATE": "2026-04-10",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "67",
+      "GP": "dal",
+      "S_NO": "40",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "6300",
+      "ITEM": "urad sabut",
+      "DATE": "2026-04-10",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "60",
+      "RATE": "105",
+      "GP": "dal",
+      "S_NO": "40",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "4500",
+      "ITEM": "masoor",
+      "DATE": "2026-04-10",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "60",
+      "RATE": "75",
+      "GP": "dal",
+      "S_NO": "40",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "4080",
+      "ITEM": "chana kala 0713",
+      "DATE": "2026-04-10",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "60",
+      "RATE": "68",
+      "GP": "dal",
+      "S_NO": "40",
+      "tax": 0,
+      "type": "deb"
     }
   ],
   "om_traders": [
@@ -24499,6 +24667,18 @@
       "S_NO": "560",
       "tax": 5,
       "type": "cash"
+    },
+    {
+      "nat": "36900.36",
+      "ITEM": "refind soya oil",
+      "DATE": "2026-04-06",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "240",
+      "RATE": "146.43",
+      "GP": "oil",
+      "S_NO": "698",
+      "tax": 5,
+      "type": "deb"
     }
   ],
   "jai_shree_shyam_trading_company": [
