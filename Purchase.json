@@ -18159,6 +18159,30 @@
       "S_NO": "B1050",
       "tax": 0,
       "type": "deb"
+    },
+    {
+      "nat": "27400",
+      "ITEM": "MAIDA",
+      "DATE": "2026-04-04",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "1000",
+      "RATE": "27.4",
+      "GP": "atta_maida",
+      "S_NO": "B03",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "26200",
+      "ITEM": "atta",
+      "DATE": "2026-04-04",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "1000",
+      "RATE": "26.2",
+      "GP": "atta_maida",
+      "S_NO": "B03",
+      "tax": 0,
+      "type": "deb"
     }
   ],
   "vtc_tradwings_pvt_ltd": [
@@ -23697,6 +23721,90 @@
       "RATE": "68",
       "GP": "dal",
       "S_NO": "40",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "30000",
+      "ITEM": "rice dubar",
+      "DATE": "2026-04-03",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "600",
+      "RATE": "50",
+      "GP": "rice",
+      "S_NO": "15",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "3960",
+      "ITEM": "chana kala 0713",
+      "DATE": "2026-04-20",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "60",
+      "RATE": "66",
+      "GP": "dal",
+      "S_NO": "71",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "8820",
+      "ITEM": "chana kabuli",
+      "DATE": "2026-04-20",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "98",
+      "GP": "dal",
+      "S_NO": "71",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "16500",
+      "ITEM": "arhar dal",
+      "DATE": "2026-04-20",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "150",
+      "RATE": "110",
+      "GP": "dal",
+      "S_NO": "71",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "9000",
+      "ITEM": "dal masoor",
+      "DATE": "2026-04-20",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "100",
+      "GP": "dal",
+      "S_NO": "71",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "9270",
+      "ITEM": "rajma",
+      "DATE": "2026-04-20",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "103",
+      "GP": "dal",
+      "S_NO": "71",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "4020",
+      "ITEM": "dal chana",
+      "DATE": "2026-04-20",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "60",
+      "RATE": "67",
+      "GP": "dal",
+      "S_NO": "71",
       "tax": 0,
       "type": "deb"
     }
