@@ -22757,6 +22757,42 @@
       "S_NO": "BS 09",
       "tax": 0,
       "type": "cre"
+    },
+    {
+      "nat": "19428",
+      "ITEM": "MAIDA",
+      "DATE": "2026-04-08",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "600",
+      "RATE": "32.38",
+      "GP": "atta_maida",
+      "S_NO": "BS 05",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "16000",
+      "ITEM": "atta",
+      "DATE": "2026-04-08",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "500",
+      "RATE": "32",
+      "GP": "atta_maida",
+      "S_NO": "BS 05",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "12100",
+      "ITEM": "rice dubar",
+      "DATE": "2026-04-08",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "220",
+      "RATE": "55",
+      "GP": "rice",
+      "S_NO": "BS 05",
+      "tax": 0,
+      "type": "cre"
     }
   ],
   "state_bank_of_india": [
@@ -37865,6 +37901,18 @@
       "RATE": "32",
       "GP": "atta_maida",
       "S_NO": "BS 06",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "6880",
+      "ITEM": "atta",
+      "DATE": "2026-04-02",
+      "GSTIN": " ",
+      "QT": "215",
+      "RATE": "32",
+      "GP": "atta_maida",
+      "S_NO": "BS 01",
       "tax": 0,
       "type": "cash"
     }
