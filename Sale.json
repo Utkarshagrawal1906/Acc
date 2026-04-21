@@ -5943,6 +5943,78 @@
       "S_NO": "TI 02",
       "tax": 5,
       "type": "cre"
+    },
+    {
+      "nat": 3600,
+      "ITEM": "arhar dal",
+      "DATE": "2026-04-19",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 30,
+      "RATE": 120,
+      "GP": "dal",
+      "S_NO": "BS 11",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 3900,
+      "ITEM": "chana kabuli",
+      "DATE": "2026-04-19",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 30,
+      "RATE": 130,
+      "GP": "dal",
+      "S_NO": "BS 11",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 2400,
+      "ITEM": "dal chana",
+      "DATE": "2026-04-19",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 30,
+      "RATE": 80,
+      "GP": "dal",
+      "S_NO": "BS 11",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 3750,
+      "ITEM": "dal masoor",
+      "DATE": "2026-04-19",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 30,
+      "RATE": 125,
+      "GP": "dal",
+      "S_NO": "BS 11",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 7500,
+      "ITEM": "rajma",
+      "DATE": "2026-04-19",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 60,
+      "RATE": 125,
+      "GP": "dal",
+      "S_NO": "BS 11",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 2950,
+      "ITEM": "MAIDA",
+      "DATE": "2026-04-19",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 100,
+      "RATE": 29.5,
+      "GP": "atta_maida",
+      "S_NO": "BS 11",
+      "tax": 0,
+      "type": "cre"
     }
   ],
   "palm_tree_hotel_and_restaurent": [
@@ -22793,6 +22865,114 @@
       "S_NO": "BS 05",
       "tax": 0,
       "type": "cre"
+    },
+    {
+      "nat": "19500",
+      "ITEM": "rice dubar",
+      "DATE": "2026-04-15",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "300",
+      "RATE": "65",
+      "GP": "rice",
+      "S_NO": "BS 10",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "6000",
+      "ITEM": "atta",
+      "DATE": "2026-04-15",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "200",
+      "RATE": "30",
+      "GP": "atta_maida",
+      "S_NO": "BS 10",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "6400",
+      "ITEM": "MAIDA",
+      "DATE": "2026-04-15",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "200",
+      "RATE": "32",
+      "GP": "atta_maida",
+      "S_NO": "BS 10",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "11250",
+      "ITEM": "arhar dal",
+      "DATE": "2026-04-15",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "90",
+      "RATE": "125",
+      "GP": "dal",
+      "S_NO": "BS 10",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "6600",
+      "ITEM": "chana kabuli",
+      "DATE": "2026-04-15",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "55",
+      "RATE": "120",
+      "GP": "dal",
+      "S_NO": "BS 10",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "5092.53",
+      "ITEM": "chat massala 0910",
+      "DATE": "2026-04-17",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "75",
+      "RATE": "64.67",
+      "GP": "masale",
+      "S_NO": "TI 06",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "3570",
+      "ITEM": "deggi mirch 0904",
+      "DATE": "2026-04-17",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "40",
+      "RATE": "85",
+      "GP": "masale",
+      "S_NO": "TI 06",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "1701",
+      "ITEM": "jaljeera masala",
+      "DATE": "2026-04-17",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "30",
+      "RATE": "54",
+      "GP": "masale",
+      "S_NO": "TI 06",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "2236.5",
+      "ITEM": "kitchen king",
+      "DATE": "2026-04-17",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "30",
+      "RATE": "71",
+      "GP": "masale",
+      "S_NO": "TI 06",
+      "tax": 5,
+      "type": "cre"
     }
   ],
   "state_bank_of_india": [
@@ -37913,6 +38093,30 @@
       "RATE": "32",
       "GP": "atta_maida",
       "S_NO": "BS 01",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "2283.75",
+      "ITEM": "Refind SF Oil",
+      "DATE": "2026-04-18",
+      "GSTIN": " ",
+      "QT": "15",
+      "RATE": "145",
+      "GP": "oil",
+      "S_NO": "TI 07",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "3240",
+      "ITEM": "chana kala 0713",
+      "DATE": "2026-04-20",
+      "GSTIN": " ",
+      "QT": "40",
+      "RATE": "81",
+      "GP": "dal",
+      "S_NO": "BS 12",
       "tax": 0,
       "type": "cash"
     }
