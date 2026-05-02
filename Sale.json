@@ -6015,6 +6015,66 @@
       "S_NO": "BS 11",
       "tax": 0,
       "type": "cre"
+    },
+    {
+      "nat": 3900,
+      "ITEM": "arhar dal",
+      "DATE": "2026-04-25",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 30,
+      "RATE": 130,
+      "GP": "dal",
+      "S_NO": "BS 14",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": 2700,
+      "ITEM": "dal chana",
+      "DATE": "2026-04-25",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 30,
+      "RATE": 90,
+      "GP": "dal",
+      "S_NO": "BS 14",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": 3000,
+      "ITEM": "masoor",
+      "DATE": "2026-04-25",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 30,
+      "RATE": 100,
+      "GP": "dal",
+      "S_NO": "BS 14",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": 4050,
+      "ITEM": "rajma",
+      "DATE": "2026-04-25",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 30,
+      "RATE": 135,
+      "GP": "dal",
+      "S_NO": "BS 14",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": 4164,
+      "ITEM": "rice dubar",
+      "DATE": "2026-04-25",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 69.4,
+      "RATE": 60,
+      "GP": "rice",
+      "S_NO": "BS 14",
+      "tax": 0,
+      "type": "cash"
     }
   ],
   "palm_tree_hotel_and_restaurent": [
@@ -22973,6 +23033,66 @@
       "S_NO": "TI 06",
       "tax": 5,
       "type": "cre"
+    },
+    {
+      "nat": "49392",
+      "ITEM": "refind soya oil",
+      "DATE": "2026-04-24",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "320",
+      "RATE": "147",
+      "GP": "oil",
+      "S_NO": "TI 09",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "529.2",
+      "ITEM": "MUSTARD OIL",
+      "DATE": "2026-04-24",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "3",
+      "RATE": "168",
+      "GP": "oil",
+      "S_NO": "TI 09",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "4147.5",
+      "ITEM": "sugar",
+      "DATE": "2026-04-29",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "100",
+      "RATE": "39.5",
+      "GP": "sugar_boora",
+      "S_NO": "TI 11",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "3276",
+      "ITEM": "kishmish 0806",
+      "DATE": "2026-04-29",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "8",
+      "RATE": "390",
+      "GP": "dry_fruits",
+      "S_NO": "TI 11",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "5072.76",
+      "ITEM": "Chicken Masala",
+      "DATE": "2026-04-29",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "72",
+      "RATE": "67.1",
+      "GP": "masale",
+      "S_NO": "TI 11",
+      "tax": 5,
+      "type": "cash"
     }
   ],
   "state_bank_of_india": [
@@ -38118,6 +38238,90 @@
       "GP": "dal",
       "S_NO": "BS 12",
       "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "20737.5",
+      "ITEM": "sugar",
+      "DATE": "2026-04-23",
+      "GSTIN": " ",
+      "QT": "500",
+      "RATE": "39.5",
+      "GP": "sugar_boora",
+      "S_NO": "TI 08",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "7200",
+      "ITEM": "chana kala 0713",
+      "DATE": "2026-04-24",
+      "GSTIN": " ",
+      "QT": "90",
+      "RATE": "80",
+      "GP": "dal",
+      "S_NO": "BS 13",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "4200",
+      "ITEM": "rajma",
+      "DATE": "2026-04-24",
+      "GSTIN": " ",
+      "QT": "30",
+      "RATE": "140",
+      "GP": "dal",
+      "S_NO": "BS 13",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "3600",
+      "ITEM": "dal masoor",
+      "DATE": "2026-04-24",
+      "GSTIN": " ",
+      "QT": "30",
+      "RATE": "120",
+      "GP": "dal",
+      "S_NO": "BS 13",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "3900",
+      "ITEM": "urad sabut",
+      "DATE": "2026-04-24",
+      "GSTIN": " ",
+      "QT": "30",
+      "RATE": "130",
+      "GP": "dal",
+      "S_NO": "BS 13",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "2624",
+      "ITEM": "dal chana",
+      "DATE": "2026-04-24",
+      "GSTIN": " ",
+      "QT": "32",
+      "RATE": "82",
+      "GP": "dal",
+      "S_NO": "BS 13",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "420",
+      "ITEM": "sugar",
+      "DATE": "2026-04-26",
+      "GSTIN": " ",
+      "QT": "10",
+      "RATE": "40",
+      "GP": "sugar_boora",
+      "S_NO": "TI 10",
+      "tax": 5,
       "type": "cash"
     }
   ],
