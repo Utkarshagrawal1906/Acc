@@ -371,6 +371,42 @@
       "S_NO": "18",
       "tax": 5,
       "type": "cash"
+    },
+    {
+      "nat": "2580",
+      "ITEM": "SALT (NAMAK)",
+      "DATE": "2026-04-23",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "100",
+      "RATE": "25.8",
+      "GP": "other",
+      "S_NO": "402",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "600",
+      "ITEM": "SALT (NAMAK)",
+      "DATE": "2026-04-23",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "12",
+      "RATE": "50",
+      "GP": "other",
+      "S_NO": "402",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "1020",
+      "ITEM": "Coffee",
+      "DATE": "2026-04-23",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "1",
+      "RATE": "971.43",
+      "GP": "other",
+      "S_NO": "402",
+      "tax": 5,
+      "type": "cash"
     }
   ],
   "dev_goldiee_agency": [
@@ -9709,6 +9745,66 @@
       "S_NO": "821",
       "tax": 5,
       "type": "deb"
+    },
+    {
+      "nat": "2126.66",
+      "ITEM": "Chicken Masala",
+      "DATE": "2026-04-29",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "30",
+      "RATE": "67.51",
+      "GP": "masale",
+      "S_NO": "2695",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "2238.01",
+      "ITEM": "kitchen king",
+      "DATE": "2026-04-29",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "30",
+      "RATE": "71.05",
+      "GP": "masale",
+      "S_NO": "2695",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "1470",
+      "ITEM": "papad",
+      "DATE": "2026-04-29",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "6",
+      "RATE": "245",
+      "GP": "other",
+      "S_NO": "077",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "1950",
+      "ITEM": "papad",
+      "DATE": "2026-04-29",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "5",
+      "RATE": "390",
+      "GP": "other",
+      "S_NO": "077",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "350",
+      "ITEM": "papad",
+      "DATE": "2026-04-29",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "2",
+      "RATE": "175",
+      "GP": "other",
+      "S_NO": "077",
+      "tax": 0,
+      "type": "deb"
     }
   ],
   "deepak_kumar_ashish_kumar": [
@@ -14793,6 +14889,42 @@
       "S_NO": "1140",
       "tax": 5,
       "type": "cash"
+    },
+    {
+      "nat": "3199.98",
+      "ITEM": "desi ghee",
+      "DATE": "2026-04-11",
+      "GSTIN": "09AMPPB4498J1ZF",
+      "QT": "8",
+      "RATE": "380.95",
+      "GP": "oil",
+      "S_NO": "31",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "820.05",
+      "ITEM": "desi ghee",
+      "DATE": "2026-04-11",
+      "GSTIN": "09AMPPB4498J1ZF",
+      "QT": "2",
+      "RATE": "390.5",
+      "GP": "oil",
+      "S_NO": "31",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "2000.04",
+      "ITEM": "desi ghee",
+      "DATE": "2026-04-11",
+      "GSTIN": "09AMPPB4498J1ZF",
+      "QT": "5",
+      "RATE": "380.96",
+      "GP": "oil",
+      "S_NO": "31",
+      "tax": 5,
+      "type": "cash"
     }
   ],
   "warrior_computer": [
@@ -18182,6 +18314,18 @@
       "GP": "atta_maida",
       "S_NO": "B03",
       "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "41160",
+      "ITEM": "sugar",
+      "DATE": "2026-04-22",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "1000",
+      "RATE": "39.2",
+      "GP": "sugar_boora",
+      "S_NO": "360",
+      "tax": 5,
       "type": "deb"
     }
   ],
@@ -24785,6 +24929,30 @@
       "RATE": "146.43",
       "GP": "oil",
       "S_NO": "698",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "49200.48",
+      "ITEM": "refind soya oil",
+      "DATE": "2026-04-23",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "320",
+      "RATE": "146.43",
+      "GP": "oil",
+      "S_NO": "2898",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "19040.02",
+      "ITEM": "refind soya oil",
+      "DATE": "2026-05-01",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "104",
+      "RATE": "174.36",
+      "GP": "oil",
+      "S_NO": "3624",
       "tax": 5,
       "type": "deb"
     }
