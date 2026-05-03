@@ -222,9 +222,9 @@
     },
     {
       "unit": "KG",
-      "amount": "8636",
+      "amount": "5978.77",
       "hsn": "1905",
-      "quantity": "32.5",
+      "quantity": "22.5",
       "rate": "265.72",
       "name": "papad",
       "TAX": 0
@@ -276,9 +276,9 @@
     },
     {
       "unit": "KG",
-      "amount": "9452.64",
+      "amount": "4913.24",
       "hsn": "2501",
-      "quantity": "354",
+      "quantity": "184",
       "rate": "26.7",
       "name": "SALT (NAMAK)",
       "TAX": 0
@@ -332,18 +332,18 @@
   "oil": [
     {
       "unit": "LTR",
-      "amount": "19890.67",
+      "amount": "1886.18",
       "hsn": "1507",
-      "quantity": "116",
+      "quantity": "11",
       "rate": "171.47",
       "name": "refind soya oil",
       "TAX": 5
     },
     {
       "unit": "LTR",
-      "amount": "8784.61",
+      "amount": "6874.92",
       "hsn": "0405",
-      "quantity": "23",
+      "quantity": "18",
       "rate": "381.94",
       "name": "desi ghee",
       "TAX": 5
@@ -379,10 +379,10 @@
   "atta_maida": [
     {
       "unit": "KG",
-      "amount": "4726.1",
+      "amount": "29140.68",
       "hsn": "1101",
-      "quantity": "180",
-      "rate": "26.26",
+      "quantity": "1112",
+      "rate": "26.21",
       "name": "atta",
       "TAX": 0
     },
@@ -424,10 +424,10 @@
     },
     {
       "unit": "KG",
-      "amount": "4118.98",
+      "amount": "26772.99",
       "hsn": "1101",
-      "quantity": "150",
-      "rate": "27.46",
+      "quantity": "1050",
+      "rate": "25.5",
       "name": "MAIDA",
       "TAX": 0
     },
@@ -788,9 +788,9 @@
     },
     {
       "unit": "KG",
-      "amount": "18055.52",
+      "amount": "13502.39",
       "hsn": "1701",
-      "quantity": "460",
+      "quantity": "344",
       "rate": "39.25",
       "name": "sugar",
       "TAX": 5
