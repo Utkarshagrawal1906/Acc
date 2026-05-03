@@ -6075,6 +6075,66 @@
       "S_NO": "BS 14",
       "tax": 0,
       "type": "cash"
+    },
+    {
+      "nat": 18963,
+      "ITEM": "refind soya oil",
+      "DATE": "2026-05-01",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 105,
+      "RATE": 172,
+      "GP": "oil",
+      "S_NO": "TI 12",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 2021.25,
+      "ITEM": "desi ghee",
+      "DATE": "2026-05-01",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 5,
+      "RATE": 385,
+      "GP": "oil",
+      "S_NO": "TI 12",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 4817.19,
+      "ITEM": "sugar",
+      "DATE": "2026-05-01",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 116,
+      "RATE": 39.55,
+      "GP": "sugar_boora",
+      "S_NO": "TI 12",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 3100,
+      "ITEM": "MAIDA",
+      "DATE": "2026-05-01",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 100,
+      "RATE": 31,
+      "GP": "atta_maida",
+      "S_NO": "BS 17",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 2660,
+      "ITEM": "papad",
+      "DATE": "2026-05-01",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 10,
+      "RATE": 266,
+      "GP": "other",
+      "S_NO": "BS 17",
+      "tax": 0,
+      "type": "cre"
     }
   ],
   "palm_tree_hotel_and_restaurent": [
@@ -38322,6 +38382,30 @@
       "GP": "sugar_boora",
       "S_NO": "TI 10",
       "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "2040",
+      "ITEM": "atta",
+      "DATE": "2026-04-26",
+      "GSTIN": " ",
+      "QT": "68",
+      "RATE": "30",
+      "GP": "atta_maida",
+      "S_NO": "BS 15",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "4760",
+      "ITEM": "SALT (NAMAK)",
+      "DATE": "2026-04-30",
+      "GSTIN": " ",
+      "QT": "170",
+      "RATE": "28",
+      "GP": "other",
+      "S_NO": "BS 16",
+      "tax": 0,
       "type": "cash"
     }
   ],
