@@ -9805,6 +9805,114 @@
       "S_NO": "077",
       "tax": 0,
       "type": "deb"
+    },
+    {
+      "nat": "8100.16",
+      "ITEM": "deggi mirch 0904",
+      "DATE": "2026-05-04",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "90",
+      "RATE": "85.72",
+      "GP": "masale",
+      "S_NO": "3704",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "6091.28",
+      "ITEM": "chana masala",
+      "DATE": "2026-05-04",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "90",
+      "RATE": "64.46",
+      "GP": "masale",
+      "S_NO": "3704",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "6091.28",
+      "ITEM": "chat massala 0910",
+      "DATE": "2026-05-04",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "90",
+      "RATE": "64.46",
+      "GP": "masale",
+      "S_NO": "3704",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "7452.08",
+      "ITEM": "garam masala",
+      "DATE": "2026-05-04",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "90",
+      "RATE": "78.86",
+      "GP": "masale",
+      "S_NO": "3704",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "6479.11",
+      "ITEM": "meat masala",
+      "DATE": "2026-05-04",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "90",
+      "RATE": "68.56",
+      "GP": "masale",
+      "S_NO": "3704",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "6479.11",
+      "ITEM": "kitchen king",
+      "DATE": "2026-05-04",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "90",
+      "RATE": "68.56",
+      "GP": "masale",
+      "S_NO": "3704",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "5400.36",
+      "ITEM": "deggi mirch 0904",
+      "DATE": "2026-05-04",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "60",
+      "RATE": "85.72",
+      "GP": "masale",
+      "S_NO": "3704",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "2124.83",
+      "ITEM": "pav bhaji masala",
+      "DATE": "2026-05-04",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "30",
+      "RATE": "67.45",
+      "GP": "masale",
+      "S_NO": "3704",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "1213.07",
+      "ITEM": "kasoori methi 50gm",
+      "DATE": "2026-05-04",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "30",
+      "RATE": "38.51",
+      "GP": "masale",
+      "S_NO": "3704",
+      "tax": 5,
+      "type": "deb"
     }
   ],
   "deepak_kumar_ashish_kumar": [
@@ -24977,6 +25085,18 @@
       "RATE": "174.36",
       "GP": "oil",
       "S_NO": "3624",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "9520.01",
+      "ITEM": "refind soya oil",
+      "DATE": "2026-05-03",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "60",
+      "RATE": "151.11",
+      "GP": "oil",
+      "S_NO": "4028",
       "tax": 5,
       "type": "deb"
     }
