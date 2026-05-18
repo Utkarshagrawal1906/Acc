@@ -6365,6 +6365,30 @@
       "S_NO": "TI 14",
       "tax": 5,
       "type": "cre"
+    },
+    {
+      "nat": 3450,
+      "ITEM": "moong dhuli",
+      "DATE": "2026-05-17",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 30,
+      "RATE": 115,
+      "GP": "dal",
+      "S_NO": "BS 26",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": 3509,
+      "ITEM": "chana kabuli",
+      "DATE": "2026-05-17",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 29,
+      "RATE": 121,
+      "GP": "dal",
+      "S_NO": "BS 26",
+      "tax": 0,
+      "type": "cash"
     }
   ],
   "palm_tree_hotel_and_restaurent": [
@@ -23575,6 +23599,138 @@
       "S_NO": "BS 21",
       "tax": 0,
       "type": "cre"
+    },
+    {
+      "nat": "10500",
+      "ITEM": "rice basmati",
+      "DATE": "2026-05-13",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "150",
+      "RATE": "70",
+      "GP": "rice",
+      "S_NO": "BS 24",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "6500",
+      "ITEM": "rice dubar",
+      "DATE": "2026-05-13",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "100",
+      "RATE": "65",
+      "GP": "rice",
+      "S_NO": "BS 24",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "4500",
+      "ITEM": "papad",
+      "DATE": "2026-05-13",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "15",
+      "RATE": "300",
+      "GP": "other",
+      "S_NO": "BS 24",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "2800",
+      "ITEM": "SALT (NAMAK)",
+      "DATE": "2026-05-13",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "100",
+      "RATE": "28",
+      "GP": "other",
+      "S_NO": "BS 24",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "2400",
+      "ITEM": "dal chana",
+      "DATE": "2026-05-13",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "30",
+      "RATE": "80",
+      "GP": "dal",
+      "S_NO": "BS 24",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "3300",
+      "ITEM": "dal masoor",
+      "DATE": "2026-05-13",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "30",
+      "RATE": "110",
+      "GP": "dal",
+      "S_NO": "BS 24",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "3600",
+      "ITEM": "chana kabuli",
+      "DATE": "2026-05-13",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "30",
+      "RATE": "120",
+      "GP": "dal",
+      "S_NO": "BS 24",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "3450",
+      "ITEM": "moong dhuli",
+      "DATE": "2026-05-13",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "30",
+      "RATE": "115",
+      "GP": "dal",
+      "S_NO": "BS 24",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "3750",
+      "ITEM": "arhar dal",
+      "DATE": "2026-05-13",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "30",
+      "RATE": "125",
+      "GP": "dal",
+      "S_NO": "BS 24",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "3450",
+      "ITEM": "dal masoor",
+      "DATE": "2026-05-13",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "30",
+      "RATE": "115",
+      "GP": "dal",
+      "S_NO": "BS 24",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "3200",
+      "ITEM": "chana kala 0713",
+      "DATE": "2026-05-13",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "40",
+      "RATE": "80",
+      "GP": "dal",
+      "S_NO": "BS 24",
+      "tax": 0,
+      "type": "cre"
     }
   ],
   "hotal_abha_regency": [
@@ -38861,6 +39017,18 @@
       "RATE": "120",
       "GP": "dal",
       "S_NO": "BS 23",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "5760",
+      "ITEM": "rice dubar",
+      "DATE": "2026-05-15",
+      "GSTIN": " ",
+      "QT": "96",
+      "RATE": "60",
+      "GP": "rice",
+      "S_NO": "BS 25",
       "tax": 0,
       "type": "cash"
     }
