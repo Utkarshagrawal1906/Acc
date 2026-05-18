@@ -1629,6 +1629,30 @@
       "S_NO": "0842",
       "tax": 5,
       "type": "deb"
+    },
+    {
+      "nat": 8845.305,
+      "ITEM": "gola burada 0801",
+      "DATE": "2026-04-14",
+      "GSTIN": "09BQVPG7847R1ZG",
+      "QT": 61,
+      "RATE": 138.1,
+      "GP": "dry_fruits",
+      "S_NO": "40",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": 16159.92,
+      "ITEM": "COPRA",
+      "DATE": "2026-04-14",
+      "GSTIN": "09BQVPG7847R1ZG",
+      "QT": 80,
+      "RATE": 192.38,
+      "GP": "dry_fruits",
+      "S_NO": "40",
+      "tax": 5,
+      "type": "deb"
     }
   ],
   "parul_traders": [
@@ -6153,6 +6177,78 @@
       "RATE": "740",
       "GP": "dry_fruits",
       "S_NO": "2914",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "5145",
+      "ITEM": "jeera",
+      "DATE": "2026-05-14",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "20",
+      "RATE": "245",
+      "GP": "masale",
+      "S_NO": "389",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "3806.25",
+      "ITEM": "kali mirch 0904",
+      "DATE": "2026-05-14",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "5",
+      "RATE": "725",
+      "GP": "masale",
+      "S_NO": "389",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "3937.5",
+      "ITEM": "kishmish 0806",
+      "DATE": "2026-05-14",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "10",
+      "RATE": "375",
+      "GP": "dry_fruits",
+      "S_NO": "389",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "7665",
+      "ITEM": "kaju",
+      "DATE": "2026-05-14",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "10",
+      "RATE": "730",
+      "GP": "dry_fruits",
+      "S_NO": "389",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "8505",
+      "ITEM": "badam ming 0802",
+      "DATE": "2026-05-14",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "10",
+      "RATE": "810",
+      "GP": "dry_fruits",
+      "S_NO": "389",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "940.8",
+      "ITEM": "akrot ming 0802",
+      "DATE": "2026-05-14",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "1",
+      "RATE": "896",
+      "GP": "dry_fruits",
+      "S_NO": "389",
       "tax": 5,
       "type": "deb"
     }
@@ -18531,6 +18627,18 @@
       "S_NO": "B12",
       "tax": 0,
       "type": "deb"
+    },
+    {
+      "nat": "21735",
+      "ITEM": "sugar",
+      "DATE": "2026-05-14",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "500",
+      "RATE": "41.4",
+      "GP": "sugar_boora",
+      "S_NO": "721",
+      "tax": 5,
+      "type": "deb"
     }
   ],
   "vtc_tradwings_pvt_ltd": [
@@ -25265,6 +25373,30 @@
       "RATE": "151.11",
       "GP": "oil",
       "S_NO": "4028",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "9780.12",
+      "ITEM": "MUSTARD OIL",
+      "DATE": "2026-05-13",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "60",
+      "RATE": "155.24",
+      "GP": "oil",
+      "S_NO": "5415",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "5160.02",
+      "ITEM": "Refind SF Oil",
+      "DATE": "2026-05-13",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "30",
+      "RATE": "163.81",
+      "GP": "oil",
+      "S_NO": "5415",
       "tax": 5,
       "type": "deb"
     }
