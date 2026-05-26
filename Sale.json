@@ -23731,6 +23731,66 @@
       "S_NO": "BS 24",
       "tax": 0,
       "type": "cre"
+    },
+    {
+      "nat": "1700",
+      "ITEM": "besan",
+      "DATE": "2026-05-22",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "20",
+      "RATE": "85",
+      "GP": "atta_maida",
+      "S_NO": "BS 29",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "7800",
+      "ITEM": "arhar dal",
+      "DATE": "2026-05-22",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "60",
+      "RATE": "130",
+      "GP": "dal",
+      "S_NO": "BS 29",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "3300",
+      "ITEM": "chana kabuli",
+      "DATE": "2026-05-22",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "30",
+      "RATE": "110",
+      "GP": "dal",
+      "S_NO": "BS 29",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "4410",
+      "ITEM": "sugar",
+      "DATE": "2026-05-23",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "100",
+      "RATE": "42",
+      "GP": "sugar_boora",
+      "S_NO": "TI 20",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "3071.25",
+      "ITEM": "gola burada 0801",
+      "DATE": "2026-05-23",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "19.8",
+      "RATE": "147.73",
+      "GP": "dry_fruits",
+      "S_NO": "TI 20",
+      "tax": 5,
+      "type": "cre"
     }
   ],
   "hotal_abha_regency": [
@@ -39031,6 +39091,66 @@
       "S_NO": "BS 25",
       "tax": 0,
       "type": "cash"
+    },
+    {
+      "nat": "1260",
+      "ITEM": "rice basmati",
+      "DATE": "2026-05-18",
+      "GSTIN": " ",
+      "QT": "18",
+      "RATE": "70",
+      "GP": "rice",
+      "S_NO": "BS 27",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "7000",
+      "ITEM": "rice basmati",
+      "DATE": "2026-05-21",
+      "GSTIN": " ",
+      "QT": "100",
+      "RATE": "70",
+      "GP": "rice",
+      "S_NO": "BS 28",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "7800",
+      "ITEM": "moong dhuli",
+      "DATE": "2026-05-21",
+      "GSTIN": " ",
+      "QT": "65",
+      "RATE": "120",
+      "GP": "dal",
+      "S_NO": "BS 28",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "197.4",
+      "ITEM": "COPRA",
+      "DATE": "2026-05-18",
+      "GSTIN": " ",
+      "QT": "1",
+      "RATE": "188",
+      "GP": "dry_fruits",
+      "S_NO": "TI 18",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "2763.6",
+      "ITEM": "COPRA",
+      "DATE": "2026-05-25",
+      "GSTIN": " ",
+      "QT": "14",
+      "RATE": "188",
+      "GP": "dry_fruits",
+      "S_NO": "TI 21",
+      "tax": 5,
+      "type": "cash"
     }
   ],
   "pick_n_pay_store": [
@@ -53469,6 +53589,90 @@
       "RATE": 260,
       "GP": "dry_fruits",
       "S_NO": "TI 17",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 5250,
+      "ITEM": "Makhana tax",
+      "DATE": "2026-05-21",
+      "GSTIN": "09AYVPS5464M1Z6",
+      "QT": 5,
+      "RATE": 1000,
+      "GP": "dry_fruits",
+      "S_NO": "TI 19",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 5355,
+      "ITEM": "Makhana tax",
+      "DATE": "2026-05-21",
+      "GSTIN": "09AYVPS5464M1Z6",
+      "QT": 5,
+      "RATE": 1020,
+      "GP": "dry_fruits",
+      "S_NO": "TI 19",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 1155,
+      "ITEM": "anjeer 0804",
+      "DATE": "2026-05-21",
+      "GSTIN": "09AYVPS5464M1Z6",
+      "QT": 1,
+      "RATE": 1100,
+      "GP": "dry_fruits",
+      "S_NO": "TI 19",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 819,
+      "ITEM": "meat masala",
+      "DATE": "2026-05-21",
+      "GSTIN": "09AYVPS5464M1Z6",
+      "QT": 10,
+      "RATE": 78,
+      "GP": "masale",
+      "S_NO": "TI 19",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 756,
+      "ITEM": "samber masala",
+      "DATE": "2026-05-21",
+      "GSTIN": "09AYVPS5464M1Z6",
+      "QT": 10,
+      "RATE": 72,
+      "GP": "masale",
+      "S_NO": "TI 19",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 871.5,
+      "ITEM": "kitchen king",
+      "DATE": "2026-05-21",
+      "GSTIN": "09AYVPS5464M1Z6",
+      "QT": 10,
+      "RATE": 83,
+      "GP": "masale",
+      "S_NO": "TI 19",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 924,
+      "ITEM": "munakka",
+      "DATE": "2026-05-21",
+      "GSTIN": "09AYVPS5464M1Z6",
+      "QT": 1,
+      "RATE": 880,
+      "GP": "dry_fruits",
+      "S_NO": "TI 19",
       "tax": 5,
       "type": "cre"
     }
