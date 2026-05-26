@@ -11,9 +11,9 @@
     },
     {
       "unit": "KG",
-      "amount": "775",
+      "amount": "0",
       "hsn": "0804",
-      "quantity": "1",
+      "quantity": "0",
       "rate": "775",
       "name": "anjeer 0804",
       "TAX": 5
@@ -92,9 +92,9 @@
     },
     {
       "unit": "KG",
-      "amount": "735.1",
+      "amount": "525.07",
       "hsn": "0806",
-      "quantity": "3.5",
+      "quantity": "2.5",
       "rate": "210.03",
       "name": "munakka",
       "TAX": 5
@@ -110,9 +110,9 @@
     },
     {
       "unit": "KG",
-      "amount": "9358.44",
+      "amount": "6458.64",
       "hsn": "0801",
-      "quantity": "63.9",
+      "quantity": "44.1",
       "rate": "146.45",
       "name": "gola burada 0801",
       "TAX": 5
@@ -128,9 +128,9 @@
     },
     {
       "unit": "KG",
-      "amount": "11049.93",
+      "amount": "4143.72",
       "hsn": "08021100",
-      "quantity": "16",
+      "quantity": "6",
       "rate": "690.62",
       "name": "Makhana tax",
       "TAX": 5
@@ -146,9 +146,9 @@
     },
     {
       "unit": "KG",
-      "amount": "16691.9",
+      "amount": "13894.37",
       "hsn": "1203",
-      "quantity": "89.5",
+      "quantity": "74.5",
       "rate": "186.5",
       "name": "COPRA",
       "TAX": 5
@@ -231,10 +231,10 @@
     },
     {
       "unit": "KG",
-      "amount": "1397.99",
+      "amount": "3331.33",
       "hsn": "0902",
-      "quantity": "3.6",
-      "rate": "388.33",
+      "quantity": "9.6",
+      "rate": "347.01",
       "name": "tea",
       "TAX": 5
     },
@@ -332,10 +332,10 @@
   "oil": [
     {
       "unit": "PKT",
-      "amount": "1696.92",
+      "amount": "15411.27",
       "hsn": "1507",
-      "quantity": "11",
-      "rate": "154.27",
+      "quantity": "89",
+      "rate": "173.16",
       "name": "refind soya oil",
       "TAX": 5
     },
@@ -406,9 +406,9 @@
     },
     {
       "unit": "KG",
-      "amount": "3479.41",
+      "amount": "2044.6",
       "hsn": "1106",
-      "quantity": "48.5",
+      "quantity": "28.5",
       "rate": "71.74",
       "name": "besan",
       "TAX": 0
@@ -561,9 +561,9 @@
     },
     {
       "unit": "PKT",
-      "amount": "1200.23",
+      "amount": "600.12",
       "hsn": "0910",
-      "quantity": "20",
+      "quantity": "10",
       "rate": "60.01",
       "name": "samber masala",
       "TAX": 5
@@ -687,18 +687,18 @@
     },
     {
       "unit": "PKT",
-      "amount": "1165.29",
+      "amount": "479.83",
       "hsn": "0910",
-      "quantity": "17",
+      "quantity": "7",
       "rate": "68.55",
       "name": "meat masala",
       "TAX": 5
     },
     {
       "unit": "PKT",
-      "amount": "2016.45",
+      "amount": "1321.13",
       "hsn": "0910",
-      "quantity": "29",
+      "quantity": "19",
       "rate": "69.53",
       "name": "kitchen king",
       "TAX": 5
@@ -788,9 +788,9 @@
     },
     {
       "unit": "KG",
-      "amount": "16853.39",
+      "amount": "12661.01",
       "hsn": "1701",
-      "quantity": "402",
+      "quantity": "302",
       "rate": "41.92",
       "name": "sugar",
       "TAX": 5
@@ -808,9 +808,9 @@
     },
     {
       "unit": "KG",
-      "amount": "13665.86",
+      "amount": "7183.16",
       "hsn": "1006",
-      "quantity": "248.75",
+      "quantity": "130.75",
       "rate": "54.94",
       "name": "rice basmati",
       "TAX": 0
@@ -972,9 +972,9 @@
     },
     {
       "unit": "KG",
-      "amount": "7048.65",
+      "amount": "4320.14",
       "hsn": "0713",
-      "quantity": "77.5",
+      "quantity": "47.5",
       "rate": "90.95",
       "name": "chana kabuli",
       "TAX": 0
@@ -1116,18 +1116,18 @@
     },
     {
       "unit": "KG",
-      "amount": "9039.83",
+      "amount": "2938.18",
       "hsn": "0713",
-      "quantity": "96.3",
+      "quantity": "31.3",
       "rate": "93.87",
       "name": "moong dhuli",
       "TAX": 0
     },
     {
       "unit": "KG",
-      "amount": "11826.04",
+      "amount": "5231.59",
       "hsn": "0713",
-      "quantity": "107.6",
+      "quantity": "47.6",
       "rate": "109.91",
       "name": "arhar dal",
       "TAX": 0
