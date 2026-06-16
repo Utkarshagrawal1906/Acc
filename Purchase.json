@@ -1333,6 +1333,42 @@
       "S_NO": "116",
       "tax": 5,
       "type": "deb"
+    },
+    {
+      "nat": "67.2",
+      "ITEM": "samber masala",
+      "DATE": "2026-06-10",
+      "GSTIN": "09ABCPV2211R1Z8",
+      "QT": "1",
+      "RATE": "64",
+      "GP": "masale",
+      "S_NO": "1387",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "132.47",
+      "ITEM": "Vinegar",
+      "DATE": "2026-06-10",
+      "GSTIN": "09ABCPV2211R1Z8",
+      "QT": "6",
+      "RATE": "18.71",
+      "GP": "other",
+      "S_NO": "1387",
+      "tax": 18,
+      "type": "cash"
+    },
+    {
+      "nat": "1530.02",
+      "ITEM": "tea",
+      "DATE": "2026-06-10",
+      "GSTIN": "09ABCPV2211R1Z8",
+      "QT": "3",
+      "RATE": "485.72",
+      "GP": "other",
+      "S_NO": "1387",
+      "tax": 5,
+      "type": "cash"
     }
   ],
   "sagar_and_co": [
@@ -10153,6 +10189,42 @@
       "S_NO": "3704",
       "tax": 5,
       "type": "deb"
+    },
+    {
+      "nat": "2425",
+      "ITEM": "papad",
+      "DATE": "2026-06-14",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "10",
+      "RATE": "242.5",
+      "GP": "other",
+      "S_NO": "141",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "2400",
+      "ITEM": "papad",
+      "DATE": "2026-06-14",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "10",
+      "RATE": "240",
+      "GP": "other",
+      "S_NO": "141",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "1950",
+      "ITEM": "papad",
+      "DATE": "2026-06-14",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "5",
+      "RATE": "390",
+      "GP": "other",
+      "S_NO": "141",
+      "tax": 0,
+      "type": "cash"
     }
   ],
   "deepak_kumar_ashish_kumar": [
@@ -15321,6 +15393,42 @@
       "S_NO": "139",
       "tax": 5,
       "type": "cash"
+    },
+    {
+      "nat": "2399.98",
+      "ITEM": "desi ghee",
+      "DATE": "2026-06-01",
+      "GSTIN": "09AMPPB4498J1ZF",
+      "QT": "6",
+      "RATE": "380.95",
+      "GP": "oil",
+      "S_NO": "257",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "1199.99",
+      "ITEM": "desi ghee",
+      "DATE": "2026-06-01",
+      "GSTIN": "09AMPPB4498J1ZF",
+      "QT": "3",
+      "RATE": "380.95",
+      "GP": "oil",
+      "S_NO": "257",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "410.02",
+      "ITEM": "desi ghee",
+      "DATE": "2026-06-01",
+      "GSTIN": "09AMPPB4498J1ZF",
+      "QT": "1",
+      "RATE": "390.5",
+      "GP": "oil",
+      "S_NO": "257",
+      "tax": 5,
+      "type": "cash"
     }
   ],
   "warrior_computer": [
@@ -18758,6 +18866,30 @@
       "GP": "sugar_boora",
       "S_NO": "721",
       "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "22240",
+      "ITEM": "MAIDA",
+      "DATE": "2026-06-01",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "800",
+      "RATE": "27.8",
+      "GP": "atta_maida",
+      "S_NO": "B145",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "22560",
+      "ITEM": "sooji",
+      "DATE": "2026-06-01",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "800",
+      "RATE": "28.2",
+      "GP": "atta_maida",
+      "S_NO": "B145",
+      "tax": 0,
       "type": "deb"
     }
   ],
@@ -25625,6 +25757,18 @@
       "RATE": "174.36",
       "GP": "oil",
       "S_NO": "8860",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "18880.01",
+      "ITEM": "refind soya oil",
+      "DATE": "2026-06-15",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "104",
+      "RATE": "172.89",
+      "GP": "oil",
+      "S_NO": "9942",
       "tax": 5,
       "type": "deb"
     }
