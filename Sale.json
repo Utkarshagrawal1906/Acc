@@ -6785,6 +6785,90 @@
       "S_NO": "BS 39",
       "tax": 0,
       "type": "cre"
+    },
+    {
+      "nat": 3900,
+      "ITEM": "arhar dal",
+      "DATE": "2026-06-27",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 30,
+      "RATE": 130,
+      "GP": "dal",
+      "S_NO": "BS 44",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 3600,
+      "ITEM": "chana kabuli",
+      "DATE": "2026-06-27",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 30,
+      "RATE": 120,
+      "GP": "dal",
+      "S_NO": "BS 44",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 2550,
+      "ITEM": "dal chana",
+      "DATE": "2026-06-27",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 30,
+      "RATE": 85,
+      "GP": "dal",
+      "S_NO": "BS 44",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 2559.99,
+      "ITEM": "masoor",
+      "DATE": "2026-06-27",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 30,
+      "RATE": 85.333,
+      "GP": "dal",
+      "S_NO": "BS 44",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 25137,
+      "ITEM": "refind soya oil",
+      "DATE": "2026-06-27",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 140,
+      "RATE": 171,
+      "GP": "oil",
+      "S_NO": "TI 31",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 2583,
+      "ITEM": "garam masala",
+      "DATE": "2026-06-27",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 30,
+      "RATE": 82,
+      "GP": "masale",
+      "S_NO": "TI 31",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 2299.5,
+      "ITEM": "kitchen king",
+      "DATE": "2026-06-27",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 30,
+      "RATE": 73,
+      "GP": "masale",
+      "S_NO": "TI 31",
+      "tax": 5,
+      "type": "cre"
     }
   ],
   "palm_tree_hotel_and_restaurent": [
@@ -24607,6 +24691,54 @@
       "S_NO": "TI 29",
       "tax": 5,
       "type": "cre"
+    },
+    {
+      "nat": "2640",
+      "ITEM": "besan",
+      "DATE": "2026-06-26",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "30",
+      "RATE": "88",
+      "GP": "atta_maida",
+      "S_NO": "BS 43",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "6500",
+      "ITEM": "rice dubar",
+      "DATE": "2026-06-26",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "100",
+      "RATE": "65",
+      "GP": "rice",
+      "S_NO": "BS 43",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "3900",
+      "ITEM": "arhar dal",
+      "DATE": "2026-06-26",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "30",
+      "RATE": "130",
+      "GP": "dal",
+      "S_NO": "BS 43",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "2042.5",
+      "ITEM": "chana kabuli",
+      "DATE": "2026-06-26",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "19",
+      "RATE": "107.5",
+      "GP": "dal",
+      "S_NO": "BS 43",
+      "tax": 0,
+      "type": "cre"
     }
   ],
   "hotal_abha_regency": [
@@ -40121,6 +40253,90 @@
       "RATE": "68",
       "GP": "masale",
       "S_NO": "TI 28",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "3400",
+      "ITEM": "chana kala 0713",
+      "DATE": "2026-06-25",
+      "GSTIN": " ",
+      "QT": "40",
+      "RATE": "85",
+      "GP": "dal",
+      "S_NO": "BS 42",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "3600",
+      "ITEM": "masoor",
+      "DATE": "2026-06-28",
+      "GSTIN": " ",
+      "QT": "40",
+      "RATE": "90",
+      "GP": "dal",
+      "S_NO": "BS 45",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "5400",
+      "ITEM": "chana kala 0713",
+      "DATE": "2026-06-28",
+      "GSTIN": " ",
+      "QT": "60",
+      "RATE": "90",
+      "GP": "dal",
+      "S_NO": "BS 45",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "3780",
+      "ITEM": "dal chana",
+      "DATE": "2026-06-28",
+      "GSTIN": " ",
+      "QT": "42",
+      "RATE": "90",
+      "GP": "dal",
+      "S_NO": "BS 45",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "1184.4",
+      "ITEM": "COPRA",
+      "DATE": "2026-06-29",
+      "GSTIN": " ",
+      "QT": "6",
+      "RATE": "188",
+      "GP": "dry_fruits",
+      "S_NO": "TI 32",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "1102.5",
+      "ITEM": "sugar",
+      "DATE": "2026-06-29",
+      "GSTIN": " ",
+      "QT": "25",
+      "RATE": "42",
+      "GP": "sugar_boora",
+      "S_NO": "TI 32",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "1065.75",
+      "ITEM": "Refind SF Oil",
+      "DATE": "2026-06-29",
+      "GSTIN": " ",
+      "QT": "7",
+      "RATE": "145",
+      "GP": "oil",
+      "S_NO": "TI 32",
       "tax": 5,
       "type": "cash"
     }
