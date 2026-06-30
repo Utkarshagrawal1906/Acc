@@ -491,6 +491,30 @@
       "S_NO": "1157",
       "tax": 5,
       "type": "deb"
+    },
+    {
+      "nat": "4170",
+      "ITEM": "SALT (NAMAK)",
+      "DATE": "2026-06-26",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "150",
+      "RATE": "27.8",
+      "GP": "other",
+      "S_NO": "1528",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "600",
+      "ITEM": "SALT (NAMAK)",
+      "DATE": "2026-06-26",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "12",
+      "RATE": "50",
+      "GP": "other",
+      "S_NO": "1528",
+      "tax": 0,
+      "type": "cash"
     }
   ],
   "dev_goldiee_agency": [
@@ -15353,6 +15377,42 @@
       "S_NO": "34",
       "tax": 5,
       "type": "deb"
+    },
+    {
+      "nat": "2142",
+      "ITEM": "RICE golden branded",
+      "DATE": "2026-06-29",
+      "GSTIN": "09ABOPG8156C1ZI",
+      "QT": "40",
+      "RATE": "51",
+      "GP": "rice",
+      "S_NO": "87",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "8505",
+      "ITEM": "rice super branded",
+      "DATE": "2026-06-29",
+      "GSTIN": "09ABOPG8156C1ZI",
+      "QT": "60",
+      "RATE": "135",
+      "GP": "rice",
+      "S_NO": "87",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "4725",
+      "ITEM": "rice rozana branded",
+      "DATE": "2026-06-29",
+      "GSTIN": "09ABOPG8156C1ZI",
+      "QT": "60",
+      "RATE": "75",
+      "GP": "rice",
+      "S_NO": "87",
+      "tax": 5,
+      "type": "deb"
     }
   ],
   "mohini_traders": [
@@ -24827,6 +24887,102 @@
       "S_NO": "252",
       "tax": 0,
       "type": "deb"
+    },
+    {
+      "nat": "9900",
+      "ITEM": "arhar dal",
+      "DATE": "2026-06-28",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "110",
+      "GP": "dal",
+      "S_NO": "285",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "6300",
+      "ITEM": "dal chana",
+      "DATE": "2026-06-28",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "70",
+      "GP": "dal",
+      "S_NO": "285",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "8100",
+      "ITEM": "chana kabuli",
+      "DATE": "2026-06-28",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "90",
+      "GP": "dal",
+      "S_NO": "285",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "6000",
+      "ITEM": "rajma",
+      "DATE": "2026-06-28",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "60",
+      "RATE": "100",
+      "GP": "dal",
+      "S_NO": "285",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "6480",
+      "ITEM": "chana kala 0713",
+      "DATE": "2026-06-28",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "72",
+      "GP": "dal",
+      "S_NO": "285",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "6300",
+      "ITEM": "masoor",
+      "DATE": "2026-06-28",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "70",
+      "GP": "dal",
+      "S_NO": "285",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "1440",
+      "ITEM": "matar",
+      "DATE": "2026-06-28",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "30",
+      "RATE": "48",
+      "GP": "dal",
+      "S_NO": "285",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "5200",
+      "ITEM": "besan",
+      "DATE": "2026-06-28",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "70",
+      "RATE": "74.29",
+      "GP": "atta_maida",
+      "S_NO": "285",
+      "tax": 0,
+      "type": "deb"
     }
   ],
   "om_traders": [
@@ -25901,6 +26057,18 @@
       "RATE": "172.89",
       "GP": "oil",
       "S_NO": "9942",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "23000.25",
+      "ITEM": "refind soya oil",
+      "DATE": "2026-06-28",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "130",
+      "RATE": "168.5",
+      "GP": "oil",
+      "S_NO": "11422",
       "tax": 5,
       "type": "deb"
     }
