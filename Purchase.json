@@ -515,6 +515,30 @@
       "S_NO": "1528",
       "tax": 0,
       "type": "cash"
+    },
+    {
+      "nat": "350.01",
+      "ITEM": "tea",
+      "DATE": "2026-07-13",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "2",
+      "RATE": "166.67",
+      "GP": "other",
+      "S_NO": "1814",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "850",
+      "ITEM": "tea",
+      "DATE": "2026-07-13",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "2",
+      "RATE": "404.76",
+      "GP": "other",
+      "S_NO": "1814",
+      "tax": 5,
+      "type": "cash"
     }
   ],
   "dev_goldiee_agency": [
@@ -15413,6 +15437,90 @@
       "S_NO": "87",
       "tax": 5,
       "type": "deb"
+    },
+    {
+      "nat": "13500",
+      "ITEM": "dal moong",
+      "DATE": "2026-07-10",
+      "GSTIN": "09ABOPG8156C1ZI",
+      "QT": "150",
+      "RATE": "90",
+      "GP": "dal",
+      "S_NO": "771",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "5400",
+      "ITEM": "dal chana",
+      "DATE": "2026-07-10",
+      "GSTIN": "09ABOPG8156C1ZI",
+      "QT": "90",
+      "RATE": "60",
+      "GP": "dal",
+      "S_NO": "771",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "8100",
+      "ITEM": "dal masoor",
+      "DATE": "2026-07-10",
+      "GSTIN": "09ABOPG8156C1ZI",
+      "QT": "90",
+      "RATE": "90",
+      "GP": "dal",
+      "S_NO": "771",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "8550",
+      "ITEM": "arhar dal",
+      "DATE": "2026-07-10",
+      "GSTIN": "09ABOPG8156C1ZI",
+      "QT": "90",
+      "RATE": "95",
+      "GP": "dal",
+      "S_NO": "771",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "7800",
+      "ITEM": "rajma",
+      "DATE": "2026-07-10",
+      "GSTIN": "09ABOPG8156C1ZI",
+      "QT": "60",
+      "RATE": "130",
+      "GP": "dal",
+      "S_NO": "771",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "3650.1",
+      "ITEM": "chana kabuli",
+      "DATE": "2026-07-10",
+      "GSTIN": "09ABOPG8156C1ZI",
+      "QT": "30",
+      "RATE": "121.67",
+      "GP": "dal",
+      "S_NO": "771",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "3000",
+      "ITEM": "rice dubar",
+      "DATE": "2026-07-10",
+      "GSTIN": "09ABOPG8156C1ZI",
+      "QT": "60",
+      "RATE": "50",
+      "GP": "rice",
+      "S_NO": "771",
+      "tax": 0,
+      "type": "deb"
     }
   ],
   "mohini_traders": [
@@ -19082,6 +19190,42 @@
       "GP": "atta_maida",
       "S_NO": "B145",
       "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "27000",
+      "ITEM": "atta",
+      "DATE": "2026-06-27",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "1000",
+      "RATE": "27",
+      "GP": "atta_maida",
+      "S_NO": "B196",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "27600",
+      "ITEM": "MAIDA",
+      "DATE": "2026-06-27",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "1000",
+      "RATE": "27.6",
+      "GP": "atta_maida",
+      "S_NO": "B196",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "21945",
+      "ITEM": "sugar",
+      "DATE": "2026-07-10",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "500",
+      "RATE": "41.8",
+      "GP": "sugar_boora",
+      "S_NO": "1580",
+      "tax": 5,
       "type": "deb"
     }
   ],
@@ -26069,6 +26213,66 @@
       "RATE": "168.5",
       "GP": "oil",
       "S_NO": "11422",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "10199.7",
+      "ITEM": "Refind SF Oil",
+      "DATE": "2026-07-03",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "60",
+      "RATE": "161.9",
+      "GP": "oil",
+      "S_NO": "12153",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "8064",
+      "ITEM": "MUSTARD OIL",
+      "DATE": "2026-07-03",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "48",
+      "RATE": "160",
+      "GP": "oil",
+      "S_NO": "12153",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "2088.07",
+      "ITEM": "MUSTARD OIL",
+      "DATE": "2026-07-03",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "12",
+      "RATE": "165.72",
+      "GP": "oil",
+      "S_NO": "12153",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "4608.07",
+      "ITEM": "Refind G Nut Oil",
+      "DATE": "2026-07-03",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "24",
+      "RATE": "182.86",
+      "GP": "oil",
+      "S_NO": "12153",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "9120.06",
+      "ITEM": "refind soya oil",
+      "DATE": "2026-07-08",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "52",
+      "RATE": "167.03",
+      "GP": "oil",
+      "S_NO": "12554",
       "tax": 5,
       "type": "deb"
     }
