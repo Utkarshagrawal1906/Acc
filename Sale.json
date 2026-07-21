@@ -6941,6 +6941,54 @@
       "S_NO": "TI 34",
       "tax": 5,
       "type": "cre"
+    },
+    {
+      "nat": 14196,
+      "ITEM": "refind soya oil",
+      "DATE": "2026-07-16",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 80,
+      "RATE": 169,
+      "GP": "oil",
+      "S_NO": "TI 36",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 2205,
+      "ITEM": "sugar",
+      "DATE": "2026-07-16",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 50,
+      "RATE": 42,
+      "GP": "sugar_boora",
+      "S_NO": "TI 36",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 3600,
+      "ITEM": "dal masoor",
+      "DATE": "2026-07-20",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 30,
+      "RATE": 120,
+      "GP": "dal",
+      "S_NO": "BS 56",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 3220,
+      "ITEM": "rajma",
+      "DATE": "2026-07-20",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 23,
+      "RATE": 140,
+      "GP": "dal",
+      "S_NO": "BS 56",
+      "tax": 0,
+      "type": "cre"
     }
   ],
   "palm_tree_hotel_and_restaurent": [
@@ -25015,6 +25063,102 @@
       "S_NO": "BS 52",
       "tax": 0,
       "type": "cre"
+    },
+    {
+      "nat": "1995",
+      "ITEM": "tea",
+      "DATE": "2026-07-19",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "5",
+      "RATE": "380",
+      "GP": "other",
+      "S_NO": "TI 37",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "4410",
+      "ITEM": "sugar",
+      "DATE": "2026-07-19",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "100",
+      "RATE": "42",
+      "GP": "sugar_boora",
+      "S_NO": "TI 37",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "1701",
+      "ITEM": "jaljeera masala",
+      "DATE": "2026-07-19",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "30",
+      "RATE": "54",
+      "GP": "masale",
+      "S_NO": "TI 37",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "3200",
+      "ITEM": "atta",
+      "DATE": "2026-07-17",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "100",
+      "RATE": "32",
+      "GP": "atta_maida",
+      "S_NO": "BS 54",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "3300",
+      "ITEM": "MAIDA",
+      "DATE": "2026-07-17",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "100",
+      "RATE": "33",
+      "GP": "atta_maida",
+      "S_NO": "BS 54",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "3300",
+      "ITEM": "dal moong",
+      "DATE": "2026-07-17",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "30",
+      "RATE": "110",
+      "GP": "dal",
+      "S_NO": "BS 54",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "2040",
+      "ITEM": "rajma",
+      "DATE": "2026-07-17",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "15",
+      "RATE": "136",
+      "GP": "dal",
+      "S_NO": "BS 54",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "190",
+      "ITEM": "dal chana",
+      "DATE": "2026-07-17",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "2",
+      "RATE": "95",
+      "GP": "dal",
+      "S_NO": "BS 54",
+      "tax": 0,
+      "type": "cre"
     }
   ],
   "hotal_abha_regency": [
@@ -40709,6 +40853,42 @@
       "RATE": "90",
       "GP": "atta_maida",
       "S_NO": "BS 51",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "2760",
+      "ITEM": "dal masoor",
+      "DATE": "2026-07-15",
+      "GSTIN": " ",
+      "QT": "24",
+      "RATE": "115",
+      "GP": "dal",
+      "S_NO": "BS 53",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "3600",
+      "ITEM": "dal moong",
+      "DATE": "2026-07-18",
+      "GSTIN": " ",
+      "QT": "30",
+      "RATE": "120",
+      "GP": "dal",
+      "S_NO": "BS 55",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "2760",
+      "ITEM": "dal masoor",
+      "DATE": "2026-07-18",
+      "GSTIN": " ",
+      "QT": "23",
+      "RATE": "120",
+      "GP": "dal",
+      "S_NO": "BS 55",
       "tax": 0,
       "type": "cash"
     }
