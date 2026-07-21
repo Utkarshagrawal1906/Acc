@@ -539,6 +539,18 @@
       "S_NO": "1814",
       "tax": 5,
       "type": "cash"
+    },
+    {
+      "nat": "1020",
+      "ITEM": "Coffee",
+      "DATE": "2026-07-16",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "10",
+      "RATE": "97.14",
+      "GP": "other",
+      "S_NO": "1864",
+      "tax": 5,
+      "type": "cash"
     }
   ],
   "dev_goldiee_agency": [
@@ -1415,6 +1427,18 @@
       "RATE": "485.72",
       "GP": "other",
       "S_NO": "1387",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "1530.02",
+      "ITEM": "tea",
+      "DATE": "2026-07-15",
+      "GSTIN": "09ABCPV2211R1Z8",
+      "QT": "3",
+      "RATE": "485.72",
+      "GP": "other",
+      "S_NO": "2149",
       "tax": 5,
       "type": "cash"
     }
@@ -26273,6 +26297,18 @@
       "RATE": "167.03",
       "GP": "oil",
       "S_NO": "12554",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "13800.07",
+      "ITEM": "refind soya oil",
+      "DATE": "2026-07-19",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "78",
+      "RATE": "168.5",
+      "GP": "oil",
+      "S_NO": "14097",
       "tax": 5,
       "type": "deb"
     }
