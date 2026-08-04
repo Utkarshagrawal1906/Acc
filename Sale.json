@@ -25495,6 +25495,114 @@
       "S_NO": "TI 38",
       "tax": 0,
       "type": "cre"
+    },
+    {
+      "nat": "2016",
+      "ITEM": "chana masala",
+      "DATE": "2026-08-01",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "30",
+      "RATE": "64",
+      "GP": "masale",
+      "S_NO": "TI 40",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "4593.75",
+      "ITEM": "deggi mirch 0904",
+      "DATE": "2026-08-01",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "50",
+      "RATE": "87.5",
+      "GP": "masale",
+      "S_NO": "TI 40",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "2268",
+      "ITEM": "meat masala",
+      "DATE": "2026-08-01",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "30",
+      "RATE": "72",
+      "GP": "masale",
+      "S_NO": "TI 40",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "1291.5",
+      "ITEM": "samber masala",
+      "DATE": "2026-08-01",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "20",
+      "RATE": "61.5",
+      "GP": "masale",
+      "S_NO": "TI 40",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "1554",
+      "ITEM": "gola burada 0801",
+      "DATE": "2026-08-01",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "10",
+      "RATE": "148",
+      "GP": "dry_fruits",
+      "S_NO": "TI 40",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "4410",
+      "ITEM": "sugar",
+      "DATE": "2026-08-01",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "100",
+      "RATE": "42",
+      "GP": "sugar_boora",
+      "S_NO": "TI 40",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "8500",
+      "ITEM": "atta",
+      "DATE": "2026-08-02",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "250",
+      "RATE": "34",
+      "GP": "atta_maida",
+      "S_NO": "BS 62",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "11100",
+      "ITEM": "MAIDA",
+      "DATE": "2026-08-02",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "300",
+      "RATE": "37",
+      "GP": "atta_maida",
+      "S_NO": "BS 62",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "2465",
+      "ITEM": "besan",
+      "DATE": "2026-08-02",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "30",
+      "RATE": "82.17",
+      "GP": "atta_maida",
+      "S_NO": "BS 62",
+      "tax": 0,
+      "type": "cre"
     }
   ],
   "hotal_abha_regency": [
@@ -41241,6 +41349,18 @@
       "type": "cash"
     },
     {
+      "nat": "2750",
+      "ITEM": "dal moong",
+      "DATE": "2026-07-04",
+      "GSTIN": " ",
+      "QT": "25",
+      "RATE": "110",
+      "GP": "dal",
+      "S_NO": "BS 61",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
       "nat": "3848",
       "ITEM": "atta",
       "DATE": "2026-07-27",
@@ -41262,6 +41382,66 @@
       "GP": "atta_maida",
       "S_NO": "BS 60",
       "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "2700",
+      "ITEM": "masoor",
+      "DATE": "2026-07-31",
+      "GSTIN": " ",
+      "QT": "30",
+      "RATE": "90",
+      "GP": "dal",
+      "S_NO": "BS 61",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "2750",
+      "ITEM": "moong dhuli",
+      "DATE": "2026-07-31",
+      "GSTIN": " ",
+      "QT": "25",
+      "RATE": "110",
+      "GP": "dal",
+      "S_NO": "BS 61",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "1000",
+      "ITEM": "chana kala 0713",
+      "DATE": "2026-07-31",
+      "GSTIN": " ",
+      "QT": "12.5",
+      "RATE": "80",
+      "GP": "dal",
+      "S_NO": "BS 61",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "10206",
+      "ITEM": "MUSTARD OIL",
+      "DATE": "2026-08-03",
+      "GSTIN": " ",
+      "QT": "60",
+      "RATE": "162",
+      "GP": "oil",
+      "S_NO": "TI 41",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "3626.7",
+      "ITEM": "Refind SF Oil",
+      "DATE": "2026-08-03",
+      "GSTIN": " ",
+      "QT": "22",
+      "RATE": "157",
+      "GP": "oil",
+      "S_NO": "TI 41",
+      "tax": 5,
       "type": "cash"
     }
   ],
