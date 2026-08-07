@@ -25271,6 +25271,54 @@
       "S_NO": "285",
       "tax": 0,
       "type": "deb"
+    },
+    {
+      "nat": "21600",
+      "ITEM": "arhar dal",
+      "DATE": "2026-07-01",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "240",
+      "RATE": "90",
+      "GP": "dal",
+      "S_NO": "299",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "15600",
+      "ITEM": "dal chana",
+      "DATE": "2026-07-01",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "240",
+      "RATE": "65",
+      "GP": "dal",
+      "S_NO": "299",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "20400",
+      "ITEM": "dal masoor",
+      "DATE": "2026-07-01",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "240",
+      "RATE": "85",
+      "GP": "dal",
+      "S_NO": "299",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "24750",
+      "ITEM": "rice basmati",
+      "DATE": "2026-07-01",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "450",
+      "RATE": "55",
+      "GP": "rice",
+      "S_NO": "299",
+      "tax": 0,
+      "type": "deb"
     }
   ],
   "om_traders": [
