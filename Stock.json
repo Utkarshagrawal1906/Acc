@@ -808,10 +808,10 @@
     },
     {
       "unit": "KG",
-      "amount": "590.58",
+      "amount": "25340.58",
       "hsn": "1006",
-      "quantity": "10.75",
-      "rate": "54.94",
+      "quantity": "460.75",
+      "rate": "55",
       "name": "rice basmati",
       "TAX": 0
     },
@@ -945,19 +945,19 @@
   "dal": [
     {
       "unit": "KG",
-      "amount": "884.61",
+      "amount": "16484.61",
       "hsn": "0713",
-      "quantity": "14",
-      "rate": "63.19",
+      "quantity": "254",
+      "rate": "64.9",
       "name": "dal chana",
       "TAX": 0
     },
     {
       "unit": "KG",
-      "amount": "2238.85",
+      "amount": "22638.85",
       "hsn": "0713",
-      "quantity": "24",
-      "rate": "93.29",
+      "quantity": "264",
+      "rate": "85.75",
       "name": "dal masoor",
       "TAX": 0
     },
@@ -1125,10 +1125,10 @@
     },
     {
       "unit": "KG",
-      "amount": "1715.16",
+      "amount": "23315.16",
       "hsn": "0713",
-      "quantity": "17.6",
-      "rate": "97.45",
+      "quantity": "257.6",
+      "rate": "90.51",
       "name": "arhar dal",
       "TAX": 0
     },
