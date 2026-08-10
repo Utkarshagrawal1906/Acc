@@ -551,6 +551,54 @@
       "S_NO": "1864",
       "tax": 5,
       "type": "cash"
+    },
+    {
+      "nat": "4140",
+      "ITEM": "SALT (NAMAK)",
+      "DATE": "2026-08-05",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "150",
+      "RATE": "27.6",
+      "GP": "other",
+      "S_NO": "2199",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "624",
+      "ITEM": "SALT (NAMAK)",
+      "DATE": "2026-08-05",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "12",
+      "RATE": "52",
+      "GP": "other",
+      "S_NO": "2199",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "2780",
+      "ITEM": "SALT (NAMAK)",
+      "DATE": "2026-08-06",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "100",
+      "RATE": "27.8",
+      "GP": "other",
+      "S_NO": "2210",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "1180",
+      "ITEM": "SALT (NAMAK)",
+      "DATE": "2026-08-06",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "25",
+      "RATE": "47.2",
+      "GP": "other",
+      "S_NO": "2210",
+      "tax": 0,
+      "type": "cash"
     }
   ],
   "dev_goldiee_agency": [
@@ -10525,6 +10573,90 @@
       "S_NO": "RB/204",
       "tax": 0,
       "type": "cash"
+    },
+    {
+      "nat": "16562.07",
+      "ITEM": "deggi mirch 0904",
+      "DATE": "2026-08-05",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "180",
+      "RATE": "87.63",
+      "GP": "masale",
+      "S_NO": "RD10784",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "4151.1",
+      "ITEM": "chana masala",
+      "DATE": "2026-08-05",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "60",
+      "RATE": "65.89",
+      "GP": "masale",
+      "S_NO": "RD10784",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "6226.64",
+      "ITEM": "chat massala 0910",
+      "DATE": "2026-08-05",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "90",
+      "RATE": "65.89",
+      "GP": "masale",
+      "S_NO": "RD10784",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "6623.96",
+      "ITEM": "meat masala",
+      "DATE": "2026-08-05",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "90",
+      "RATE": "70.09",
+      "GP": "masale",
+      "S_NO": "RD10784",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "6623.96",
+      "ITEM": "kitchen king",
+      "DATE": "2026-08-05",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "90",
+      "RATE": "70.09",
+      "GP": "masale",
+      "S_NO": "RD10784",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "3620.76",
+      "ITEM": "Rayta Masala",
+      "DATE": "2026-08-05",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "60",
+      "RATE": "57.47",
+      "GP": "masale",
+      "S_NO": "RD10784",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "1677.94",
+      "ITEM": "jaljeera masala",
+      "DATE": "2026-08-05",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "30",
+      "RATE": "53.27",
+      "GP": "masale",
+      "S_NO": "RD10784",
+      "tax": 5,
+      "type": "deb"
     }
   ],
   "deepak_kumar_ashish_kumar": [
@@ -19369,6 +19501,30 @@
       "RATE": "34.4",
       "GP": "atta_maida",
       "S_NO": "B221",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "24000",
+      "ITEM": "atta",
+      "DATE": "2026-08-01",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "750",
+      "RATE": "32",
+      "GP": "atta_maida",
+      "S_NO": "B229",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "26400",
+      "ITEM": "MAIDA",
+      "DATE": "2026-08-01",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "750",
+      "RATE": "35.2",
+      "GP": "atta_maida",
+      "S_NO": "B229",
       "tax": 0,
       "type": "deb"
     }
