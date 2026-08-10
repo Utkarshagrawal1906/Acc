@@ -7133,6 +7133,18 @@
       "S_NO": "BS 58",
       "tax": 0,
       "type": "cre"
+    },
+    {
+      "nat": 1440.5475000000001,
+      "ITEM": "Rayta Masala",
+      "DATE": "2026-08-09",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 23,
+      "RATE": 59.65,
+      "GP": "masale",
+      "S_NO": "TI 42",
+      "tax": 5,
+      "type": "cre"
     }
   ],
   "palm_tree_hotel_and_restaurent": [
@@ -41442,6 +41454,90 @@
       "GP": "oil",
       "S_NO": "TI 41",
       "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "3600",
+      "ITEM": "dal masoor",
+      "DATE": "2026-08-06",
+      "GSTIN": " ",
+      "QT": "36",
+      "RATE": "100",
+      "GP": "dal",
+      "S_NO": "BS 63",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "2200",
+      "ITEM": "arhar dal",
+      "DATE": "2026-08-08",
+      "GSTIN": " ",
+      "QT": "20",
+      "RATE": "110",
+      "GP": "dal",
+      "S_NO": "BS 64",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "1600",
+      "ITEM": "dal chana",
+      "DATE": "2026-08-08",
+      "GSTIN": " ",
+      "QT": "20",
+      "RATE": "80",
+      "GP": "dal",
+      "S_NO": "BS 64",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "3090",
+      "ITEM": "dal masoor",
+      "DATE": "2026-08-08",
+      "GSTIN": " ",
+      "QT": "30",
+      "RATE": "103",
+      "GP": "dal",
+      "S_NO": "BS 64",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "3500",
+      "ITEM": "atta",
+      "DATE": "2026-08-10",
+      "GSTIN": " ",
+      "QT": "100",
+      "RATE": "35",
+      "GP": "atta_maida",
+      "S_NO": "BS 65",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "3800",
+      "ITEM": "MAIDA",
+      "DATE": "2026-08-10",
+      "GSTIN": " ",
+      "QT": "100",
+      "RATE": "38",
+      "GP": "atta_maida",
+      "S_NO": "BS 65",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "3500",
+      "ITEM": "rice basmati",
+      "DATE": "2026-08-10",
+      "GSTIN": " ",
+      "QT": "50",
+      "RATE": "70",
+      "GP": "rice",
+      "S_NO": "BS 65",
+      "tax": 0,
       "type": "cash"
     }
   ],
