@@ -599,6 +599,18 @@
       "S_NO": "2210",
       "tax": 0,
       "type": "cash"
+    },
+    {
+      "nat": "1020",
+      "ITEM": "Coffee",
+      "DATE": "2026-08-14",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "5",
+      "RATE": "194.29",
+      "GP": "other",
+      "S_NO": "2358",
+      "tax": 5,
+      "type": "cash"
     }
   ],
   "dev_goldiee_agency": [
