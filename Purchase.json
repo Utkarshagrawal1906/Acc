@@ -25955,6 +25955,68 @@
       "type": "deb"
     }
   ],
+  "Vartika_Trading_Company": [
+    {
+      "nat": 0,
+      "ITEM": "",
+      "DATE": "2026-08-18",
+      "GSTIN": "09BMXPV2022D1ZR",
+      "QT": 0,
+      "RATE": 0,
+      "GP": "",
+      "S_NO": "-1",
+      "tax": 0,
+      "type": ""
+    },
+    {
+      "nat": 1090.0049999999999,
+      "ITEM": "VARMICILLY",
+      "DATE": "2026-08-15",
+      "GSTIN": "09BMXPV2022D1ZR",
+      "QT": 40,
+      "RATE": 25.9525,
+      "GP": "other",
+      "S_NO": "T00138",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": 1104.0019200000002,
+      "ITEM": "souce chilli 500gm",
+      "DATE": "2026-08-15",
+      "GSTIN": "09BMXPV2022D1ZR",
+      "QT": 24,
+      "RATE": 43.8096,
+      "GP": "other",
+      "S_NO": "T00138",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": 1620.00342,
+      "ITEM": "Schewan Chatney",
+      "DATE": "2026-08-15",
+      "GSTIN": "09BMXPV2022D1ZR",
+      "QT": 12,
+      "RATE": 128.5717,
+      "GP": "other",
+      "S_NO": "T00138",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": 2800.0139999999997,
+      "ITEM": "VARMICILLY",
+      "DATE": "2026-08-15",
+      "GSTIN": "09BMXPV2022D1ZR",
+      "QT": 50,
+      "RATE": 53.3336,
+      "GP": "other",
+      "S_NO": "T00138",
+      "tax": 5,
+      "type": "deb"
+    }
+  ],
   "raghvendra_pratap_singh_and_brother": [
     {
       "nat": "0",
