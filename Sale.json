@@ -7145,6 +7145,114 @@
       "S_NO": "TI 42",
       "tax": 5,
       "type": "cre"
+    },
+    {
+      "nat": 21567,
+      "ITEM": "Refind SF Oil",
+      "DATE": "2026-08-16",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 130,
+      "RATE": 158,
+      "GP": "oil",
+      "S_NO": "TI 45",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 4620,
+      "ITEM": "deggi mirch 0904",
+      "DATE": "2026-08-16",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 50,
+      "RATE": 88,
+      "GP": "masale",
+      "S_NO": "TI 45",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 2110.5,
+      "ITEM": "chana masala",
+      "DATE": "2026-08-16",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 30,
+      "RATE": 67,
+      "GP": "masale",
+      "S_NO": "TI 45",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 1407,
+      "ITEM": "chat massala 0910",
+      "DATE": "2026-08-16",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 20,
+      "RATE": 67,
+      "GP": "masale",
+      "S_NO": "TI 45",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 2236.5,
+      "ITEM": "kitchen king",
+      "DATE": "2026-08-16",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 30,
+      "RATE": 71,
+      "GP": "masale",
+      "S_NO": "TI 45",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 7800,
+      "ITEM": "rice basmati",
+      "DATE": "2026-08-15",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 120,
+      "RATE": 65,
+      "GP": "rice",
+      "S_NO": "BS 69",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 13200,
+      "ITEM": "arhar dal",
+      "DATE": "2026-08-15",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 120,
+      "RATE": 110,
+      "GP": "dal",
+      "S_NO": "BS 69",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 10320,
+      "ITEM": "dal chana",
+      "DATE": "2026-08-15",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 120,
+      "RATE": 86,
+      "GP": "dal",
+      "S_NO": "BS 69",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 2442,
+      "ITEM": "dal masoor",
+      "DATE": "2026-08-15",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 22,
+      "RATE": 111,
+      "GP": "dal",
+      "S_NO": "BS 69",
+      "tax": 0,
+      "type": "cre"
     }
   ],
   "palm_tree_hotel_and_restaurent": [
@@ -41755,6 +41863,18 @@
       "S_NO": "BS 68",
       "tax": 0,
       "type": "cash"
+    },
+    {
+      "nat": "5335",
+      "ITEM": "dal masoor",
+      "DATE": "2026-08-17",
+      "GSTIN": " ",
+      "QT": "48.5",
+      "RATE": "110",
+      "GP": "dal",
+      "S_NO": "BS 70",
+      "tax": 0,
+      "type": "cre"
     }
   ],
   "pick_n_pay_store": [
