@@ -25487,6 +25487,54 @@
       "S_NO": "299",
       "tax": 0,
       "type": "deb"
+    },
+    {
+      "nat": "13200",
+      "ITEM": "arhar dal",
+      "DATE": "2026-08-20",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "120",
+      "RATE": "110",
+      "GP": "dal",
+      "S_NO": "497",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "13200",
+      "ITEM": "urad sabut",
+      "DATE": "2026-08-20",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "120",
+      "RATE": "110",
+      "GP": "dal",
+      "S_NO": "497",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "10800",
+      "ITEM": "dal moong",
+      "DATE": "2026-08-20",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "120",
+      "RATE": "90",
+      "GP": "dal",
+      "S_NO": "497",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "13440",
+      "ITEM": "chana kabuli",
+      "DATE": "2026-08-20",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "120",
+      "RATE": "112",
+      "GP": "dal",
+      "S_NO": "497",
+      "tax": 0,
+      "type": "deb"
     }
   ],
   "om_traders": [
@@ -26755,6 +26803,42 @@
       "RATE": "166.67",
       "GP": "oil",
       "S_NO": "16006",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "18240.01",
+      "ITEM": "refind soya oil",
+      "DATE": "2026-08-16",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "104",
+      "RATE": "167.03",
+      "GP": "oil",
+      "S_NO": "17889",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "10500.02",
+      "ITEM": "MUSTARD OIL",
+      "DATE": "2026-08-16",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "60",
+      "RATE": "166.67",
+      "GP": "oil",
+      "S_NO": "17889",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "8449.97",
+      "ITEM": "Refind SF Oil",
+      "DATE": "2026-08-16",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "50",
+      "RATE": "160.95",
+      "GP": "oil",
+      "S_NO": "17889",
       "tax": 5,
       "type": "deb"
     }
