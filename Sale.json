@@ -7253,6 +7253,30 @@
       "S_NO": "BS 69",
       "tax": 0,
       "type": "cre"
+    },
+    {
+      "nat": 3900,
+      "ITEM": "arhar dal",
+      "DATE": "2026-08-22",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 30,
+      "RATE": 130,
+      "GP": "dal",
+      "S_NO": "BS 73",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": 2040,
+      "ITEM": "urad sabut",
+      "DATE": "2026-08-22",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 17,
+      "RATE": 120,
+      "GP": "dal",
+      "S_NO": "BS 73",
+      "tax": 0,
+      "type": "cre"
     }
   ],
   "palm_tree_hotel_and_restaurent": [
@@ -25879,6 +25903,102 @@
       "S_NO": "BS 67",
       "tax": 0,
       "type": "cre"
+    },
+    {
+      "nat": "2829.75",
+      "ITEM": "Coffee",
+      "DATE": "2026-08-20",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "70",
+      "RATE": "38.5",
+      "GP": "other",
+      "S_NO": "TI 46",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "4646.25",
+      "ITEM": "deggi mirch 0904",
+      "DATE": "2026-08-20",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "50",
+      "RATE": "88.5",
+      "GP": "masale",
+      "S_NO": "TI 46",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "2268",
+      "ITEM": "meat masala",
+      "DATE": "2026-08-20",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "30",
+      "RATE": "72",
+      "GP": "masale",
+      "S_NO": "TI 46",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "3832.5",
+      "ITEM": "loung 0907",
+      "DATE": "2026-08-20",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "5",
+      "RATE": "730",
+      "GP": "masale",
+      "S_NO": "TI 46",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "9000",
+      "ITEM": "atta",
+      "DATE": "2026-08-19",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "250",
+      "RATE": "36",
+      "GP": "atta_maida",
+      "S_NO": "BS 71",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "9750",
+      "ITEM": "MAIDA",
+      "DATE": "2026-08-19",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "250",
+      "RATE": "39",
+      "GP": "atta_maida",
+      "S_NO": "BS 71",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "7000",
+      "ITEM": "rice basmati",
+      "DATE": "2026-08-19",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "100",
+      "RATE": "70",
+      "GP": "rice",
+      "S_NO": "BS 71",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "3858",
+      "ITEM": "urad sabut",
+      "DATE": "2026-08-19",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "30",
+      "RATE": "128.6",
+      "GP": "dal",
+      "S_NO": "BS 71",
+      "tax": 0,
+      "type": "cre"
     }
   ],
   "hotal_abha_regency": [
@@ -41875,6 +41995,90 @@
       "S_NO": "BS 70",
       "tax": 0,
       "type": "cre"
+    },
+    {
+      "nat": "2425.5",
+      "ITEM": "MUSTARD OIL",
+      "DATE": "2026-08-24",
+      "GSTIN": " ",
+      "QT": "14",
+      "RATE": "165",
+      "GP": "oil",
+      "S_NO": "TI 47",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "2600",
+      "ITEM": "dal masoor",
+      "DATE": "2026-08-21",
+      "GSTIN": " ",
+      "QT": "26",
+      "RATE": "100",
+      "GP": "dal",
+      "S_NO": "BS 72",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "3900",
+      "ITEM": "arhar dal",
+      "DATE": "2026-08-23",
+      "GSTIN": " ",
+      "QT": "30",
+      "RATE": "130",
+      "GP": "dal",
+      "S_NO": "BS 74",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "4200",
+      "ITEM": "chana kabuli",
+      "DATE": "2026-08-23",
+      "GSTIN": " ",
+      "QT": "30",
+      "RATE": "140",
+      "GP": "dal",
+      "S_NO": "BS 74",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "3600",
+      "ITEM": "dal masoor",
+      "DATE": "2026-08-23",
+      "GSTIN": " ",
+      "QT": "30",
+      "RATE": "120",
+      "GP": "dal",
+      "S_NO": "BS 74",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "3300",
+      "ITEM": "dal moong",
+      "DATE": "2026-08-23",
+      "GSTIN": " ",
+      "QT": "30",
+      "RATE": "110",
+      "GP": "dal",
+      "S_NO": "BS 74",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "1820",
+      "ITEM": "urad sabut",
+      "DATE": "2026-08-23",
+      "GSTIN": " ",
+      "QT": "14",
+      "RATE": "130",
+      "GP": "dal",
+      "S_NO": "BS 74",
+      "tax": 0,
+      "type": "cash"
     }
   ],
   "pick_n_pay_store": [
