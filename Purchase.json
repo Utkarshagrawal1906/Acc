@@ -611,6 +611,30 @@
       "S_NO": "2358",
       "tax": 5,
       "type": "cash"
+    },
+    {
+      "nat": "210.42",
+      "ITEM": "Coffee",
+      "DATE": "2026-08-27",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "4",
+      "RATE": "50.1",
+      "GP": "other",
+      "S_NO": "2601",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "1760.01",
+      "ITEM": "tea",
+      "DATE": "2026-08-27",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "4",
+      "RATE": "419.05",
+      "GP": "other",
+      "S_NO": "2601",
+      "tax": 5,
+      "type": "cash"
     }
   ],
   "dev_goldiee_agency": [
