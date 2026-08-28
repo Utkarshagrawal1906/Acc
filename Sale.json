@@ -42079,6 +42079,54 @@
       "S_NO": "BS 74",
       "tax": 0,
       "type": "cash"
+    },
+    {
+      "nat": "3200",
+      "ITEM": "SALT (NAMAK)",
+      "DATE": "2026-08-26",
+      "GSTIN": " ",
+      "QT": "100",
+      "RATE": "32",
+      "GP": "other",
+      "S_NO": "BS 75",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "4200",
+      "ITEM": "chana kabuli",
+      "DATE": "2026-08-26",
+      "GSTIN": " ",
+      "QT": "30",
+      "RATE": "140",
+      "GP": "dal",
+      "S_NO": "BS 75",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "4100",
+      "ITEM": "dal masoor",
+      "DATE": "2026-08-26",
+      "GSTIN": " ",
+      "QT": "40",
+      "RATE": "102.5",
+      "GP": "dal",
+      "S_NO": "BS 75",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "693",
+      "ITEM": "MUSTARD OIL",
+      "DATE": "2026-08-27",
+      "GSTIN": " ",
+      "QT": "4",
+      "RATE": "165",
+      "GP": "oil",
+      "S_NO": "TI 48",
+      "tax": 5,
+      "type": "cash"
     }
   ],
   "pick_n_pay_store": [
