@@ -6647,6 +6647,66 @@
       "S_NO": "881",
       "tax": 5,
       "type": "deb"
+    },
+    {
+      "nat": "10836",
+      "ITEM": "kaju",
+      "DATE": "2026-08-30",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "12",
+      "RATE": "860",
+      "GP": "dry_fruits",
+      "S_NO": "1212",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "9072",
+      "ITEM": "akhrot",
+      "DATE": "2026-08-30",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "12",
+      "RATE": "720",
+      "GP": "dry_fruits",
+      "S_NO": "1212",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "5880",
+      "ITEM": "akrot ming 0802",
+      "DATE": "2026-08-30",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "5",
+      "RATE": "1120",
+      "GP": "dry_fruits",
+      "S_NO": "1212",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "9660",
+      "ITEM": "kishmish 0806",
+      "DATE": "2026-08-30",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "20",
+      "RATE": "460",
+      "GP": "dry_fruits",
+      "S_NO": "1212",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "4042.5",
+      "ITEM": "badam ming 0802",
+      "DATE": "2026-08-30",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "5",
+      "RATE": "770",
+      "GP": "dry_fruits",
+      "S_NO": "1212",
+      "tax": 5,
+      "type": "deb"
     }
   ],
   "vinod_kumar_pramod_kumar": [
@@ -26863,6 +26923,42 @@
       "RATE": "160.95",
       "GP": "oil",
       "S_NO": "17889",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "22800.02",
+      "ITEM": "refind soya oil",
+      "DATE": "2026-08-31",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "130",
+      "RATE": "167.03",
+      "GP": "oil",
+      "S_NO": "20765",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "2327.98",
+      "ITEM": "Refind G Nut Oil",
+      "DATE": "2026-08-31",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "12",
+      "RATE": "184.76",
+      "GP": "oil",
+      "S_NO": "20765",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "2232.01",
+      "ITEM": "MUSTARD OIL",
+      "DATE": "2026-08-31",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "12",
+      "RATE": "177.14",
+      "GP": "oil",
+      "S_NO": "20765",
       "tax": 5,
       "type": "deb"
     }
