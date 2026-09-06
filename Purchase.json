@@ -635,6 +635,30 @@
       "S_NO": "2601",
       "tax": 5,
       "type": "cash"
+    },
+    {
+      "nat": "2760",
+      "ITEM": "SALT (NAMAK)",
+      "DATE": "2026-09-05",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "100",
+      "RATE": "27.6",
+      "GP": "other",
+      "S_NO": "2710",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "624",
+      "ITEM": "SALT (NAMAK)",
+      "DATE": "2026-09-05",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "12",
+      "RATE": "52",
+      "GP": "other",
+      "S_NO": "2710",
+      "tax": 0,
+      "type": "cash"
     }
   ],
   "dev_goldiee_agency": [
@@ -25617,6 +25641,90 @@
       "RATE": "112",
       "GP": "dal",
       "S_NO": "497",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "18900",
+      "ITEM": "dal moong",
+      "DATE": "2026-08-17",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "210",
+      "RATE": "90",
+      "GP": "dal",
+      "S_NO": "487",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "12750",
+      "ITEM": "dal masoor",
+      "DATE": "2026-08-17",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "150",
+      "RATE": "85",
+      "GP": "dal",
+      "S_NO": "487",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "13500",
+      "ITEM": "dal urad",
+      "DATE": "2026-08-17",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "150",
+      "RATE": "90",
+      "GP": "dal",
+      "S_NO": "487",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "5400",
+      "ITEM": "arhar dal",
+      "DATE": "2026-08-17",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "60",
+      "RATE": "90",
+      "GP": "dal",
+      "S_NO": "487",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "9000",
+      "ITEM": "dal chana",
+      "DATE": "2026-08-17",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "150",
+      "RATE": "60",
+      "GP": "dal",
+      "S_NO": "487",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "16500",
+      "ITEM": "rice basmati",
+      "DATE": "2026-08-17",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "300",
+      "RATE": "55",
+      "GP": "rice",
+      "S_NO": "487",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "13500",
+      "ITEM": "rice common broken",
+      "DATE": "2026-08-17",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "300",
+      "RATE": "45",
+      "GP": "rice",
+      "S_NO": "487",
       "tax": 0,
       "type": "deb"
     }
