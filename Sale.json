@@ -42523,6 +42523,18 @@
       "S_NO": "BS 79",
       "tax": 0,
       "type": "cash"
+    },
+    {
+      "nat": "1710",
+      "ITEM": "dal moong",
+      "DATE": "2026-09-07",
+      "GSTIN": " ",
+      "QT": "15",
+      "RATE": "114",
+      "GP": "dal",
+      "S_NO": "BS 81",
+      "tax": 0,
+      "type": "cash"
     }
   ],
   "pick_n_pay_store": [
