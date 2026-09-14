@@ -74,9 +74,9 @@
     },
     {
       "unit": "KG",
-      "amount": "1576.1",
+      "amount": "1418.49",
       "hsn": "1207",
-      "quantity": "10",
+      "quantity": "9",
       "rate": "157.61",
       "name": "magaj",
       "TAX": 5
@@ -137,9 +137,9 @@
     },
     {
       "unit": "KG",
-      "amount": "1520",
+      "amount": "760",
       "hsn": "1207",
-      "quantity": "8",
+      "quantity": "4",
       "rate": "190",
       "name": "Sesame Seed Til",
       "TAX": 5
@@ -350,10 +350,10 @@
   "oil": [
     {
       "unit": "PKT",
-      "amount": "15705.9",
+      "amount": "6239.29",
       "hsn": "1507",
-      "quantity": "94",
-      "rate": "167.08",
+      "quantity": "40",
+      "rate": "155.98",
       "name": "refind soya oil",
       "TAX": 5
     },
@@ -377,10 +377,10 @@
     },
     {
       "unit": "PKT",
-      "amount": "9927.08",
+      "amount": "19641.08",
       "hsn": "1512",
-      "quantity": "62",
-      "rate": "160.11",
+      "quantity": "122",
+      "rate": "160.99",
       "name": "Refind SF Oil",
       "TAX": 5
     },
@@ -397,10 +397,10 @@
   "atta_maida": [
     {
       "unit": "KG",
-      "amount": "639.79",
+      "amount": "25916.2",
       "hsn": "1101",
-      "quantity": "20",
-      "rate": "31.99",
+      "quantity": "820",
+      "rate": "31.61",
       "name": "atta",
       "TAX": 0
     },
@@ -442,10 +442,10 @@
     },
     {
       "unit": "KG",
-      "amount": "1753.96",
+      "amount": "39422.36",
       "hsn": "1101",
-      "quantity": "50",
-      "rate": "35.08",
+      "quantity": "1175",
+      "rate": "33.55",
       "name": "MAIDA",
       "TAX": 0
     },
@@ -678,9 +678,9 @@
     },
     {
       "unit": "KG",
-      "amount": "4616.25",
+      "amount": "4016.74",
       "hsn": "0904",
-      "quantity": "7.7",
+      "quantity": "6.7",
       "rate": "599.51",
       "name": "kali mirch 0904",
       "TAX": 5
@@ -806,10 +806,10 @@
     },
     {
       "unit": "KG",
-      "amount": "7192.28",
+      "amount": "24719.07",
       "hsn": "1701",
-      "quantity": "172",
-      "rate": "41.82",
+      "quantity": "516",
+      "rate": "47.91",
       "name": "sugar",
       "TAX": 5
     }
@@ -826,9 +826,9 @@
     },
     {
       "unit": "KG",
-      "amount": "11261.21",
+      "amount": "7686.22",
       "hsn": "1006",
-      "quantity": "204.75",
+      "quantity": "139.75",
       "rate": "55",
       "name": "rice basmati",
       "TAX": 0
@@ -871,10 +871,10 @@
     },
     {
       "unit": "KG",
-      "amount": "2585.13",
+      "amount": "7047.94",
       "hsn": "1006",
-      "quantity": "25",
-      "rate": "103.41",
+      "quantity": "65",
+      "rate": "108.43",
       "name": "rice dubar branded",
       "TAX": 5
     },
@@ -907,10 +907,10 @@
     },
     {
       "unit": "KG",
-      "amount": "1925",
+      "amount": "6466.54",
       "hsn": "1006",
-      "quantity": "17.5",
-      "rate": "110",
+      "quantity": "57.5",
+      "rate": "112.46",
       "name": "rice tibar branded",
       "TAX": 5
     },
@@ -1008,9 +1008,9 @@
     },
     {
       "unit": "KG",
-      "amount": "9720.13",
+      "amount": "6120.08",
       "hsn": "0713",
-      "quantity": "108",
+      "quantity": "68",
       "rate": "90",
       "name": "dal moong",
       "TAX": 0
