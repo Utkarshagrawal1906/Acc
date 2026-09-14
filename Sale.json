@@ -7397,6 +7397,30 @@
       "S_NO": "TI 49",
       "tax": 5,
       "type": "cre"
+    },
+    {
+      "nat": 14836.5,
+      "ITEM": "refind soya oil",
+      "DATE": "2026-09-12",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 90,
+      "RATE": 157,
+      "GP": "oil",
+      "S_NO": "TI 53",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 7862.4,
+      "ITEM": "sugar",
+      "DATE": "2026-09-12",
+      "GSTIN": "09MJGPS2227A1Z5",
+      "QT": 156,
+      "RATE": 48,
+      "GP": "sugar_boora",
+      "S_NO": "TI 53",
+      "tax": 5,
+      "type": "cre"
     }
   ],
   "palm_tree_hotel_and_restaurent": [
@@ -26311,6 +26335,42 @@
       "S_NO": "TI 51",
       "tax": 5,
       "type": "cre"
+    },
+    {
+      "nat": "10500",
+      "ITEM": "atta",
+      "DATE": "2026-09-11",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "300",
+      "RATE": "35",
+      "GP": "atta_maida",
+      "S_NO": "BS 83",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "11400",
+      "ITEM": "MAIDA",
+      "DATE": "2026-09-11",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "300",
+      "RATE": "38",
+      "GP": "atta_maida",
+      "S_NO": "BS 83",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "4485",
+      "ITEM": "rice basmati",
+      "DATE": "2026-09-11",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "65",
+      "RATE": "69",
+      "GP": "rice",
+      "S_NO": "BS 83",
+      "tax": 0,
+      "type": "cre"
     }
   ],
   "hotal_abha_regency": [
@@ -42535,6 +42595,42 @@
       "S_NO": "BS 81",
       "tax": 0,
       "type": "cash"
+    },
+    {
+      "nat": "3600",
+      "ITEM": "dal moong",
+      "DATE": "2026-09-12",
+      "GSTIN": " ",
+      "QT": "30",
+      "RATE": "120",
+      "GP": "dal",
+      "S_NO": "BS 84",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "14000",
+      "ITEM": "atta",
+      "DATE": "2026-09-12",
+      "GSTIN": " ",
+      "QT": "400",
+      "RATE": "35",
+      "GP": "atta_maida",
+      "S_NO": "BS 84",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "2925",
+      "ITEM": "MAIDA",
+      "DATE": "2026-09-13",
+      "GSTIN": " ",
+      "QT": "75",
+      "RATE": "39",
+      "GP": "atta_maida",
+      "S_NO": "BS 85",
+      "tax": 0,
+      "type": "cash"
     }
   ],
   "pick_n_pay_store": [
@@ -57118,6 +57214,78 @@
       "GP": "masale",
       "S_NO": "TI 43",
       "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 4578,
+      "ITEM": "rice tibar branded",
+      "DATE": "2026-09-11",
+      "GSTIN": "09AYVPS5464M1Z6",
+      "QT": 40,
+      "RATE": 109,
+      "GP": "rice",
+      "S_NO": "TI 52",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 4494,
+      "ITEM": "rice dubar branded",
+      "DATE": "2026-09-11",
+      "GSTIN": "09AYVPS5464M1Z6",
+      "QT": 40,
+      "RATE": 107,
+      "GP": "rice",
+      "S_NO": "TI 52",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 160.65,
+      "ITEM": "magaj",
+      "DATE": "2026-09-11",
+      "GSTIN": "09AYVPS5464M1Z6",
+      "QT": 1,
+      "RATE": 153,
+      "GP": "dry_fruits",
+      "S_NO": "TI 52",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 882,
+      "ITEM": "kali mirch 0904",
+      "DATE": "2026-09-11",
+      "GSTIN": "09AYVPS5464M1Z6",
+      "QT": 1,
+      "RATE": 840,
+      "GP": "masale",
+      "S_NO": "TI 52",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 1050,
+      "ITEM": "Sesame Seed Til",
+      "DATE": "2026-09-11",
+      "GSTIN": "09AYVPS5464M1Z6",
+      "QT": 4,
+      "RATE": 250,
+      "GP": "dry_fruits",
+      "S_NO": "TI 52",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": 1100,
+      "ITEM": "dal moong",
+      "DATE": "2026-09-11",
+      "GSTIN": "09AYVPS5464M1Z6",
+      "QT": 10,
+      "RATE": 110,
+      "GP": "dal",
+      "S_NO": "BS 82",
+      "tax": 0,
       "type": "cre"
     }
   ]
