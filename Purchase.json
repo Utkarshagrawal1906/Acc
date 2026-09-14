@@ -15893,6 +15893,30 @@
       "S_NO": "771",
       "tax": 0,
       "type": "deb"
+    },
+    {
+      "nat": "9240",
+      "ITEM": "rice dubar branded",
+      "DATE": "2026-09-12",
+      "GSTIN": "09ABOPG8156C1ZI",
+      "QT": "80",
+      "RATE": "110",
+      "GP": "rice",
+      "S_NO": "170",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "9492",
+      "ITEM": "rice tibar branded",
+      "DATE": "2026-09-12",
+      "GSTIN": "09ABOPG8156C1ZI",
+      "QT": "80",
+      "RATE": "113",
+      "GP": "rice",
+      "S_NO": "170",
+      "tax": 5,
+      "type": "deb"
     }
   ],
   "mohini_traders": [
@@ -19645,6 +19669,42 @@
       "RATE": "35.2",
       "GP": "atta_maida",
       "S_NO": "B229",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "26250",
+      "ITEM": "sugar",
+      "DATE": "2026-09-09",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "500",
+      "RATE": "50",
+      "GP": "sugar_boora",
+      "S_NO": "2148",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "47400",
+      "ITEM": "atta",
+      "DATE": "2026-09-02",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "1500",
+      "RATE": "31.6",
+      "GP": "atta_maida",
+      "S_NO": "B256",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "50250",
+      "ITEM": "MAIDA",
+      "DATE": "2026-09-02",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "1500",
+      "RATE": "33.5",
+      "GP": "atta_maida",
+      "S_NO": "B256",
       "tax": 0,
       "type": "deb"
     }
@@ -27067,6 +27127,42 @@
       "RATE": "177.14",
       "GP": "oil",
       "S_NO": "20765",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "10199.7",
+      "ITEM": "Refind SF Oil",
+      "DATE": "2026-09-08",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "60",
+      "RATE": "161.9",
+      "GP": "oil",
+      "S_NO": "22166",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "2749.95",
+      "ITEM": "refind soya oil",
+      "DATE": "2026-09-08",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "20",
+      "RATE": "130.95",
+      "GP": "oil",
+      "S_NO": "22166",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "2050.44",
+      "ITEM": "refind soya oil",
+      "DATE": "2026-09-08",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "16",
+      "RATE": "122.05",
+      "GP": "oil",
+      "S_NO": "22166",
       "tax": 5,
       "type": "deb"
     }
