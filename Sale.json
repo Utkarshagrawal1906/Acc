@@ -42631,6 +42631,18 @@
       "S_NO": "BS 85",
       "tax": 0,
       "type": "cash"
+    },
+    {
+      "nat": "1620",
+      "ITEM": "atta",
+      "DATE": "2026-09-14",
+      "GSTIN": " ",
+      "QT": "45",
+      "RATE": "36",
+      "GP": "atta_maida",
+      "S_NO": "BS 86",
+      "tax": 0,
+      "type": "cash"
     }
   ],
   "pick_n_pay_store": [
