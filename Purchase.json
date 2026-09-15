@@ -10777,6 +10777,66 @@
       "S_NO": "RD10784",
       "tax": 5,
       "type": "deb"
+    },
+    {
+      "nat": "2904.06",
+      "ITEM": "deggi mirch 0904",
+      "DATE": "2026-09-14",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "30",
+      "RATE": "92.19",
+      "GP": "masale",
+      "S_NO": "RD/13210",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "4648.94",
+      "ITEM": "kitchen king",
+      "DATE": "2026-09-14",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "60",
+      "RATE": "73.79",
+      "GP": "masale",
+      "S_NO": "RD/13210",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "2681.19",
+      "ITEM": "garam masala",
+      "DATE": "2026-09-14",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "30",
+      "RATE": "85.12",
+      "GP": "masale",
+      "S_NO": "RD/13210",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "2183.61",
+      "ITEM": "Chicken Masala",
+      "DATE": "2026-09-14",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "30",
+      "RATE": "69.32",
+      "GP": "masale",
+      "S_NO": "RD/13210",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "2183.61",
+      "ITEM": "chana masala",
+      "DATE": "2026-09-14",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "30",
+      "RATE": "69.32",
+      "GP": "masale",
+      "S_NO": "RD/13210",
+      "tax": 5,
+      "type": "deb"
     }
   ],
   "deepak_kumar_ashish_kumar": [
