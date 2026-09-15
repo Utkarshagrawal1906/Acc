@@ -397,9 +397,9 @@
   "atta_maida": [
     {
       "unit": "KG",
-      "amount": "25916.2",
+      "amount": "24493.97",
       "hsn": "1101",
-      "quantity": "820",
+      "quantity": "775",
       "rate": "31.61",
       "name": "atta",
       "TAX": 0
@@ -516,19 +516,19 @@
     },
     {
       "unit": "PKT",
-      "amount": "4548.79",
+      "amount": "7314.56",
       "hsn": "0904",
-      "quantity": "52",
-      "rate": "87.48",
+      "quantity": "82",
+      "rate": "89.2",
       "name": "deggi mirch 0904",
       "TAX": 5
     },
     {
       "unit": "PKT",
-      "amount": "2250.8",
+      "amount": "4804.31",
       "hsn": "0910",
-      "quantity": "28",
-      "rate": "80.39",
+      "quantity": "58",
+      "rate": "82.83",
       "name": "garam masala",
       "TAX": 5
     },
@@ -696,10 +696,10 @@
     },
     {
       "unit": "PKT",
-      "amount": "2729.97",
+      "amount": "4809.6",
       "hsn": "0910",
-      "quantity": "41",
-      "rate": "66.58",
+      "quantity": "71",
+      "rate": "67.74",
       "name": "chana masala",
       "TAX": 5
     },
@@ -714,10 +714,10 @@
     },
     {
       "unit": "PKT",
-      "amount": "3458.69",
+      "amount": "7886.25",
       "hsn": "0910",
-      "quantity": "49",
-      "rate": "70.59",
+      "quantity": "109",
+      "rate": "72.35",
       "name": "kitchen king",
       "TAX": 5
     },
@@ -732,10 +732,10 @@
     },
     {
       "unit": "PKT",
-      "amount": "66.2",
+      "amount": "2145.83",
       "hsn": "0910",
-      "quantity": "1",
-      "rate": "66.2",
+      "quantity": "31",
+      "rate": "69.22",
       "name": "Chicken Masala",
       "TAX": 5
     },
