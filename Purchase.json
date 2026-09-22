@@ -659,6 +659,42 @@
       "S_NO": "2710",
       "tax": 0,
       "type": "cash"
+    },
+    {
+      "nat": "5480",
+      "ITEM": "SALT (NAMAK)",
+      "DATE": "2026-09-17",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "200",
+      "RATE": "27.4",
+      "GP": "other",
+      "S_NO": "2912",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "329.99",
+      "ITEM": "Coffee",
+      "DATE": "2026-09-17",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "3",
+      "RATE": "104.76",
+      "GP": "other",
+      "S_NO": "2912",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "330.03",
+      "ITEM": "Coffee",
+      "DATE": "2026-09-17",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "3",
+      "RATE": "104.77",
+      "GP": "other",
+      "S_NO": "2913",
+      "tax": 5,
+      "type": "cash"
     }
   ],
   "dev_goldiee_agency": [
@@ -10835,6 +10871,66 @@
       "RATE": "69.32",
       "GP": "masale",
       "S_NO": "RD/13210",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "5394.42",
+      "ITEM": "white peper masala",
+      "DATE": "2026-09-20",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "30",
+      "RATE": "171.25",
+      "GP": "masale",
+      "S_NO": "RD/13306",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "4418.58",
+      "ITEM": "chat massala 0910",
+      "DATE": "2026-09-20",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "60",
+      "RATE": "70.14",
+      "GP": "masale",
+      "S_NO": "RD/13302",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "4743.96",
+      "ITEM": "kitchen king",
+      "DATE": "2026-09-20",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "60",
+      "RATE": "75.3",
+      "GP": "masale",
+      "S_NO": "RD/13302",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "2209.29",
+      "ITEM": "Chicken Masala",
+      "DATE": "2026-09-20",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "30",
+      "RATE": "70.14",
+      "GP": "masale",
+      "S_NO": "RD/13302",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "2742.23",
+      "ITEM": "garam masala",
+      "DATE": "2026-09-20",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "30",
+      "RATE": "87.05",
+      "GP": "masale",
+      "S_NO": "RD/13302",
       "tax": 5,
       "type": "deb"
     }
@@ -27223,6 +27319,42 @@
       "RATE": "122.05",
       "GP": "oil",
       "S_NO": "22166",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "11500",
+      "ITEM": "refind soya oil",
+      "DATE": "2026-09-20",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "65",
+      "RATE": "168.5",
+      "GP": "oil",
+      "S_NO": "23949",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "8600.02",
+      "ITEM": "Refind SF Oil",
+      "DATE": "2026-09-20",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "50",
+      "RATE": "163.81",
+      "GP": "oil",
+      "S_NO": "23949",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "10619.97",
+      "ITEM": "MUSTARD OIL",
+      "DATE": "2026-09-20",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "60",
+      "RATE": "168.57",
+      "GP": "oil",
+      "S_NO": "23949",
       "tax": 5,
       "type": "deb"
     }
