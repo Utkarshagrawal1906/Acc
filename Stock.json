@@ -377,9 +377,9 @@
     },
     {
       "unit": "PKT",
-      "amount": "24757.16",
+      "amount": "13915.79",
       "hsn": "1512",
-      "quantity": "153",
+      "quantity": "86",
       "rate": "161.81",
       "name": "Refind SF Oil",
       "TAX": 5
@@ -442,9 +442,9 @@
     },
     {
       "unit": "KG",
-      "amount": "30699.11",
+      "amount": "24156.68",
       "hsn": "1101",
-      "quantity": "915",
+      "quantity": "720",
       "rate": "33.55",
       "name": "MAIDA",
       "TAX": 0
@@ -516,18 +516,18 @@
     },
     {
       "unit": "PKT",
-      "amount": "4638.5",
+      "amount": "1962.44",
       "hsn": "0904",
-      "quantity": "52",
+      "quantity": "22",
       "rate": "89.2",
       "name": "deggi mirch 0904",
       "TAX": 5
     },
     {
       "unit": "PKT",
-      "amount": "7415.96",
+      "amount": "3202.35",
       "hsn": "0910",
-      "quantity": "88",
+      "quantity": "38",
       "rate": "84.27",
       "name": "garam masala",
       "TAX": 5
@@ -579,10 +579,10 @@
     },
     {
       "unit": "PKT",
-      "amount": "1277.13",
+      "amount": "1341.14",
       "hsn": "0910",
-      "quantity": "21",
-      "rate": "60.82",
+      "quantity": "22",
+      "rate": "60.96",
       "name": "samber masala",
       "TAX": 5
     },
@@ -624,10 +624,10 @@
     },
     {
       "unit": "PKT",
-      "amount": "2811.5",
+      "amount": "4146.36",
       "hsn": "1301",
-      "quantity": "18",
-      "rate": "156.19",
+      "quantity": "28",
+      "rate": "148.08",
       "name": "hing comp.10gm",
       "TAX": 5
     },
@@ -705,18 +705,18 @@
     },
     {
       "unit": "PKT",
-      "amount": "2042.95",
+      "amount": "2106.96",
       "hsn": "0910",
-      "quantity": "29",
-      "rate": "70.45",
+      "quantity": "30",
+      "rate": "70.23",
       "name": "meat masala",
       "TAX": 5
     },
     {
       "unit": "PKT",
-      "amount": "4330.5",
+      "amount": "660.58",
       "hsn": "0910",
-      "quantity": "59",
+      "quantity": "9",
       "rate": "73.4",
       "name": "kitchen king",
       "TAX": 5
@@ -732,10 +732,10 @@
     },
     {
       "unit": "PKT",
-      "amount": "2159.79",
+      "amount": "833.93",
       "hsn": "0910",
-      "quantity": "31",
-      "rate": "69.67",
+      "quantity": "12",
+      "rate": "69.49",
       "name": "Chicken Masala",
       "TAX": 5
     },
@@ -806,9 +806,9 @@
     },
     {
       "unit": "KG",
-      "amount": "19928.56",
+      "amount": "15138.04",
       "hsn": "1701",
-      "quantity": "416",
+      "quantity": "316",
       "rate": "47.91",
       "name": "sugar",
       "TAX": 5
