@@ -26527,6 +26527,66 @@
       "S_NO": "TI 54",
       "tax": 5,
       "type": "cre"
+    },
+    {
+      "nat": "2835",
+      "ITEM": "deggi mirch 0904",
+      "DATE": "2026-09-23",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "30",
+      "RATE": "90",
+      "GP": "masale",
+      "S_NO": "TI 56",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "4462.5",
+      "ITEM": "garam masala",
+      "DATE": "2026-09-23",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "50",
+      "RATE": "85",
+      "GP": "masale",
+      "S_NO": "TI 56",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "3885",
+      "ITEM": "kitchen king",
+      "DATE": "2026-09-23",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "50",
+      "RATE": "74",
+      "GP": "masale",
+      "S_NO": "TI 56",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "1470",
+      "ITEM": "Chicken Masala",
+      "DATE": "2026-09-23",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "20",
+      "RATE": "70",
+      "GP": "masale",
+      "S_NO": "TI 56",
+      "tax": 5,
+      "type": "cre"
+    },
+    {
+      "nat": "5040",
+      "ITEM": "sugar",
+      "DATE": "2026-09-23",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "100",
+      "RATE": "48",
+      "GP": "sugar_boora",
+      "S_NO": "TI 56",
+      "tax": 5,
+      "type": "cre"
     }
   ],
   "hotal_abha_regency": [
@@ -42881,6 +42941,30 @@
       "RATE": "110",
       "GP": "dal",
       "S_NO": "BS 90",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "11396.7",
+      "ITEM": "Refind SF Oil",
+      "DATE": "2026-09-25",
+      "GSTIN": " ",
+      "QT": "67",
+      "RATE": "162",
+      "GP": "oil",
+      "S_NO": "TI 57",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "7800",
+      "ITEM": "MAIDA",
+      "DATE": "2026-09-24",
+      "GSTIN": " ",
+      "QT": "195",
+      "RATE": "40",
+      "GP": "atta_maida",
+      "S_NO": "BS 91",
       "tax": 0,
       "type": "cash"
     }
