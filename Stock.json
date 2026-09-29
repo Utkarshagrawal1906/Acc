@@ -276,9 +276,9 @@
     },
     {
       "unit": "KG",
-      "amount": "7530.54",
+      "amount": "4720.64",
       "hsn": "2501",
-      "quantity": "268",
+      "quantity": "168",
       "rate": "28.1",
       "name": "SALT (NAMAK)",
       "TAX": 0
@@ -397,9 +397,9 @@
   "atta_maida": [
     {
       "unit": "KG",
-      "amount": "16276.64",
+      "amount": "8375.36",
       "hsn": "1101",
-      "quantity": "515",
+      "quantity": "265",
       "rate": "31.61",
       "name": "atta",
       "TAX": 0
@@ -442,9 +442,9 @@
     },
     {
       "unit": "KG",
-      "amount": "24156.68",
+      "amount": "14091.4",
       "hsn": "1101",
-      "quantity": "720",
+      "quantity": "420",
       "rate": "33.55",
       "name": "MAIDA",
       "TAX": 0
@@ -826,9 +826,9 @@
     },
     {
       "unit": "KG",
-      "amount": "7686.22",
+      "amount": "4386.24",
       "hsn": "1006",
-      "quantity": "139.75",
+      "quantity": "79.75",
       "rate": "55",
       "name": "rice basmati",
       "TAX": 0
@@ -963,9 +963,9 @@
   "dal": [
     {
       "unit": "KG",
-      "amount": "3392.28",
+      "amount": "1877.87",
       "hsn": "0713",
-      "quantity": "56",
+      "quantity": "31",
       "rate": "60.58",
       "name": "dal chana",
       "TAX": 0
@@ -1008,9 +1008,9 @@
     },
     {
       "unit": "KG",
-      "amount": "6120.08",
+      "amount": "3420.05",
       "hsn": "0713",
-      "quantity": "68",
+      "quantity": "38",
       "rate": "90",
       "name": "dal moong",
       "TAX": 0
