@@ -26587,6 +26587,54 @@
       "S_NO": "TI 56",
       "tax": 5,
       "type": "cre"
+    },
+    {
+      "nat": "3000",
+      "ITEM": "SALT (NAMAK)",
+      "DATE": "2026-09-27",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "100",
+      "RATE": "30",
+      "GP": "other",
+      "S_NO": "BS 92",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "4500",
+      "ITEM": "rice basmati",
+      "DATE": "2026-09-27",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "60",
+      "RATE": "75",
+      "GP": "rice",
+      "S_NO": "BS 92",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "8750",
+      "ITEM": "atta",
+      "DATE": "2026-09-27",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "250",
+      "RATE": "35",
+      "GP": "atta_maida",
+      "S_NO": "BS 92",
+      "tax": 0,
+      "type": "cre"
+    },
+    {
+      "nat": "11844",
+      "ITEM": "MAIDA",
+      "DATE": "2026-09-27",
+      "GSTIN": "09ADJPS0776R1ZI",
+      "QT": "300",
+      "RATE": "39.48",
+      "GP": "atta_maida",
+      "S_NO": "BS 92",
+      "tax": 0,
+      "type": "cre"
     }
   ],
   "hotal_abha_regency": [
@@ -42965,6 +43013,30 @@
       "RATE": "40",
       "GP": "atta_maida",
       "S_NO": "BS 91",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "3300",
+      "ITEM": "dal moong",
+      "DATE": "2026-09-28",
+      "GSTIN": " ",
+      "QT": "30",
+      "RATE": "110",
+      "GP": "dal",
+      "S_NO": "BS 93",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "2000",
+      "ITEM": "dal chana",
+      "DATE": "2026-09-28",
+      "GSTIN": " ",
+      "QT": "25",
+      "RATE": "80",
+      "GP": "dal",
+      "S_NO": "BS 93",
       "tax": 0,
       "type": "cash"
     }
