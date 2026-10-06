@@ -695,6 +695,54 @@
       "S_NO": "2913",
       "tax": 5,
       "type": "cash"
+    },
+    {
+      "nat": "1152",
+      "ITEM": "SALT (NAMAK)",
+      "DATE": "2026-10-03",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "36",
+      "RATE": "32",
+      "GP": "other",
+      "S_NO": "3169",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "210.42",
+      "ITEM": "Coffee",
+      "DATE": "2026-10-03",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "1",
+      "RATE": "200.4",
+      "GP": "other",
+      "S_NO": "3169",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "329.99",
+      "ITEM": "Coffee",
+      "DATE": "2026-10-03",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "3",
+      "RATE": "104.76",
+      "GP": "other",
+      "S_NO": "3169",
+      "tax": 5,
+      "type": "cash"
+    },
+    {
+      "nat": "1020",
+      "ITEM": "Coffee",
+      "DATE": "2026-10-03",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "1",
+      "RATE": "971.43",
+      "GP": "other",
+      "S_NO": "3169",
+      "tax": 5,
+      "type": "cash"
     }
   ],
   "dev_goldiee_agency": [
@@ -2011,6 +2059,54 @@
       "RATE": 192.38,
       "GP": "dry_fruits",
       "S_NO": "40",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": 6071.625,
+      "ITEM": "kishmish 0806",
+      "DATE": "2026-10-06",
+      "GSTIN": "09BQVPG7847R1ZG",
+      "QT": 30,
+      "RATE": 192.75,
+      "GP": "dry_fruits",
+      "S_NO": "582",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": 21279.930000000004,
+      "ITEM": "Makhana tax",
+      "DATE": "2026-10-06",
+      "GSTIN": "09BQVPG7847R1ZG",
+      "QT": 20,
+      "RATE": 1013.33,
+      "GP": "dry_fruits",
+      "S_NO": "582",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": 11804.939999999999,
+      "ITEM": "kaju",
+      "DATE": "2026-10-06",
+      "GSTIN": "09BQVPG7847R1ZG",
+      "QT": 15,
+      "RATE": 749.52,
+      "GP": "dry_fruits",
+      "S_NO": "582",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": 5843.25,
+      "ITEM": "gola burada 0801",
+      "DATE": "2026-10-06",
+      "GSTIN": "09BQVPG7847R1ZG",
+      "QT": 42,
+      "RATE": 132.5,
+      "GP": "dry_fruits",
+      "S_NO": "582",
       "tax": 5,
       "type": "deb"
     }
@@ -10979,6 +11075,66 @@
       "RATE": "87.05",
       "GP": "masale",
       "S_NO": "RD/13302",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "4743.96",
+      "ITEM": "kitchen king",
+      "DATE": "2026-09-30",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "60",
+      "RATE": "75.3",
+      "GP": "masale",
+      "S_NO": "RD/13423",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "2742.54",
+      "ITEM": "garam masala",
+      "DATE": "2026-09-30",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "30",
+      "RATE": "87.06",
+      "GP": "masale",
+      "S_NO": "RD/13423",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "2209.29",
+      "ITEM": "chat massala 0910",
+      "DATE": "2026-09-30",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "30",
+      "RATE": "70.14",
+      "GP": "masale",
+      "S_NO": "RD/13423",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "2209.29",
+      "ITEM": "Chicken Masala",
+      "DATE": "2026-09-30",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "30",
+      "RATE": "70.14",
+      "GP": "masale",
+      "S_NO": "RD/13423",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "892.99",
+      "ITEM": "pav bhaji masala",
+      "DATE": "2026-09-30",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "12",
+      "RATE": "70.87",
+      "GP": "masale",
+      "S_NO": "RD/13423",
       "tax": 5,
       "type": "deb"
     }
@@ -27403,6 +27559,66 @@
       "RATE": "168.57",
       "GP": "oil",
       "S_NO": "23949",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "18400.04",
+      "ITEM": "refind soya oil",
+      "DATE": "2026-09-30",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "104",
+      "RATE": "168.5",
+      "GP": "oil",
+      "S_NO": "25253",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "2327.98",
+      "ITEM": "Refind G Nut Oil",
+      "DATE": "2026-09-30",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "12",
+      "RATE": "184.76",
+      "GP": "oil",
+      "S_NO": "25253",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "1800.04",
+      "ITEM": "refind soya oil",
+      "DATE": "2026-09-30",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "12",
+      "RATE": "142.86",
+      "GP": "oil",
+      "S_NO": "25253",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "3100.02",
+      "ITEM": "Vanaspati Oil",
+      "DATE": "2026-09-30",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "20",
+      "RATE": "147.62",
+      "GP": "oil",
+      "S_NO": "25253",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "13800.03",
+      "ITEM": "refind soya oil",
+      "DATE": "2026-10-02",
+      "GSTIN": "09ACNPK3863G1Z9",
+      "QT": "78",
+      "RATE": "168.5",
+      "GP": "oil",
+      "S_NO": "25550",
       "tax": 5,
       "type": "deb"
     }
