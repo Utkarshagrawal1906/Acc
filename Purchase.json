@@ -767,6 +767,30 @@
       "S_NO": "3286",
       "tax": 5,
       "type": "cash"
+    },
+    {
+      "nat": "2760",
+      "ITEM": "SALT (NAMAK)",
+      "DATE": "2026-10-16",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "100",
+      "RATE": "27.6",
+      "GP": "other",
+      "S_NO": "3404",
+      "tax": 0,
+      "type": "cash"
+    },
+    {
+      "nat": "600",
+      "ITEM": "SALT (NAMAK)",
+      "DATE": "2026-10-16",
+      "GSTIN": "09AHPPV3807L2ZI",
+      "QT": "12",
+      "RATE": "50",
+      "GP": "other",
+      "S_NO": "3404",
+      "tax": 0,
+      "type": "cash"
     }
   ],
   "dev_goldiee_agency": [
@@ -6935,6 +6959,114 @@
       "S_NO": "1212",
       "tax": 5,
       "type": "deb"
+    },
+    {
+      "nat": "6520.5",
+      "ITEM": "chat massala 0910",
+      "DATE": "2026-10-17",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "90",
+      "RATE": "69",
+      "GP": "masale",
+      "S_NO": "1718",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "6520.5",
+      "ITEM": "chana masala",
+      "DATE": "2026-10-17",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "90",
+      "RATE": "69",
+      "GP": "masale",
+      "S_NO": "1718",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "6945.75",
+      "ITEM": "meat masala",
+      "DATE": "2026-10-17",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "90",
+      "RATE": "73.5",
+      "GP": "masale",
+      "S_NO": "1718",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "4032",
+      "ITEM": "samber masala",
+      "DATE": "2026-10-17",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "60",
+      "RATE": "64",
+      "GP": "masale",
+      "S_NO": "1718",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "4441.5",
+      "ITEM": "pav bhaji masala",
+      "DATE": "2026-10-17",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "60",
+      "RATE": "70.5",
+      "GP": "masale",
+      "S_NO": "1718",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "1386",
+      "ITEM": "kasoori methi 50gm",
+      "DATE": "2026-10-17",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "30",
+      "RATE": "44",
+      "GP": "masale",
+      "S_NO": "1718",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "5909.4",
+      "ITEM": "deggi mirch 0904",
+      "DATE": "2026-10-17",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "60",
+      "RATE": "93.8",
+      "GP": "masale",
+      "S_NO": "1718",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "3963.75",
+      "ITEM": "loung 0907",
+      "DATE": "2026-10-17",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "5",
+      "RATE": "755",
+      "GP": "masale",
+      "S_NO": "1718",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "7770",
+      "ITEM": "kaju",
+      "DATE": "2026-10-17",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "10",
+      "RATE": "740",
+      "GP": "dry_fruits",
+      "S_NO": "1718",
+      "tax": 5,
+      "type": "deb"
     }
   ],
   "vinod_kumar_pramod_kumar": [
@@ -11207,6 +11339,126 @@
       "RATE": "75.3",
       "GP": "masale",
       "S_NO": "RD/13635",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "7116.86",
+      "ITEM": "kitchen king",
+      "DATE": "2026-10-17",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "90",
+      "RATE": "75.31",
+      "GP": "masale",
+      "S_NO": "RD/13745",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "883.71",
+      "ITEM": "Chicken Masala",
+      "DATE": "2026-10-17",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "12",
+      "RATE": "70.14",
+      "GP": "masale",
+      "S_NO": "RD/13745",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "2209.28",
+      "ITEM": "chat massala 0910",
+      "DATE": "2026-10-17",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "30",
+      "RATE": "70.14",
+      "GP": "masale",
+      "S_NO": "RD/13745",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "2953.45",
+      "ITEM": "deggi mirch 0904",
+      "DATE": "2026-10-17",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "30",
+      "RATE": "93.76",
+      "GP": "masale",
+      "S_NO": "RD/13745",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "1782.82",
+      "ITEM": "pav bhaji masala",
+      "DATE": "2026-10-17",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "24",
+      "RATE": "70.75",
+      "GP": "masale",
+      "S_NO": "RD/13745",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "2207.1",
+      "ITEM": "Chicken Masala",
+      "DATE": "2026-10-25",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "30",
+      "RATE": "70.07",
+      "GP": "masale",
+      "S_NO": "RD/13966",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "2209.29",
+      "ITEM": "chana masala",
+      "DATE": "2026-10-25",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "30",
+      "RATE": "70.14",
+      "GP": "masale",
+      "S_NO": "RD/13966",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "2209.29",
+      "ITEM": "chat massala 0910",
+      "DATE": "2026-10-25",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "30",
+      "RATE": "70.14",
+      "GP": "masale",
+      "S_NO": "RD/13966",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "2371.98",
+      "ITEM": "kitchen king",
+      "DATE": "2026-10-25",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "30",
+      "RATE": "75.3",
+      "GP": "masale",
+      "S_NO": "RD/13966",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "2953.45",
+      "ITEM": "deggi mirch 0904",
+      "DATE": "2026-10-25",
+      "GSTIN": "09AFBPV4545B1ZH",
+      "QT": "30",
+      "RATE": "93.76",
+      "GP": "masale",
+      "S_NO": "RD/13966",
       "tax": 5,
       "type": "deb"
     }
@@ -16557,6 +16809,18 @@
       "S_NO": "257",
       "tax": 5,
       "type": "cash"
+    },
+    {
+      "nat": "4000.03",
+      "ITEM": "desi ghee",
+      "DATE": "2026-10-11",
+      "GSTIN": "09AMPPB4498J1ZF",
+      "QT": "10",
+      "RATE": "380.95",
+      "GP": "oil",
+      "S_NO": "721",
+      "tax": 5,
+      "type": "cash"
     }
   ],
   "warrior_computer": [
@@ -20137,6 +20401,30 @@
       "RATE": "33.5",
       "GP": "atta_maida",
       "S_NO": "B256",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "21750",
+      "ITEM": "atta",
+      "DATE": "2026-10-15",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "750",
+      "RATE": "29",
+      "GP": "atta_maida",
+      "S_NO": "B379",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "23700",
+      "ITEM": "MAIDA",
+      "DATE": "2026-10-15",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "750",
+      "RATE": "31.6",
+      "GP": "atta_maida",
+      "S_NO": "B379",
       "tax": 0,
       "type": "deb"
     }
@@ -26277,6 +26565,90 @@
       "RATE": "90",
       "GP": "dal",
       "S_NO": "622",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "18000",
+      "ITEM": "arhar dal",
+      "DATE": "2026-10-24",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "150",
+      "RATE": "120",
+      "GP": "dal",
+      "S_NO": "688",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "12300",
+      "ITEM": "dal chana",
+      "DATE": "2026-10-24",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "150",
+      "RATE": "82",
+      "GP": "dal",
+      "S_NO": "688",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "13500",
+      "ITEM": "dal moong",
+      "DATE": "2026-10-24",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "150",
+      "RATE": "90",
+      "GP": "dal",
+      "S_NO": "688",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "9900",
+      "ITEM": "rajma",
+      "DATE": "2026-10-24",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "110",
+      "GP": "dal",
+      "S_NO": "688",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "6720",
+      "ITEM": "urad sabut",
+      "DATE": "2026-10-24",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "60",
+      "RATE": "112",
+      "GP": "dal",
+      "S_NO": "688",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "5040",
+      "ITEM": "matar",
+      "DATE": "2026-10-24",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "56",
+      "GP": "dal",
+      "S_NO": "688",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "5400",
+      "ITEM": "moong sb.",
+      "DATE": "2026-10-24",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "60",
+      "RATE": "90",
+      "GP": "dal",
+      "S_NO": "688",
       "tax": 0,
       "type": "deb"
     }
