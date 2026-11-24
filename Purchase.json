@@ -7139,6 +7139,90 @@
       "S_NO": "1718",
       "tax": 5,
       "type": "deb"
+    },
+    {
+      "nat": "7507.5",
+      "ITEM": "kaju",
+      "DATE": "2026-11-20",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "10",
+      "RATE": "715",
+      "GP": "dry_fruits",
+      "S_NO": "2059",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "4515",
+      "ITEM": "kishmish 0806",
+      "DATE": "2026-11-20",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "10",
+      "RATE": "430",
+      "GP": "dry_fruits",
+      "S_NO": "2059",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "4147.5",
+      "ITEM": "badam ming 0802",
+      "DATE": "2026-11-20",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "5",
+      "RATE": "790",
+      "GP": "dry_fruits",
+      "S_NO": "2059",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "4410",
+      "ITEM": "Makhana tax",
+      "DATE": "2026-11-20",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "10",
+      "RATE": "420",
+      "GP": "dry_fruits",
+      "S_NO": "2059",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "9072",
+      "ITEM": "akhrot",
+      "DATE": "2026-11-20",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "12",
+      "RATE": "720",
+      "GP": "dry_fruits",
+      "S_NO": "2059",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "3244.5",
+      "ITEM": "akrot ming 0802",
+      "DATE": "2026-11-20",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "3",
+      "RATE": "1030",
+      "GP": "dry_fruits",
+      "S_NO": "2059",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": "2625",
+      "ITEM": "jeera",
+      "DATE": "2026-11-20",
+      "GSTIN": "09AEXPG6147B1ZA",
+      "QT": "10",
+      "RATE": "250",
+      "GP": "masale",
+      "S_NO": "2059",
+      "tax": 5,
+      "type": "deb"
     }
   ],
   "vinod_kumar_pramod_kumar": [
@@ -7239,6 +7323,18 @@
       "RATE": 160,
       "GP": "oil",
       "S_NO": "4027",
+      "tax": 5,
+      "type": "deb"
+    },
+    {
+      "nat": 8500.0125,
+      "ITEM": "Refind SF Oil",
+      "DATE": "2026-11-19",
+      "GSTIN": "09AGZPA4713F1ZA",
+      "QT": 50,
+      "RATE": 161.905,
+      "GP": "oil",
+      "S_NO": "4953",
       "tax": 5,
       "type": "deb"
     }
@@ -20619,6 +20715,18 @@
       "S_NO": "B379",
       "tax": 0,
       "type": "deb"
+    },
+    {
+      "nat": "45675",
+      "ITEM": "sugar",
+      "DATE": "2026-11-18",
+      "GSTIN": "09AMKPK8096J1Z9",
+      "QT": "750",
+      "RATE": "58",
+      "GP": "sugar_boora",
+      "S_NO": "3172",
+      "tax": 5,
+      "type": "deb"
     }
   ],
   "vtc_tradwings_pvt_ltd": [
@@ -26841,6 +26949,90 @@
       "RATE": "90",
       "GP": "dal",
       "S_NO": "688",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "10800",
+      "ITEM": "arhar dal",
+      "DATE": "2026-11-14",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "120",
+      "GP": "dal",
+      "S_NO": "758",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "9900",
+      "ITEM": "dal masoor",
+      "DATE": "2026-11-14",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "110",
+      "GP": "dal",
+      "S_NO": "758",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "7920",
+      "ITEM": "dal chana",
+      "DATE": "2026-11-14",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "88",
+      "GP": "dal",
+      "S_NO": "758",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "6120",
+      "ITEM": "dal moong",
+      "DATE": "2026-11-14",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "60",
+      "RATE": "102",
+      "GP": "dal",
+      "S_NO": "758",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "9900",
+      "ITEM": "rajma",
+      "DATE": "2026-11-14",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "90",
+      "RATE": "110",
+      "GP": "dal",
+      "S_NO": "758",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "7200",
+      "ITEM": "dal urad",
+      "DATE": "2026-11-14",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "60",
+      "RATE": "120",
+      "GP": "dal",
+      "S_NO": "758",
+      "tax": 0,
+      "type": "deb"
+    },
+    {
+      "nat": "39000",
+      "ITEM": "rice tibar",
+      "DATE": "2026-11-14",
+      "GSTIN": "09ANPPG7149C1ZT",
+      "QT": "600",
+      "RATE": "65",
+      "GP": "rice",
+      "S_NO": "758",
       "tax": 0,
       "type": "deb"
     }
